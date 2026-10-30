@@ -1,0 +1,116 @@
+{
+  "bandeau": "Bienvenue sur AMETWICH ! Le serveur ouvre bientôt : installez le jeu dès maintenant.",
+  "actualites": [
+    {
+      "titre": "Le launcher AMETWICH",
+      "date": "30 octobre 2026",
+      "image": "photos/menu-principal-valombre.jpg",
+      "texte": "Connectez-vous avec votre compte Microsoft et cliquez sur Jouer : le jeu s'installe, se met à jour tout seul et vous emmène directement à Valombre."
+    },
+    {
+      "titre": "Les coffres sur la Grand-Place",
+      "date": "30 octobre 2026",
+      "image": "photos/coffres-grand-place.jpg",
+      "texte": "Le Coffre des votes et le coffre du jour trônent désormais sur leur estrade, entre la fontaine et la cathédrale. Votez avec /vote : une clé par vote, et tous les 50 votes du serveur, la VoteParty récompense chaque joueur connecté."
+    },
+    {
+      "titre": "Valombre vous attend",
+      "date": "24 octobre 2026",
+      "image": "photos/menu-principal-valombre.jpg",
+      "texte": "La cité de Valombre, son château, sa cathédrale et sa grand-place : votre aventure commence ici. Dix-huit métiers, des guildes, des boss maison et des arènes."
+    },
+    {
+      "titre": "Le coffre du jour",
+      "date": "24 octobre 2026",
+      "image": "photos/coffre-du-jour-ouverture.jpg",
+      "texte": "Chaque jour, une clé. Sur la grand-place, ouvrez le coffre du jour : Améthines, pommes d'or et une surprise. Sept jours d'affilée : la grande récompense !"
+    },
+    {
+      "titre": "L'Amulette d'écho",
+      "date": "24 octobre 2026",
+      "image": "photos/amulette-d-echo-radio.jpg",
+      "texte": "Parlez à vos compagnons où qu'ils soient : réglez votre amulette sur une fréquence (0,01 à 99,99) et appuyez sur R."
+    }
+  ],
+  "mises_a_jour": [
+    {
+      "version": "0.1.0",
+      "date": "30 octobre 2026",
+      "titre": "Votes et launcher",
+      "points": [
+        "Connexion Microsoft directement dans le launcher",
+        "Votes : l'heure de vos prochains votes affichée après chaque vote",
+        "VoteParty : tous les 50 votes, une clé et 100 Améthines pour chaque joueur connecté",
+        "Coffres des votes et du jour sur la Grand-Place, sur leur estrade",
+        "Les coffres s'ouvrent enfin dans le bon sens"
+      ]
+    },
+    {
+      "version": "0.1.0",
+      "date": "24 octobre 2026",
+      "titre": "Ouverture d'AMETWICH",
+      "points": [
+        "La cité de Valombre et ses habitants",
+        "18 métiers, l'hôtel des ventes, les guildes et les territoires",
+        "Trois boss maison, la Forge des Légendes, les arènes JcJ",
+        "Chat vocal et Amulette d'écho",
+        "Coffre du jour et statue du champion",
+        "Fenêtres, paramètres et menu principal aux couleurs d'AMETWICH"
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "image": "photos/coffres-grand-place.jpg",
+      "legende": "Les coffres de la Grand-Place"
+    },
+    {
+      "image": "photos/menu-principal-valombre.jpg",
+      "legende": "Valombre"
+    },
+    {
+      "image": "photos/cathedrale-nef.jpg",
+      "legende": "La cathédrale"
+    },
+    {
+      "image": "photos/cathedrale-choeur.jpg",
+      "legende": "Le chœur"
+    },
+    {
+      "image": "photos/forge-des-legendes-crypte.jpg",
+      "legende": "La Forge des Légendes"
+    },
+    {
+      "image": "photos/forge-du-chateau-armurerie.jpg",
+      "legende": "L'armurerie du château"
+    },
+    {
+      "image": "photos/boss-modeles-v2.jpg",
+      "legende": "Les boss"
+    },
+    {
+      "image": "photos/jcj-arene-duel.jpg",
+      "legende": "Les arènes"
+    },
+    {
+      "image": "photos/champs-confins.jpg",
+      "legende": "Les champs de bataille"
+    },
+    {
+      "image": "photos/enseigne-metier-sur-auvent.jpg",
+      "legende": "Les échoppes"
+    },
+    {
+      "image": "photos/poteau-indicateur.jpg",
+      "legende": "Les rues de Valombre"
+    },
+    {
+      "image": "photos/coffre-du-jour-ouverture.jpg",
+      "legende": "Le coffre du jour"
+    },
+    {
+      "image": "photos/amulette-d-echo-radio.jpg",
+      "legende": "L'Amulette d'écho"
+    }
+  ]
+}
