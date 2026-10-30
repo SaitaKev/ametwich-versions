@@ -1,6 +1,14 @@
 {
-  "bandeau": "Bienvenue sur AMETWICH ! Le serveur ouvre bientôt : installez le jeu dès maintenant.",
+  "bandeau": "Recrutement des bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour toutes les informations.",
   "actualites": [
+    {
+      "titre": "Recrutement des bêta-testeurs",
+      "date": "30 octobre 2026",
+      "image": "photos/grand-place.jpg",
+      "texte": "AMETWICH cherche ses bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour les informations de recrutement.",
+      "lien": "https://ametwich.fr/discord",
+      "bouton": "Rejoindre le Discord"
+    },
     {
       "titre": "Le launcher AMETWICH",
       "date": "30 octobre 2026",
@@ -8,10 +16,16 @@
       "texte": "Connectez-vous avec votre compte Microsoft et cliquez sur Jouer : le jeu s'installe, se met à jour tout seul et vous emmène directement à Valombre."
     },
     {
+      "titre": "La Pêche aux Lueurs",
+      "date": "28 octobre 2026",
+      "image": "photos/peche-aux-lueurs-combat.jpg",
+      "texte": "200 poissons à découvrir, 20 leurres et 5 cannes. Quand ça mord, tenez la tension : molette vers le bas pour ramener, vers le haut pour relâcher, sans casser la ligne. Vendez vos prises à la Criée et complétez votre carnet."
+    },
+    {
       "titre": "Les coffres sur la Grand-Place",
       "date": "30 octobre 2026",
       "image": "photos/coffres-grand-place.jpg",
-      "texte": "Le Coffre des votes et le coffre du jour trônent désormais sur leur estrade, entre la fontaine et la cathédrale. Votez avec /vote : une clé par vote, et tous les 50 votes du serveur, la VoteParty récompense chaque joueur connecté."
+      "texte": "Le Coffre des votes et le coffre du jour trônent sur leur estrade, entre la fontaine et la cathédrale. Votez avec /vote : une clé par vote, et tous les 50 votes du serveur, la VoteParty récompense chaque joueur connecté."
     },
     {
       "titre": "Valombre vous attend",
@@ -34,15 +48,67 @@
   ],
   "mises_a_jour": [
     {
-      "version": "0.1.0",
+      "version": "0.1.4",
       "date": "30 octobre 2026",
-      "titre": "Votes et launcher",
+      "titre": "Launcher, votes et échanges",
       "points": [
-        "Connexion Microsoft directement dans le launcher",
-        "Votes : l'heure de vos prochains votes affichée après chaque vote",
-        "VoteParty : tous les 50 votes, une clé et 100 Améthines pour chaque joueur connecté",
-        "Coffres des votes et du jour sur la Grand-Place, sur leur estrade",
-        "Les coffres s'ouvrent enfin dans le bon sens"
+        "Launcher AMETWICH : connexion avec votre compte Microsoft, Jouer lance directement le jeu sur le serveur",
+        "Mises à jour automatiques du jeu à chaque lancement",
+        "Le jeu est réservé à AMETWICH : plus de Solo ni de Realms",
+        "Votes (/vote) : une clé par vote, l'heure de vos prochains votes, la VoteParty tous les 50 votes du serveur",
+        "Coffres des votes et du jour sur la Grand-Place, sur leur estrade, et qui s'ouvrent dans le bon sens",
+        "Contrat d'échange entre joueurs, façon World of Warcraft (menu Échap › Échanges)",
+        "Transmogrification : épaules, cape, chemise, tabard, poignets, mains, taille, et les armures Minecraft à débloquer",
+        "Expéditions à trois difficultés, nouvelles énigmes et gardiens AMETWICH",
+        "La Fracture : un biome rare et dangereux dans le monde Ressources",
+        "Grande carte de Valombre et minimap (touche M), horloge, ping dans le TAB",
+        "Tutoriel pas à pas de l'atelier pour les débutants",
+        "Les maîtres de métier restent toujours à leur comptoir, les apprentis travaillent plus calmement"
+      ]
+    },
+    {
+      "version": "0.1.3",
+      "date": "29 octobre 2026",
+      "titre": "Vitrines, Hall de guerre et émotes",
+      "points": [
+        "Vitrines de marchand : ouvrez votre propre boutique dans le monde Survie",
+        "Hall de guerre : le musée des armures et des armes de Valombre",
+        "Émotes : la roue sur G, 13 poses visibles par tous",
+        "Visite guidée revue, avec de nouveaux arrêts",
+        "Menu Échap › Valeurs : le prix minimum de chaque objet",
+        "Armes rééquilibrées : les légendaires au-dessus du T5"
+      ]
+    },
+    {
+      "version": "0.1.2",
+      "date": "28 octobre 2026",
+      "titre": "La Pêche aux Lueurs et les ensembles en relief",
+      "points": [
+        "La Pêche aux Lueurs : 200 poissons, 20 leurres, 5 cannes, combat à la tension, la Criée, le carnet et les records",
+        "80 meubles d'artisan à poser chez vous",
+        "Ensembles T1 à T5 et JcJ S1 à S5 redessinés en relief pour les quatre classes ; armes et boucliers en 3D",
+        "Fenêtre du personnage façon WoW : douze emplacements d'équipement",
+        "Masquer l'apparence d'une pièce d'armure",
+        "Ambidextre : une arme dans chaque main",
+        "Fêtes des saisons à la japonaise, avec leurs quêtes, titres et compagnons",
+        "Codex : créatures en 3D et photos des lieux ; menu Échap › Info Joueur",
+        "Mode photo et appareil photo",
+        "Structures à explorer dans le monde Ressources"
+      ]
+    },
+    {
+      "version": "0.1.1",
+      "date": "27 octobre 2026",
+      "titre": "La Citadelle de Valombre",
+      "points": [
+        "Une nouvelle Valombre : citadelle, ravin, pont-levis et château-cathédrale",
+        "La chaumière d'arrivée, le Hall d'Honneur, les faubourgs et le lac des pêcheurs",
+        "Les ateliers des 18 métiers refaits, avec leurs apprentis",
+        "La Forge-Profonde sous Valombre et la Salle des Portails",
+        "Le Grand Tableau public des contrats",
+        "Des habitants : Brunehaut la Forgeronne, Gauvin le Tavernier, le sergent Odon",
+        "La quête des Premiers pas pour bien commencer",
+        "Les redémarrages annoncés par les crieurs de la ville"
       ]
     },
     {
@@ -61,8 +127,20 @@
   ],
   "photos": [
     {
+      "image": "photos/peche-aux-lueurs-combat.jpg",
+      "legende": "La Pêche aux Lueurs"
+    },
+    {
+      "image": "photos/peche-aux-lueurs-prise.jpg",
+      "legende": "Une belle prise"
+    },
+    {
       "image": "photos/coffres-grand-place.jpg",
       "legende": "Les coffres de la Grand-Place"
+    },
+    {
+      "image": "photos/grand-place.jpg",
+      "legende": "La Grand-Place"
     },
     {
       "image": "photos/menu-principal-valombre.jpg",
@@ -112,5 +190,7 @@
       "image": "photos/amulette-d-echo-radio.jpg",
       "legende": "L'Amulette d'écho"
     }
-  ]
+  ],
+  "bandeau_lien": "https://ametwich.fr/discord",
+  "bandeau_bouton": "Rejoindre le Discord"
 }
