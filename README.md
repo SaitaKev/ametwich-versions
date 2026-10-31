@@ -12,3 +12,7 @@ Pour jouer : téléchargez le launcher sur https://ametwich.fr.
 (c) 2026 AMETWICH - SaitaKev. Tous droits réservés. Ces fichiers ne sont fournis que pour jouer
 sur le serveur AMETWICH ; toute copie, modification, redistribution ou réutilisation est interdite
 sans autorisation écrite.
+
+## Télécharger le jeu
+
+Le launcher AMETWICH (Windows) : https://github.com/SaitaKev/ametwich-versions/raw/main/AMETWICH-Launcher.exe
