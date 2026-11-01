@@ -1,341 +1,353 @@
 {
- "bandeau": "Recrutement des bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour toutes les informations.",
- "actualites": [
-  {
-   "titre": "Recrutement des bêta-testeurs",
-   "date": "30 octobre 2026",
-   "image": "photos/grand-place.jpg",
-   "texte": "AMETWICH cherche ses bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour les informations de recrutement.",
-   "lien": "https://ametwich.fr/discord",
-   "bouton": "Rejoindre le Discord"
-  },
-  {
-   "titre": "La banque de guilde s'agrandit",
-   "date": "1er novembre 2026",
-   "image": "photos/banque-de-guilde-4-coffres.jpg",
-   "texte": "Jusqu'à quatre coffres de 27 places par guilde ! Le chef achète les suivants d'un clic, puis choisit, coffre par coffre et grade par grade, qui peut voir, déposer ou retirer."
-  },
-  {
-   "titre": "Les Potions du guerrier",
-   "date": "1er novembre 2026",
-   "image": "photos/arene-duel.jpg",
-   "texte": "Trois potions d'arène préparées par l'Alchimiste. En arène JcJ, ce sont les seules qui soignent, et une seule par combat : à vous de choisir la bonne au bon moment."
-  },
-  {
-   "titre": "Les armes de votre guilde",
-   "date": "1er novembre 2026",
-   "image": "photos/tabard-de-guilde-apercu.jpg",
-   "texte": "Symbole, couleur du fond, couleur du symbole : l'aperçu du tabard se redessine à chaque clic dans Échap › Guilde."
-  },
-  {
-   "titre": "L'atelier des bâtisseurs",
-   "date": "1er novembre 2026",
-   "image": "photos/atelier-compact-apercu.jpg",
-   "texte": "L'atelier compact laisse voir le monde pendant la construction, et chaque ouvrage se montre en transparence avant d'être posé : Entrée pour valider, Retour arrière pour annuler."
-  },
-  {
-   "titre": "Le Hall de guerre",
-   "date": "1er novembre 2026",
-   "image": "photos/hall-de-guerre.jpg",
-   "texte": "Quarante mannequins en armure, des râteliers d'armes et les légendaires sous bonne garde : venez admirer chaque ensemble, du premier tier au champion des arènes, et lire ses statistiques."
-  },
-  {
-   "titre": "Les profondeurs de la Forge",
-   "date": "1er novembre 2026",
-   "image": "photos/forge-profonde-gouffre.jpg",
-   "texte": "Sous la Salle des Portails, la Forge-Profonde enjambe un gouffre de lave. C'est d'ici que partent les portails vers la Survie, les Ressources, les Arènes et les Repaires."
-  },
-  {
-   "titre": "Le launcher AMETWICH",
-   "date": "30 octobre 2026",
-   "image": "photos/menu-principal-valombre.jpg",
-   "texte": "Connectez-vous avec votre compte Microsoft et cliquez sur Jouer : le jeu s'installe, se met à jour tout seul et vous emmène directement à Valombre."
-  },
-  {
-   "titre": "La Pêche aux Lueurs",
-   "date": "28 octobre 2026",
-   "image": "photos/peche-aux-lueurs-combat.jpg",
-   "texte": "200 poissons à découvrir, 20 leurres et 5 cannes. Quand ça mord, tenez la tension : molette vers le bas pour ramener, vers le haut pour relâcher, sans casser la ligne. Vendez vos prises à la Criée et complétez votre carnet."
-  },
-  {
-   "titre": "Les coffres sur la Grand-Place",
-   "date": "30 octobre 2026",
-   "image": "photos/coffres-grand-place.jpg",
-   "texte": "Le Coffre des votes et le coffre du jour trônent sur leur estrade, entre la fontaine et la cathédrale. Votez avec /vote : une clé par vote, et tous les 50 votes du serveur, la VoteParty récompense chaque joueur connecté."
-  },
-  {
-   "titre": "Valombre vous attend",
-   "date": "24 octobre 2026",
-   "image": "photos/menu-principal-valombre.jpg",
-   "texte": "La cité de Valombre, son château, sa cathédrale et sa grand-place : votre aventure commence ici. Dix-huit métiers, des guildes, des boss maison et des arènes."
-  },
-  {
-   "titre": "Le coffre du jour",
-   "date": "24 octobre 2026",
-   "image": "photos/coffre-du-jour-ouverture.jpg",
-   "texte": "Chaque jour, une clé. Sur la grand-place, ouvrez le coffre du jour : Améthines, pommes d'or et une surprise. Sept jours d'affilée : la grande récompense !"
-  },
-  {
-   "titre": "L'Amulette d'écho",
-   "date": "24 octobre 2026",
-   "image": "photos/amulette-d-echo-radio.jpg",
-   "texte": "Parlez à vos compagnons où qu'ils soient : réglez votre amulette sur une fréquence (0,01 à 99,99) et appuyez sur R."
-  }
- ],
- "mises_a_jour": [
-  {
-   "version": "0.1.10",
-   "date": "1er novembre 2026",
-   "titre": "Arènes, guildes et launcher",
-   "points": [
-    "Potions du guerrier I, II et III (Alchimiste) : en arène JcJ, les seules potions qui soignent, une seule par combat",
-    "En arène, les autres potions de soin sont sans effet ; force, vitesse et pommes dorées marchent toujours",
-    "Wiki (Échap › Astuces & Tutos) : un onglet Guildes et les recettes des Potions du guerrier",
-    "Monde Animation : le décor est protégé des visiteurs",
-    "Launcher : des flèches pour passer d'une actualité à l'autre"
-   ]
-  },
-  {
-   "version": "0.1.9",
-   "date": "1er novembre 2026",
-   "titre": "L'atelier des bâtisseurs",
-   "points": [
-    "Launcher : un bouton « Actualiser » pour chercher les mises à jour sans le fermer",
-    "Atelier compact : une colonne à droite de l'écran, le monde reste visible pendant la construction",
-    "Chaque ouvrage se montre en transparence avant d'être posé : Valider ou Annuler",
-    "Dans le monde : Entrée valide l'aperçu, Retour arrière l'annule (touches réglables)",
-    "Une nouvelle leçon « L'aperçu » dans l'onglet Apprendre de l'atelier"
-   ]
-  },
-  {
-   "version": "0.1.8",
-   "date": "1er novembre 2026",
-   "titre": "Banque de guilde, aperçus et corrections",
-   "points": [
-    "Banque de guilde : jusqu'à 4 coffres de 27 places, avec les droits de chaque coffre réglés par le chef",
-    "Tabard de guilde : un aperçu de vos armes dans Échap › Guilde",
-    "Maison des Apparences : un clic pour voir, « Valider » pour payer (prix affiché)",
-    "Chat : /g, /p et /w tapés depuis n'importe quel onglet arrivent dans le bon onglet",
-    "La vie de votre monture s'affiche au-dessus de la barre de faim",
-    "Grand Tableau : Échap ne le rouvre plus une fois fermé",
-    "Le coffre du jour porte son nom sur la Grand-Place",
-    "Menus : les longues phrases vont à la ligne ; image des plans au Codex",
-    "Bâtisseurs : l'atelier montre chaque ouvrage en transparence avant de le poser"
-   ]
-  },
-  {
-   "version": "0.1.7",
-   "date": "1er novembre 2026",
-   "titre": "Les mises à jour, avec votre accord",
-   "points": [
-    "Rien ne s'installe sans votre accord : le launcher demande « Mettre à jour » ou « Plus tard »",
-    "La même question pour le jeu, dans le launcher puis sur l'écran titre du jeu",
-    "Avec « Plus tard », vous jouez avec la version déjà installée (une version trop ancienne peut être refusée par le serveur)",
-    "Chaque fichier téléchargé est vérifié avant d'être installé"
-   ]
-  },
-  {
-   "version": "0.1.6",
-   "date": "1er novembre 2026",
-   "titre": "Perks au choix et mentions légales",
-   "points": [
-    "Perks : choisissez jusqu'à 3 perks actifs dans Échap › Mon chemin",
-    "Un message vous prévient quand vos perks se mettent en pause (arènes, repaires, expéditions, duels) et quand ils reprennent",
-    "Lune de sang : la Force I se met en pause dans le monde Ressources, pour des combats équitables",
-    "Le menu Échap du staff affiche tous ses onglets",
-    "« Serveur non officiel, non affilié à Mojang ni à Microsoft » dans le launcher et sur l'écran titre"
-   ]
-  },
-  {
-   "version": "0.1.5",
-   "date": "1er novembre 2026",
-   "titre": "Bibliothèque, armures d'antan et transparence",
-   "points": [
-    "Bibliothèque du lecteur (Ébéniste) : rangez jusqu'à 27 livres, les étagères se remplissent sous vos yeux",
-    "51 livres à découvrir et à restaurer au pinceau, dont les Chroniques d'Ametwich, Tome I",
-    "Armures d'apparence des civilisations, à trouver au hasard dans les coffres et les fouilles du monde Ressources : gladiateur, légionnaire romain, jarl viking, hoplite spartiate, samouraï, garde du pharaon",
-    "Transparence totale : la chance exacte de chaque objet du coffre de la boutique (Boutique › Toutes les chances, ou /chances)",
-    "Groupes façon MMORPG : cadres de vie des membres à l'écran, onglet Groupe du chat",
-    "Ascenseurs, labyrinthe vivant, réputation et chasseurs de primes, défis de la communauté, jardins alchimiques",
-    "Lune de sang : plus de voile rouge sur l'écran"
-   ]
-  },
-  {
-   "version": "0.1.4",
-   "date": "30 octobre 2026",
-   "titre": "Launcher, votes et échanges",
-   "points": [
-    "Launcher AMETWICH : connexion avec votre compte Microsoft, Jouer lance directement le jeu sur le serveur",
-    "Mises à jour automatiques du jeu à chaque lancement",
-    "Le jeu est réservé à AMETWICH : plus de Solo ni de Realms",
-    "Votes (/vote) : une clé par vote, l'heure de vos prochains votes, la VoteParty tous les 50 votes du serveur",
-    "Coffres des votes et du jour sur la Grand-Place, sur leur estrade, et qui s'ouvrent dans le bon sens",
-    "Contrat d'échange pour sécuriser les échanges entre joueurs (menu Échap › Échanges)",
-    "Transmogrification : épaules, cape, chemise, tabard, poignets, mains, taille, et les armures Minecraft à débloquer",
-    "Expéditions à trois difficultés, nouvelles énigmes et gardiens AMETWICH",
-    "La Fracture : un biome rare et dangereux dans le monde Ressources",
-    "Grande carte de Valombre (touche M) et minimap (touche Y), horloge, ping dans le TAB ; toutes les touches réglables dans Paramètres › AMETWICH",
-    "Tutoriel pas à pas de l'atelier pour les débutants",
-    "Les maîtres de métier restent toujours à leur comptoir, les apprentis travaillent plus calmement"
-   ]
-  },
-  {
-   "version": "0.1.3",
-   "date": "29 octobre 2026",
-   "titre": "Vitrines, Hall de guerre et émotes",
-   "points": [
-    "Vitrines de marchand : ouvrez votre propre boutique dans le monde Survie",
-    "Hall de guerre : le musée des armures et des armes de Valombre",
-    "Émotes : la roue sur G, 13 poses visibles par tous",
-    "Visite guidée revue, avec de nouveaux arrêts",
-    "Menu Échap › Valeurs : le prix minimum de chaque objet",
-    "Armes rééquilibrées : les légendaires au-dessus du T5"
-   ]
-  },
-  {
-   "version": "0.1.2",
-   "date": "28 octobre 2026",
-   "titre": "La Pêche aux Lueurs et les ensembles en relief",
-   "points": [
-    "La Pêche aux Lueurs : 200 poissons, 20 leurres, 5 cannes, combat à la tension, la Criée, le carnet et les records",
-    "80 meubles d'artisan à poser chez vous",
-    "Ensembles T1 à T5 et JcJ S1 à S5 redessinés en relief pour les quatre classes ; armes et boucliers en 3D",
-    "Fenêtre du personnage façon MMORPG : douze emplacements d'équipement",
-    "Masquer l'apparence d'une pièce d'armure",
-    "Ambidextre : une arme dans chaque main",
-    "Fêtes des saisons à la japonaise, avec leurs quêtes, titres et compagnons",
-    "Codex : créatures en 3D et photos des lieux ; menu Échap › Info Joueur",
-    "Mode photo et appareil photo",
-    "Structures à explorer dans le monde Ressources"
-   ]
-  },
-  {
-   "version": "0.1.1",
-   "date": "27 octobre 2026",
-   "titre": "La Citadelle de Valombre",
-   "points": [
-    "Une nouvelle Valombre : citadelle, ravin, pont-levis et château-cathédrale",
-    "La chaumière d'arrivée, le Hall d'Honneur, les faubourgs et le lac des pêcheurs",
-    "Les ateliers des 18 métiers refaits, avec leurs apprentis",
-    "La Forge-Profonde sous Valombre et la Salle des Portails",
-    "Le Grand Tableau public des contrats",
-    "Des habitants : Brunehaut la Forgeronne, Gauvin le Tavernier, le sergent Odon",
-    "La quête des Premiers pas pour bien commencer",
-    "Les redémarrages annoncés par les crieurs de la ville"
-   ]
-  },
-  {
-   "version": "0.1.0",
-   "date": "24 octobre 2026",
-   "titre": "Ouverture d'AMETWICH",
-   "points": [
-    "La cité de Valombre et ses habitants",
-    "18 métiers, l'hôtel des ventes, les guildes et les territoires",
-    "Trois boss maison, la Forge des Légendes, les arènes JcJ",
-    "Chat vocal et Amulette d'écho",
-    "Coffre du jour et statue du champion",
-    "Fenêtres, paramètres et menu principal aux couleurs d'AMETWICH"
-   ]
-  }
- ],
- "photos": [
-  {
-   "image": "photos/banque-de-guilde-4-coffres.jpg",
-   "legende": "La banque de guilde et ses 4 coffres"
-  },
-  {
-   "image": "photos/arene-duel.jpg",
-   "legende": "Un duel dans l'arène"
-  },
-  {
-   "image": "photos/tabard-de-guilde-apercu.jpg",
-   "legende": "Les armes de la guilde"
-  },
-  {
-   "image": "photos/atelier-compact-apercu.jpg",
-   "legende": "L'atelier compact des bâtisseurs"
-  },
-  {
-   "image": "photos/maison-des-apparences-valider.jpg",
-   "legende": "La Maison des Apparences"
-  },
-  {
-   "image": "photos/monture-vie-au-dessus.jpg",
-   "legende": "En selle !"
-  },
-  {
-   "image": "photos/hall-de-guerre.jpg",
-   "legende": "Le Hall de guerre"
-  },
-  {
-   "image": "photos/forge-profonde-gouffre.jpg",
-   "legende": "Les profondeurs de la Forge"
-  },
-  {
-   "image": "photos/peche-aux-lueurs-combat.jpg",
-   "legende": "La Pêche aux Lueurs"
-  },
-  {
-   "image": "photos/peche-aux-lueurs-prise.jpg",
-   "legende": "Une belle prise"
-  },
-  {
-   "image": "photos/coffres-grand-place.jpg",
-   "legende": "Les coffres de la Grand-Place"
-  },
-  {
-   "image": "photos/grand-place.jpg",
-   "legende": "La Grand-Place"
-  },
-  {
-   "image": "photos/menu-principal-valombre.jpg",
-   "legende": "Valombre"
-  },
-  {
-   "image": "photos/cathedrale-nef.jpg",
-   "legende": "La cathédrale"
-  },
-  {
-   "image": "photos/cathedrale-choeur.jpg",
-   "legende": "Le chœur"
-  },
-  {
-   "image": "photos/forge-des-legendes-crypte.jpg",
-   "legende": "La Forge des Légendes"
-  },
-  {
-   "image": "photos/forge-du-chateau-armurerie.jpg",
-   "legende": "L'armurerie du château"
-  },
-  {
-   "image": "photos/boss-modeles-v2.jpg",
-   "legende": "Les boss"
-  },
-  {
-   "image": "photos/jcj-arene-duel.jpg",
-   "legende": "Les arènes"
-  },
-  {
-   "image": "photos/champs-confins.jpg",
-   "legende": "Les champs de bataille"
-  },
-  {
-   "image": "photos/enseigne-metier-sur-auvent.jpg",
-   "legende": "Les échoppes"
-  },
-  {
-   "image": "photos/poteau-indicateur.jpg",
-   "legende": "Les rues de Valombre"
-  },
-  {
-   "image": "photos/coffre-du-jour-ouverture.jpg",
-   "legende": "Le coffre du jour"
-  },
-  {
-   "image": "photos/amulette-d-echo-radio.jpg",
-   "legende": "L'Amulette d'écho"
-  }
- ],
- "bandeau_lien": "https://ametwich.fr/discord",
- "bandeau_bouton": "Rejoindre le Discord"
+  "bandeau": "Recrutement des bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour toutes les informations.",
+  "actualites": [
+    {
+      "titre": "Recrutement des bêta-testeurs",
+      "date": "30 octobre 2026",
+      "image": "photos/grand-place.jpg",
+      "texte": "AMETWICH cherche ses bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour les informations de recrutement.",
+      "lien": "https://ametwich.fr/discord",
+      "bouton": "Rejoindre le Discord"
+    },
+    {
+      "titre": "La banque de guilde s'agrandit",
+      "date": "1er novembre 2026",
+      "image": "photos/banque-de-guilde-4-coffres.jpg",
+      "texte": "Jusqu'à quatre coffres de 27 places par guilde ! Le chef achète les suivants d'un clic, puis choisit, coffre par coffre et grade par grade, qui peut voir, déposer ou retirer."
+    },
+    {
+      "titre": "Les Potions du guerrier",
+      "date": "1er novembre 2026",
+      "image": "photos/arene-duel.jpg",
+      "texte": "Trois potions d'arène préparées par l'Alchimiste. En arène JcJ, ce sont les seules qui soignent, et une seule par combat : à vous de choisir la bonne au bon moment."
+    },
+    {
+      "titre": "Les armes de votre guilde",
+      "date": "1er novembre 2026",
+      "image": "photos/tabard-de-guilde-apercu.jpg",
+      "texte": "Symbole, couleur du fond, couleur du symbole : l'aperçu du tabard se redessine à chaque clic dans Échap › Guilde."
+    },
+    {
+      "titre": "L'atelier des bâtisseurs",
+      "date": "1er novembre 2026",
+      "image": "photos/atelier-compact-apercu.jpg",
+      "texte": "L'atelier compact laisse voir le monde pendant la construction, et chaque ouvrage se montre en transparence avant d'être posé : Entrée pour valider, Retour arrière pour annuler."
+    },
+    {
+      "titre": "Le Hall de guerre",
+      "date": "1er novembre 2026",
+      "image": "photos/hall-de-guerre.jpg",
+      "texte": "Quarante mannequins en armure, des râteliers d'armes et les légendaires sous bonne garde : venez admirer chaque ensemble, du premier tier au champion des arènes, et lire ses statistiques."
+    },
+    {
+      "titre": "Les profondeurs de la Forge",
+      "date": "1er novembre 2026",
+      "image": "photos/forge-profonde-gouffre.jpg",
+      "texte": "Sous la Salle des Portails, la Forge-Profonde enjambe un gouffre de lave. C'est d'ici que partent les portails vers la Survie, les Ressources, les Arènes et les Repaires."
+    },
+    {
+      "titre": "Le launcher AMETWICH",
+      "date": "30 octobre 2026",
+      "image": "photos/menu-principal-valombre.jpg",
+      "texte": "Connectez-vous avec votre compte Microsoft et cliquez sur Jouer : le jeu s'installe, se met à jour tout seul et vous emmène directement à Valombre."
+    },
+    {
+      "titre": "La Pêche aux Lueurs",
+      "date": "28 octobre 2026",
+      "image": "photos/peche-aux-lueurs-combat.jpg",
+      "texte": "200 poissons à découvrir, 20 leurres et 5 cannes. Quand ça mord, tenez la tension : molette vers le bas pour ramener, vers le haut pour relâcher, sans casser la ligne. Vendez vos prises à la Criée et complétez votre carnet."
+    },
+    {
+      "titre": "Les coffres sur la Grand-Place",
+      "date": "30 octobre 2026",
+      "image": "photos/coffres-grand-place.jpg",
+      "texte": "Le Coffre des votes et le coffre du jour trônent sur leur estrade, entre la fontaine et la cathédrale. Votez avec /vote : une clé par vote, et tous les 50 votes du serveur, la VoteParty récompense chaque joueur connecté."
+    },
+    {
+      "titre": "Valombre vous attend",
+      "date": "24 octobre 2026",
+      "image": "photos/menu-principal-valombre.jpg",
+      "texte": "La cité de Valombre, son château, sa cathédrale et sa grand-place : votre aventure commence ici. Dix-huit métiers, des guildes, des boss maison et des arènes."
+    },
+    {
+      "titre": "Le coffre du jour",
+      "date": "24 octobre 2026",
+      "image": "photos/coffre-du-jour-ouverture.jpg",
+      "texte": "Chaque jour, une clé. Sur la grand-place, ouvrez le coffre du jour : Améthines, pommes d'or et une surprise. Sept jours d'affilée : la grande récompense !"
+    },
+    {
+      "titre": "L'Amulette d'écho",
+      "date": "24 octobre 2026",
+      "image": "photos/amulette-d-echo-radio.jpg",
+      "texte": "Parlez à vos compagnons où qu'ils soient : réglez votre amulette sur une fréquence (0,01 à 99,99) et appuyez sur R."
+    }
+  ],
+  "mises_a_jour": [
+    {
+      "version": "0.1.11",
+      "date": "1er novembre 2026",
+      "titre": "Les shaders en un clic",
+      "points": [
+        "Launcher : nouvel onglet « Shaders » avec six shaders gratuits, du plus léger au plus beau (MakeUp, Complementary, BSL, Photon, Bliss)",
+        "Un clic sur Installer : le launcher installe tout seul Iris, Sodium et le shader, sans passer par un autre site",
+        "Changer de shader, les couper ou les retirer d'un clic ; le dernier retiré enlève aussi Iris et Sodium",
+        "Dans le jeu, la touche O ouvre la liste des shaders",
+        "Photos des auteurs pour comparer les rendus avant de choisir"
+      ]
+    },
+    {
+      "version": "0.1.10",
+      "date": "1er novembre 2026",
+      "titre": "Arènes, guildes et launcher",
+      "points": [
+        "Potions du guerrier I, II et III (Alchimiste) : en arène JcJ, les seules potions qui soignent, une seule par combat",
+        "En arène, les autres potions de soin sont sans effet ; force, vitesse et pommes dorées marchent toujours",
+        "Wiki (Échap › Astuces & Tutos) : un onglet Guildes et les recettes des Potions du guerrier",
+        "Monde Animation : le décor est protégé des visiteurs",
+        "Launcher : des flèches pour passer d'une actualité à l'autre"
+      ]
+    },
+    {
+      "version": "0.1.9",
+      "date": "1er novembre 2026",
+      "titre": "L'atelier des bâtisseurs",
+      "points": [
+        "Launcher : un bouton « Actualiser » pour chercher les mises à jour sans le fermer",
+        "Atelier compact : une colonne à droite de l'écran, le monde reste visible pendant la construction",
+        "Chaque ouvrage se montre en transparence avant d'être posé : Valider ou Annuler",
+        "Dans le monde : Entrée valide l'aperçu, Retour arrière l'annule (touches réglables)",
+        "Une nouvelle leçon « L'aperçu » dans l'onglet Apprendre de l'atelier"
+      ]
+    },
+    {
+      "version": "0.1.8",
+      "date": "1er novembre 2026",
+      "titre": "Banque de guilde, aperçus et corrections",
+      "points": [
+        "Banque de guilde : jusqu'à 4 coffres de 27 places, avec les droits de chaque coffre réglés par le chef",
+        "Tabard de guilde : un aperçu de vos armes dans Échap › Guilde",
+        "Maison des Apparences : un clic pour voir, « Valider » pour payer (prix affiché)",
+        "Chat : /g, /p et /w tapés depuis n'importe quel onglet arrivent dans le bon onglet",
+        "La vie de votre monture s'affiche au-dessus de la barre de faim",
+        "Grand Tableau : Échap ne le rouvre plus une fois fermé",
+        "Le coffre du jour porte son nom sur la Grand-Place",
+        "Menus : les longues phrases vont à la ligne ; image des plans au Codex",
+        "Bâtisseurs : l'atelier montre chaque ouvrage en transparence avant de le poser"
+      ]
+    },
+    {
+      "version": "0.1.7",
+      "date": "1er novembre 2026",
+      "titre": "Les mises à jour, avec votre accord",
+      "points": [
+        "Rien ne s'installe sans votre accord : le launcher demande « Mettre à jour » ou « Plus tard »",
+        "La même question pour le jeu, dans le launcher puis sur l'écran titre du jeu",
+        "Avec « Plus tard », vous jouez avec la version déjà installée (une version trop ancienne peut être refusée par le serveur)",
+        "Chaque fichier téléchargé est vérifié avant d'être installé"
+      ]
+    },
+    {
+      "version": "0.1.6",
+      "date": "1er novembre 2026",
+      "titre": "Perks au choix et mentions légales",
+      "points": [
+        "Perks : choisissez jusqu'à 3 perks actifs dans Échap › Mon chemin",
+        "Un message vous prévient quand vos perks se mettent en pause (arènes, repaires, expéditions, duels) et quand ils reprennent",
+        "Lune de sang : la Force I se met en pause dans le monde Ressources, pour des combats équitables",
+        "Le menu Échap du staff affiche tous ses onglets",
+        "« Serveur non officiel, non affilié à Mojang ni à Microsoft » dans le launcher et sur l'écran titre"
+      ]
+    },
+    {
+      "version": "0.1.5",
+      "date": "1er novembre 2026",
+      "titre": "Bibliothèque, armures d'antan et transparence",
+      "points": [
+        "Bibliothèque du lecteur (Ébéniste) : rangez jusqu'à 27 livres, les étagères se remplissent sous vos yeux",
+        "51 livres à découvrir et à restaurer au pinceau, dont les Chroniques d'Ametwich, Tome I",
+        "Armures d'apparence des civilisations, à trouver au hasard dans les coffres et les fouilles du monde Ressources : gladiateur, légionnaire romain, jarl viking, hoplite spartiate, samouraï, garde du pharaon",
+        "Transparence totale : la chance exacte de chaque objet du coffre de la boutique (Boutique › Toutes les chances, ou /chances)",
+        "Groupes façon MMORPG : cadres de vie des membres à l'écran, onglet Groupe du chat",
+        "Ascenseurs, labyrinthe vivant, réputation et chasseurs de primes, défis de la communauté, jardins alchimiques",
+        "Lune de sang : plus de voile rouge sur l'écran"
+      ]
+    },
+    {
+      "version": "0.1.4",
+      "date": "30 octobre 2026",
+      "titre": "Launcher, votes et échanges",
+      "points": [
+        "Launcher AMETWICH : connexion avec votre compte Microsoft, Jouer lance directement le jeu sur le serveur",
+        "Mises à jour automatiques du jeu à chaque lancement",
+        "Le jeu est réservé à AMETWICH : plus de Solo ni de Realms",
+        "Votes (/vote) : une clé par vote, l'heure de vos prochains votes, la VoteParty tous les 50 votes du serveur",
+        "Coffres des votes et du jour sur la Grand-Place, sur leur estrade, et qui s'ouvrent dans le bon sens",
+        "Contrat d'échange pour sécuriser les échanges entre joueurs (menu Échap › Échanges)",
+        "Transmogrification : épaules, cape, chemise, tabard, poignets, mains, taille, et les armures Minecraft à débloquer",
+        "Expéditions à trois difficultés, nouvelles énigmes et gardiens AMETWICH",
+        "La Fracture : un biome rare et dangereux dans le monde Ressources",
+        "Grande carte de Valombre (touche M) et minimap (touche Y), horloge, ping dans le TAB ; toutes les touches réglables dans Paramètres › AMETWICH",
+        "Tutoriel pas à pas de l'atelier pour les débutants",
+        "Les maîtres de métier restent toujours à leur comptoir, les apprentis travaillent plus calmement"
+      ]
+    },
+    {
+      "version": "0.1.3",
+      "date": "29 octobre 2026",
+      "titre": "Vitrines, Hall de guerre et émotes",
+      "points": [
+        "Vitrines de marchand : ouvrez votre propre boutique dans le monde Survie",
+        "Hall de guerre : le musée des armures et des armes de Valombre",
+        "Émotes : la roue sur G, 13 poses visibles par tous",
+        "Visite guidée revue, avec de nouveaux arrêts",
+        "Menu Échap › Valeurs : le prix minimum de chaque objet",
+        "Armes rééquilibrées : les légendaires au-dessus du T5"
+      ]
+    },
+    {
+      "version": "0.1.2",
+      "date": "28 octobre 2026",
+      "titre": "La Pêche aux Lueurs et les ensembles en relief",
+      "points": [
+        "La Pêche aux Lueurs : 200 poissons, 20 leurres, 5 cannes, combat à la tension, la Criée, le carnet et les records",
+        "80 meubles d'artisan à poser chez vous",
+        "Ensembles T1 à T5 et JcJ S1 à S5 redessinés en relief pour les quatre classes ; armes et boucliers en 3D",
+        "Fenêtre du personnage façon MMORPG : douze emplacements d'équipement",
+        "Masquer l'apparence d'une pièce d'armure",
+        "Ambidextre : une arme dans chaque main",
+        "Fêtes des saisons à la japonaise, avec leurs quêtes, titres et compagnons",
+        "Codex : créatures en 3D et photos des lieux ; menu Échap › Info Joueur",
+        "Mode photo et appareil photo",
+        "Structures à explorer dans le monde Ressources"
+      ]
+    },
+    {
+      "version": "0.1.1",
+      "date": "27 octobre 2026",
+      "titre": "La Citadelle de Valombre",
+      "points": [
+        "Une nouvelle Valombre : citadelle, ravin, pont-levis et château-cathédrale",
+        "La chaumière d'arrivée, le Hall d'Honneur, les faubourgs et le lac des pêcheurs",
+        "Les ateliers des 18 métiers refaits, avec leurs apprentis",
+        "La Forge-Profonde sous Valombre et la Salle des Portails",
+        "Le Grand Tableau public des contrats",
+        "Des habitants : Brunehaut la Forgeronne, Gauvin le Tavernier, le sergent Odon",
+        "La quête des Premiers pas pour bien commencer",
+        "Les redémarrages annoncés par les crieurs de la ville"
+      ]
+    },
+    {
+      "version": "0.1.0",
+      "date": "24 octobre 2026",
+      "titre": "Ouverture d'AMETWICH",
+      "points": [
+        "La cité de Valombre et ses habitants",
+        "18 métiers, l'hôtel des ventes, les guildes et les territoires",
+        "Trois boss maison, la Forge des Légendes, les arènes JcJ",
+        "Chat vocal et Amulette d'écho",
+        "Coffre du jour et statue du champion",
+        "Fenêtres, paramètres et menu principal aux couleurs d'AMETWICH"
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "image": "photos/banque-de-guilde-4-coffres.jpg",
+      "legende": "La banque de guilde et ses 4 coffres"
+    },
+    {
+      "image": "photos/arene-duel.jpg",
+      "legende": "Un duel dans l'arène"
+    },
+    {
+      "image": "photos/tabard-de-guilde-apercu.jpg",
+      "legende": "Les armes de la guilde"
+    },
+    {
+      "image": "photos/atelier-compact-apercu.jpg",
+      "legende": "L'atelier compact des bâtisseurs"
+    },
+    {
+      "image": "photos/maison-des-apparences-valider.jpg",
+      "legende": "La Maison des Apparences"
+    },
+    {
+      "image": "photos/monture-vie-au-dessus.jpg",
+      "legende": "En selle !"
+    },
+    {
+      "image": "photos/hall-de-guerre.jpg",
+      "legende": "Le Hall de guerre"
+    },
+    {
+      "image": "photos/forge-profonde-gouffre.jpg",
+      "legende": "Les profondeurs de la Forge"
+    },
+    {
+      "image": "photos/peche-aux-lueurs-combat.jpg",
+      "legende": "La Pêche aux Lueurs"
+    },
+    {
+      "image": "photos/peche-aux-lueurs-prise.jpg",
+      "legende": "Une belle prise"
+    },
+    {
+      "image": "photos/coffres-grand-place.jpg",
+      "legende": "Les coffres de la Grand-Place"
+    },
+    {
+      "image": "photos/grand-place.jpg",
+      "legende": "La Grand-Place"
+    },
+    {
+      "image": "photos/menu-principal-valombre.jpg",
+      "legende": "Valombre"
+    },
+    {
+      "image": "photos/cathedrale-nef.jpg",
+      "legende": "La cathédrale"
+    },
+    {
+      "image": "photos/cathedrale-choeur.jpg",
+      "legende": "Le chœur"
+    },
+    {
+      "image": "photos/forge-des-legendes-crypte.jpg",
+      "legende": "La Forge des Légendes"
+    },
+    {
+      "image": "photos/forge-du-chateau-armurerie.jpg",
+      "legende": "L'armurerie du château"
+    },
+    {
+      "image": "photos/boss-modeles-v2.jpg",
+      "legende": "Les boss"
+    },
+    {
+      "image": "photos/jcj-arene-duel.jpg",
+      "legende": "Les arènes"
+    },
+    {
+      "image": "photos/champs-confins.jpg",
+      "legende": "Les champs de bataille"
+    },
+    {
+      "image": "photos/enseigne-metier-sur-auvent.jpg",
+      "legende": "Les échoppes"
+    },
+    {
+      "image": "photos/poteau-indicateur.jpg",
+      "legende": "Les rues de Valombre"
+    },
+    {
+      "image": "photos/coffre-du-jour-ouverture.jpg",
+      "legende": "Le coffre du jour"
+    },
+    {
+      "image": "photos/amulette-d-echo-radio.jpg",
+      "legende": "L'Amulette d'écho"
+    }
+  ],
+  "bandeau_lien": "https://ametwich.fr/discord",
+  "bandeau_bouton": "Rejoindre le Discord"
 }
