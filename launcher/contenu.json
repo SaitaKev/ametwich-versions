@@ -64,6 +64,7 @@
    "date": "1er novembre 2026",
    "titre": "L'atelier des bâtisseurs",
    "points": [
+    "Launcher : un bouton « Actualiser » pour chercher les mises à jour sans le fermer",
     "Atelier compact : une colonne à droite de l'écran, le monde reste visible pendant la construction",
     "Chaque ouvrage se montre en transparence avant d'être posé : Valider ou Annuler",
     "Dans le monde : Entrée valide l'aperçu, Retour arrière l'annule (touches réglables)",
