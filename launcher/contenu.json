@@ -48,6 +48,18 @@
  ],
  "mises_a_jour": [
   {
+   "version": "0.1.6",
+   "date": "1er novembre 2026",
+   "titre": "Perks au choix et mentions légales",
+   "points": [
+    "Perks : choisissez jusqu'à 3 perks actifs dans Échap › Mon chemin",
+    "Un message vous prévient quand vos perks se mettent en pause (arènes, repaires, expéditions, duels) et quand ils reprennent",
+    "Lune de sang : la Force I se met en pause dans le monde Ressources, pour des combats équitables",
+    "Le menu Échap du staff affiche tous ses onglets",
+    "« Serveur non officiel, non affilié à Mojang ni à Microsoft » dans le launcher et sur l'écran titre"
+   ]
+  },
+  {
    "version": "0.1.5",
    "date": "1er novembre 2026",
    "titre": "Bibliothèque, armures d'antan et transparence",
