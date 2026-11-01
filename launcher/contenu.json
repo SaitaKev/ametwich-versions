@@ -60,6 +60,17 @@
  ],
  "mises_a_jour": [
   {
+   "version": "0.1.7",
+   "date": "1er novembre 2026",
+   "titre": "Les mises à jour, avec votre accord",
+   "points": [
+    "Rien ne s'installe sans votre accord : le launcher demande « Mettre à jour » ou « Plus tard »",
+    "La même question pour le jeu, dans le launcher puis sur l'écran titre du jeu",
+    "Avec « Plus tard », vous jouez avec la version déjà installée (une version trop ancienne peut être refusée par le serveur)",
+    "Chaque fichier téléchargé est vérifié avant d'être installé"
+   ]
+  },
+  {
    "version": "0.1.6",
    "date": "1er novembre 2026",
    "titre": "Perks au choix et mentions légales",
@@ -68,8 +79,7 @@
     "Un message vous prévient quand vos perks se mettent en pause (arènes, repaires, expéditions, duels) et quand ils reprennent",
     "Lune de sang : la Force I se met en pause dans le monde Ressources, pour des combats équitables",
     "Le menu Échap du staff affiche tous ses onglets",
-    "« Serveur non officiel, non affilié à Mojang ni à Microsoft » dans le launcher et sur l'écran titre",
-    "Le launcher se met désormais à jour tout seul : plus besoin de le retélécharger"
+    "« Serveur non officiel, non affilié à Mojang ni à Microsoft » dans le launcher et sur l'écran titre"
    ]
   },
   {
