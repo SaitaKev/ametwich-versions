@@ -10,6 +10,30 @@
    "bouton": "Rejoindre le Discord"
   },
   {
+   "titre": "La banque de guilde s'agrandit",
+   "date": "1er novembre 2026",
+   "image": "photos/banque-de-guilde-4-coffres.jpg",
+   "texte": "Jusqu'à quatre coffres de 27 places par guilde ! Le chef achète les suivants d'un clic, puis choisit, coffre par coffre et grade par grade, qui peut voir, déposer ou retirer."
+  },
+  {
+   "titre": "Les Potions du guerrier",
+   "date": "1er novembre 2026",
+   "image": "photos/arene-duel.jpg",
+   "texte": "Trois potions d'arène préparées par l'Alchimiste. En arène JcJ, ce sont les seules qui soignent, et une seule par combat : à vous de choisir la bonne au bon moment."
+  },
+  {
+   "titre": "Les armes de votre guilde",
+   "date": "1er novembre 2026",
+   "image": "photos/tabard-de-guilde-apercu.jpg",
+   "texte": "Symbole, couleur du fond, couleur du symbole : l'aperçu du tabard se redessine à chaque clic dans Échap › Guilde."
+  },
+  {
+   "titre": "L'atelier des bâtisseurs",
+   "date": "1er novembre 2026",
+   "image": "photos/atelier-compact-apercu.jpg",
+   "texte": "L'atelier compact laisse voir le monde pendant la construction, et chaque ouvrage se montre en transparence avant d'être posé : Entrée pour valider, Retour arrière pour annuler."
+  },
+  {
    "titre": "Le Hall de guerre",
    "date": "1er novembre 2026",
    "image": "photos/hall-de-guerre.jpg",
@@ -59,6 +83,18 @@
   }
  ],
  "mises_a_jour": [
+  {
+   "version": "0.1.10",
+   "date": "1er novembre 2026",
+   "titre": "Arènes, guildes et launcher",
+   "points": [
+    "Potions du guerrier I, II et III (Alchimiste) : en arène JcJ, les seules potions qui soignent, une seule par combat",
+    "En arène, les autres potions de soin sont sans effet ; force, vitesse et pommes dorées marchent toujours",
+    "Wiki (Échap › Astuces & Tutos) : un onglet Guildes et les recettes des Potions du guerrier",
+    "Monde Animation : le décor est protégé des visiteurs",
+    "Launcher : des flèches pour passer d'une actualité à l'autre"
+   ]
+  },
   {
    "version": "0.1.9",
    "date": "1er novembre 2026",
@@ -203,6 +239,30 @@
   }
  ],
  "photos": [
+  {
+   "image": "photos/banque-de-guilde-4-coffres.jpg",
+   "legende": "La banque de guilde et ses 4 coffres"
+  },
+  {
+   "image": "photos/arene-duel.jpg",
+   "legende": "Un duel dans l'arène"
+  },
+  {
+   "image": "photos/tabard-de-guilde-apercu.jpg",
+   "legende": "Les armes de la guilde"
+  },
+  {
+   "image": "photos/atelier-compact-apercu.jpg",
+   "legende": "L'atelier compact des bâtisseurs"
+  },
+  {
+   "image": "photos/maison-des-apparences-valider.jpg",
+   "legende": "La Maison des Apparences"
+  },
+  {
+   "image": "photos/monture-vie-au-dessus.jpg",
+   "legende": "En selle !"
+  },
   {
    "image": "photos/hall-de-guerre.jpg",
    "legende": "Le Hall de guerre"
