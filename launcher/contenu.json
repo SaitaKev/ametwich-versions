@@ -60,6 +60,22 @@
  ],
  "mises_a_jour": [
   {
+   "version": "0.1.8",
+   "date": "1er novembre 2026",
+   "titre": "Banque de guilde, aperçus et corrections",
+   "points": [
+    "Banque de guilde : jusqu'à 4 coffres de 27 places, avec les droits de chaque coffre réglés par le chef",
+    "Tabard de guilde : un aperçu de vos armes dans Échap › Guilde",
+    "Maison des Apparences : un clic pour voir, « Valider » pour payer (prix affiché)",
+    "Chat : /g, /p et /w tapés depuis n'importe quel onglet arrivent dans le bon onglet",
+    "La vie de votre monture s'affiche au-dessus de la barre de faim",
+    "Grand Tableau : Échap ne le rouvre plus une fois fermé",
+    "Le coffre du jour porte son nom sur la Grand-Place",
+    "Menus : les longues phrases vont à la ligne ; image des plans au Codex",
+    "Bâtisseurs : l'atelier montre chaque ouvrage en transparence avant de le poser"
+   ]
+  },
+  {
    "version": "0.1.7",
    "date": "1er novembre 2026",
    "titre": "Les mises à jour, avec votre accord",
