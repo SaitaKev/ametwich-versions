@@ -166,6 +166,14 @@
  ],
  "photos": [
   {
+   "image": "photos/hall-de-guerre.jpg",
+   "legende": "Le Hall de guerre"
+  },
+  {
+   "image": "photos/forge-profonde-gouffre.jpg",
+   "legende": "Les profondeurs de la Forge"
+  },
+  {
    "image": "photos/peche-aux-lueurs-combat.jpg",
    "legende": "La Pêche aux Lueurs"
   },
