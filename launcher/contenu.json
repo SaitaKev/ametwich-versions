@@ -10,6 +10,18 @@
    "bouton": "Rejoindre le Discord"
   },
   {
+   "titre": "Le Hall de guerre",
+   "date": "1er novembre 2026",
+   "image": "photos/hall-de-guerre.jpg",
+   "texte": "Quarante mannequins en armure, des râteliers d'armes et les légendaires sous bonne garde : venez admirer chaque ensemble, du premier tier au champion des arènes, et lire ses statistiques."
+  },
+  {
+   "titre": "Les profondeurs de la Forge",
+   "date": "1er novembre 2026",
+   "image": "photos/forge-profonde-gouffre.jpg",
+   "texte": "Sous la Salle des Portails, la Forge-Profonde enjambe un gouffre de lave. C'est d'ici que partent les portails vers la Survie, les Ressources, les Arènes et les Repaires."
+  },
+  {
    "titre": "Le launcher AMETWICH",
    "date": "30 octobre 2026",
    "image": "photos/menu-principal-valombre.jpg",
