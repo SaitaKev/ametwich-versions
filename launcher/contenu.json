@@ -60,6 +60,17 @@
  ],
  "mises_a_jour": [
   {
+   "version": "0.1.9",
+   "date": "1er novembre 2026",
+   "titre": "L'atelier des bâtisseurs",
+   "points": [
+    "Atelier compact : une colonne à droite de l'écran, le monde reste visible pendant la construction",
+    "Chaque ouvrage se montre en transparence avant d'être posé : Valider ou Annuler",
+    "Dans le monde : Entrée valide l'aperçu, Retour arrière l'annule (touches réglables)",
+    "Une nouvelle leçon « L'aperçu » dans l'onglet Apprendre de l'atelier"
+   ]
+  },
+  {
    "version": "0.1.8",
    "date": "1er novembre 2026",
    "titre": "Banque de guilde, aperçus et corrections",
