@@ -10,6 +10,12 @@
       "bouton": "Rejoindre le Discord"
     },
     {
+      "titre": "Les nains de Roche-Cendre",
+      "date": "2 novembre 2026",
+      "image": "photos/nains-campement.jpg",
+      "texte": "Un clan de nains bourrus s'est installé quelque part dans le monde Ressources. Rendez-leur service pour gagner leur confiance : ils paient en recettes de métier, et Grimbald Barbe-de-Cendre sait où se cachent les failles et les expéditions. Mais gare à qui touche à leur camp !"
+    },
+    {
       "titre": "La banque de guilde s'agrandit",
       "date": "1er novembre 2026",
       "image": "photos/banque-de-guilde-4-coffres.jpg",
@@ -83,6 +89,19 @@
     }
   ],
   "mises_a_jour": [
+    {
+      "version": "0.1.12",
+      "date": "2 novembre 2026",
+      "titre": "Les nains de Roche-Cendre",
+      "points": [
+        "Monde Ressources : le clan de nains de Roche-Cendre s'installe tout seul sur une hauteur, et son campement grandit au fil des heures (forge, muraille et garde, mine, grande halle)",
+        "Les nains en 3D : barbes, casques à cornes, tabliers de forge, plus petits qu'un joueur",
+        "Clic droit sur Grimbald Barbe-de-Cendre : la fenêtre du clan, ses services du jour et des indices sur les lieux proches (failles de la Fracture, entrées d'expédition)",
+        "Chaque service rapporte des Améthines et une « Recette du clan » : une recette de métier à apprendre ou à vendre ; très rarement, un plan ancien",
+        "Une réputation auprès du clan, de Méfiance à Ami du clan (avec un titre) : plus elle monte, plus les recettes sont avancées",
+        "Le camp est à eux : qui y casse, pose un bloc ou frappe un nain est averti, puis repoussé par la garde"
+      ]
+    },
     {
       "version": "0.1.11",
       "date": "1er novembre 2026",
@@ -252,6 +271,22 @@
     }
   ],
   "photos": [
+    {
+      "image": "photos/nains-grimbald.jpg",
+      "legende": "Grimbald Barbe-de-Cendre, maître du clan"
+    },
+    {
+      "image": "photos/nains-campement.jpg",
+      "legende": "Le campement des nains dans le monde Ressources"
+    },
+    {
+      "image": "photos/nains-grande-halle.jpg",
+      "legende": "La grande halle de la forge"
+    },
+    {
+      "image": "photos/nains-fenetre-du-clan.jpg",
+      "legende": "La fenêtre du clan : réputation, indices, services"
+    },
     {
       "image": "photos/banque-de-guilde-4-coffres.jpg",
       "legende": "La banque de guilde et ses 4 coffres"
