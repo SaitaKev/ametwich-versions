@@ -92,7 +92,8 @@
         "Un clic sur Installer : le launcher installe tout seul Iris, Sodium et le shader, sans passer par un autre site",
         "Changer de shader, les couper ou les retirer d'un clic ; le dernier retiré enlève aussi Iris et Sodium",
         "Dans le jeu, la touche O ouvre la liste des shaders",
-        "Photos des auteurs pour comparer les rendus avant de choisir"
+        "Photos des auteurs pour comparer les rendus avant de choisir",
+        "Correction : à la toute première installation, les réglages du jeu ne sont plus remis à zéro quand on installe un shader"
       ]
     },
     {
