@@ -102,6 +102,18 @@
   ],
   "mises_a_jour": [
     {
+      "version": "0.1.15",
+      "date": "4 novembre 2026",
+      "titre": "Une visite guidée plus douce pour les yeux",
+      "points": [
+        "Visite guidée : plus de clignotements ; la ville reste chargée tout autour de la caméra pendant les vols",
+        "Vols plus lents et plus doux au-dessus des toits",
+        "Quand la caméra traverse un mur, l'écran s'assombrit doucement au lieu de flasher",
+        "Les habitants de Valombre ne font plus d'allers-retours entre deux hauteurs",
+        "Launcher : plus de barre de défilement en bas du panneau de gauche"
+      ]
+    },
+    {
       "version": "0.1.14",
       "date": "3 novembre 2026",
       "titre": "Le Pacte des Trois Sceaux et les caravanes",
