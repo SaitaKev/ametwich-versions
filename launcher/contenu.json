@@ -13,7 +13,7 @@
       "titre": "Le Pacte des Trois Sceaux",
       "date": "3 novembre 2026",
       "image": "photos/pacte-chevalier-brise.jpg",
-      "texte": "Jadis, les nains, les elfes et les automates d'Airain avaient refermé la première Fracture par un pacte, que les hommes de Valombre ont rompu. Reforgez les trois sceaux, levez-les au cœur d'une Fracture et affrontez son Gardien, un chevalier brisé. Récompense : la Cape des Trois Serments, gratuite. Et chaque samedi soir, une caravane a besoin d'escorte !"
+      "texte": "Jadis, les nains, les elfes et les automates d'Airain avaient refermé la première Fracture par un pacte, que les hommes de Valombre ont rompu. Reforgez les trois sceaux, levez-les au cœur d'une Fracture et affrontez son Gardien, un chevalier brisé. Récompense : son armure, en apparence pour la transmogrification. Et chaque samedi soir, une caravane a besoin d'escorte !"
     },
     {
       "titre": "Les Elfes et le peuple d'Airain",
@@ -108,7 +108,7 @@
       "points": [
         "La grande quête « Le Pacte des Trois Sceaux » (Échap › Quêtes) : reforgez les sceaux des nains, des elfes et d'Airain, puis affrontez le Gardien de la Fracture",
         "Le Gardien de la Fracture, un chevalier brisé en 3D : armure d'ardoise fendue, cœur d'améthyste, éclats qui tournent autour de lui",
-        "Récompense gratuite : la Cape des Trois Serments (3D, bleu nuit aux trois sceaux d'or), 3 000 Améthines et le titre « Porte-Sceau »",
+        "Récompense : l'apparence « Armure du Chevalier brisé » pour la transmogrification (ardoise fendue, fissures d'améthyste, couronne de cristaux), 3 000 Améthines et le titre « Porte-Sceau »",
         "Les caravanes du samedi (21 h) : escortez trois mules jusqu'au campement d'un peuple et repoussez les brigands ; /caravane pour rejoindre le départ",
         "Nouveaux hauts faits : Diplomate des trois peuples, Convoyeur légendaire, Chercheur de savoirs, Chasseur d'ombres, Pêcheur de Lueurs… et de nouveaux titres",
         "Trois hauts faits cachés à trouver par vous-mêmes…"
@@ -317,8 +317,8 @@
       "legende": "Le Gardien de la Fracture, un chevalier brisé"
     },
     {
-      "image": "photos/pacte-cape.jpg",
-      "legende": "La Cape des Trois Serments, récompense du Pacte"
+      "image": "photos/pacte-armure-chevalier.jpg",
+      "legende": "L'Armure du Chevalier brisé, récompense du Pacte"
     },
     {
       "image": "photos/caravane-brigands.jpg",
