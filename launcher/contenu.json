@@ -36,13 +36,13 @@
     {
       "titre": "Les Elfes et le peuple d'Airain",
       "date": "2 novembre 2026",
-      "image": "photos/airain-haute-rouage.jpg",
+      "image": "photos/airain-grand-horloger.jpg",
       "texte": "Deux nouveaux peuples rejoignent le monde Ressources. Au cœur d'une forêt, les Elfes du Bois-Pâle veillent sur leurs arbres et n'aiment pas les humains : à vous de gagner leur respect. Sur les hauteurs, les automates d'Airain bâtissent Haute-Rouage, une cité de pistons et d'horlogerie. Et dans les métiers, 30 % des recettes sont désormais à découvrir !"
     },
     {
       "titre": "Les nains de Roche-Cendre",
       "date": "2 novembre 2026",
-      "image": "photos/nains-campement.jpg",
+      "image": "photos/nains-grande-halle.jpg",
       "texte": "Un clan de nains bourrus s'est installé quelque part dans le monde Ressources. Rendez-leur service pour gagner leur confiance : ils paient en recettes de métier, et Grimbald Barbe-de-Cendre sait où se cachent les failles et les expéditions. Mais gare à qui touche à leur camp !"
     },
     {
@@ -445,16 +445,8 @@
       "legende": "Le Grand Horloger, maître des automates"
     },
     {
-      "image": "photos/airain-haute-rouage.jpg",
-      "legende": "Haute-Rouage, la cité d'Airain des montagnes"
-    },
-    {
       "image": "photos/nains-grimbald.jpg",
       "legende": "Grimbald Barbe-de-Cendre, maître du clan"
-    },
-    {
-      "image": "photos/nains-campement.jpg",
-      "legende": "Le campement des nains dans le monde Ressources"
     },
     {
       "image": "photos/nains-grande-halle.jpg",
