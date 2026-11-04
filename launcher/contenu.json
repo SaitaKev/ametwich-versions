@@ -10,6 +10,12 @@
       "bouton": "Rejoindre le Discord"
     },
     {
+      "titre": "Merci aux bêta-testeurs !",
+      "date": "4 novembre 2026",
+      "image": "photos/arrivee-gardien.jpg",
+      "texte": "Une soirée de tests, et déjà une mise à jour ! Les nouveaux venus se réveillent maintenant au bout de la Grand-Place, où le Gardien du savoir les attend avec leur première quête. Le menu Échap est rangé en rubriques, les territoires s'agrandissent d'un seul clic, et le combat à deux armes est plus beau. Continuez à nous dire ce que vous en pensez !"
+    },
+    {
       "titre": "Le potager de Valombre",
       "date": "4 novembre 2026",
       "image": "photos/potager-mur.jpg",
@@ -113,6 +119,21 @@
     }
   ],
   "mises_a_jour": [
+    {
+      "version": "0.1.17",
+      "date": "4 novembre 2026",
+      "titre": "Retours des bêta-testeurs : arrivée, territoires, menus",
+      "points": [
+        "Nouvelle arrivée : vous vous réveillez dans une maison au bout de la Grand-Place, le Gardien du savoir devant la porte",
+        "Plus de tutoriel animé : le Gardien du savoir (« Quêtes & Tutos ») vous confie votre première quête, puis ouvre les Tutos",
+        "Le menu Échap est rangé en rubriques : Personnage, Chaque jour, Social, Monde, Aide (cliquez sur une rubrique pour la déplier)",
+        "Agrandir ou réduire son territoire : /claim debout dedans, puis un seul clic droit sur le nouveau coin (le coin opposé ne bouge pas)",
+        "Deux armes en main : le bras gauche frappe aussi dans le vide, et les autres joueurs voient le bon bras",
+        "Les recettes perdues sont bien plus rares (environ une toutes les deux heures), et les T4-T5 réservées aux artisans du métier",
+        "Grande carte (N) : de nouveaux lieux (votre maison, la statue du champion, les coffres, le Grand Tableau, la taverne…)",
+        "Correction : « Options… » depuis le menu principal ne fait plus planter le jeu"
+      ]
+    },
     {
       "version": "0.1.16",
       "date": "4 novembre 2026",
@@ -355,6 +376,22 @@
     }
   ],
   "photos": [
+    {
+      "image": "photos/arrivee-gardien.jpg",
+      "legende": "Le Gardien du savoir vous attend devant votre maison, au bout de la Grand-Place"
+    },
+    {
+      "image": "photos/arrivee-maison.jpg",
+      "legende": "Votre première maison à Valombre"
+    },
+    {
+      "image": "photos/menu-echap-rubriques.jpg",
+      "legende": "Le menu Échap, rangé en rubriques"
+    },
+    {
+      "image": "photos/menu-echap-territoires.jpg",
+      "legende": "Échap › Monde › Territoires"
+    },
     {
       "image": "photos/dialogues-gauvin.jpg",
       "legende": "Une conversation avec Gauvin, le tavernier de la Chope"
