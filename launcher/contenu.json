@@ -10,6 +10,18 @@
       "bouton": "Rejoindre le Discord"
     },
     {
+      "titre": "Le potager de Valombre",
+      "date": "4 novembre 2026",
+      "image": "photos/potager-mur.jpg",
+      "texte": "Tomates, poivrons, aubergines, oignons, fraises, vigne et maïs : sept nouvelles cultures arrivent ! Achetez les graines chez Tiphaine, aux Halles, plantez-les sur une terre labourée près de l'eau, et regardez-les pousser. Les cuisiniers en tirent huit nouveaux plats, chacun avec son effet. Et les marchands des Halles vendent enfin leurs marchandises !"
+    },
+    {
+      "titre": "Les habitants prennent la parole",
+      "date": "4 novembre 2026",
+      "image": "photos/dialogues-gauvin.jpg",
+      "texte": "Valombre s'anime ! Faites un clic droit sur un habitant : la conversation s'ouvre, avec des réponses au choix. Chacun a son caractère et ses rumeurs, et Gauvin, le tavernier de la Chope, a une longue histoire à raconter… une chope à la fois. Et sa bière est fameuse : à consommer avec modération !"
+    },
+    {
       "titre": "Le Pacte des Trois Sceaux",
       "date": "3 novembre 2026",
       "image": "photos/pacte-chevalier-brise.jpg",
@@ -101,6 +113,25 @@
     }
   ],
   "mises_a_jour": [
+    {
+      "version": "0.1.16",
+      "date": "4 novembre 2026",
+      "titre": "Valombre s'anime : conversations, marchands et potager",
+      "points": [
+        "Clic droit sur un habitant : une vraie conversation s'ouvre en bas de l'écran, avec des réponses et des questions au choix (clic, ou touches 1 à 9)",
+        "26 personnages, chacun avec son nom et son caractère : la cour du château, le marché, la Grand-Place, les passants, les gardes, le Sergent Odon",
+        "Ils se souviennent de vous, donnent des conseils et des rumeurs sur la ville, les peuples, la Fracture…",
+        "Gauvin le Tavernier : une histoire en 5 chapitres qui avance au fil de vos visites et du Pacte des Trois Sceaux, jusqu'au titre « l'Habitué de la Chope »",
+        "La taverne de la Chope sert bière, cidre et ragoût du veilleur (en Améthines) : attention, au 3e verre la salle tangue…",
+        "Bertrand le Crieur : demandez-lui le prix de la Gazette, achetez-la et lisez-la tout de suite",
+        "Les gardes répondent toujours à « Où se trouve… ? » avec leur traînée d'étincelles",
+        "Les marchands des Halles vendent enfin : « Qu'est-ce que vous vendez ? » ouvre leur étal (pain, fromages, épices, laine et teintures, graines…), achat d'un clic",
+        "Barnabé le colporteur déballe 4 objets différents chaque jour, et annonce ceux du lendemain",
+        "Le potager : 7 nouvelles cultures (tomate, poivron, aubergine, oignon, fraise, vigne, maïs) qui poussent en 4 étapes sur une terre labourée ; graines chez Tiphaine",
+        "Mûres, un clic droit les récolte : la plupart refleurissent, l'oignon et le maïs rendent leurs graines ; de l'XP d'Herboriste à chaque récolte",
+        "8 nouveaux plats de Cuisinier, chacun avec son effet : ratatouille de Valombre, gaspacho (résistance au feu), tarte aux fraises, jus de raisin (soin rapide)…"
+      ]
+    },
     {
       "version": "0.1.15",
       "date": "4 novembre 2026",
@@ -324,6 +355,34 @@
     }
   ],
   "photos": [
+    {
+      "image": "photos/dialogues-gauvin.jpg",
+      "legende": "Une conversation avec Gauvin, le tavernier de la Chope"
+    },
+    {
+      "image": "photos/taverne-gauvin-biere.jpg",
+      "legende": "La troisième bière… la salle se met à tanguer"
+    },
+    {
+      "image": "photos/dialogues-colin.jpg",
+      "legende": "Colin, le gamin des rues, a un secret à vous confier"
+    },
+    {
+      "image": "photos/dialogues-bertrand.jpg",
+      "legende": "« À combien est votre Gazette ? » — Bertrand le Crieur"
+    },
+    {
+      "image": "photos/potager-mur.jpg",
+      "legende": "Le potager : maïs, vigne, fraises, oignons, aubergines, poivrons et tomates"
+    },
+    {
+      "image": "photos/potager-de-pres.jpg",
+      "legende": "Des aubergines, du maïs et des tomates bien mûrs"
+    },
+    {
+      "image": "photos/marche-pernelle.jpg",
+      "legende": "Pernelle, la boulangère des Halles, et son étal"
+    },
     {
       "image": "photos/pacte-chevalier-brise.jpg",
       "legende": "Le Gardien de la Fracture, un chevalier brisé"
