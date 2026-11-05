@@ -10,6 +10,12 @@
       "bouton": "Rejoindre le Discord"
     },
     {
+      "titre": "Le livre des recettes",
+      "date": "5 novembre 2026",
+      "image": "photos/livre-des-recettes.jpg",
+      "texte": "Plus besoin de courir à l'atelier pour savoir quoi récolter ! Dans Échap › Progression, chaque métier (et la cuisine) a son bouton « Recettes » : toutes les recettes de votre rang, les ingrédients nécessaires et ce que vous avez déjà. Pour fabriquer, rendez-vous toujours à votre poste de travail. Et dans le monde Ressources, les nains, les elfes et les automates d'Airain choisissent désormais mieux leur terrain."
+    },
+    {
       "titre": "Merci aux bêta-testeurs !",
       "date": "4 novembre 2026",
       "image": "photos/arrivee-gardien.jpg",
@@ -376,6 +382,22 @@
     }
   ],
   "photos": [
+    {
+      "image": "photos/livre-des-recettes.jpg",
+      "legende": "Le livre des recettes du Cuisinier, ouvert depuis Échap"
+    },
+    {
+      "image": "photos/livre-des-recettes-echap.jpg",
+      "legende": "Échap › Progression : un livre de recettes par métier"
+    },
+    {
+      "image": "photos/nains-campement-taiga.jpg",
+      "legende": "Le campement des nains de Roche-Cendre, dans une forêt de sapins"
+    },
+    {
+      "image": "photos/airain-haute-rouage-jungle.jpg",
+      "legende": "Haute-Rouage, la cité des automates d'Airain"
+    },
     {
       "image": "photos/arrivee-gardien.jpg",
       "legende": "Le Gardien du savoir vous attend devant votre maison, au bout de la Grand-Place"
