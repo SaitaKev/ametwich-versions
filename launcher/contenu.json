@@ -10,6 +10,12 @@
       "bouton": "Rejoindre le Discord"
     },
     {
+      "titre": "Le baluchon de l'Arrivant",
+      "date": "5 novembre 2026",
+      "image": "photos/tenue-arrivant.jpg",
+      "texte": "Valombre accueille ses habitants comme il se doit ! Chacun reçoit désormais, une fois, le baluchon de l'Arrivant : la Tenue de l'Arrivant en lin et en toile (9 pièces, de la capuche aux chausses), une hache et une pioche de pierre, du pain, des torches et un lit violet pour vos premières nuits. Même ceux qui sont déjà venus y ont droit !"
+    },
+    {
       "titre": "Le livre des recettes",
       "date": "5 novembre 2026",
       "image": "photos/livre-des-recettes.jpg",
@@ -125,6 +131,19 @@
     }
   ],
   "mises_a_jour": [
+    {
+      "version": "0.1.18",
+      "date": "5 novembre 2026",
+      "titre": "Le baluchon de l'Arrivant",
+      "points": [
+        "Chaque habitant reçoit une fois le baluchon de l'Arrivant, de la part du Gardien du savoir (les nouveaux, et ceux déjà venus)",
+        "La Tenue de l'Arrivant : 9 pièces de lin et de toile (capuche, mantelet, tunique, chemise, brassards, mitaines, ceinture de corde, braies, chausses)",
+        "Avec une hache et une pioche de pierre, 24 pains, 16 torches et un lit violet",
+        "La tenue est liée à son porteur, et son apparence rejoint la transmogrification",
+        "Sac trop plein ? Libérez 14 cases et tapez /baluchon",
+        "Échap › Progression : le livre des recettes de chaque métier, consultable partout"
+      ]
+    },
     {
       "version": "0.1.17",
       "date": "4 novembre 2026",
@@ -382,6 +401,14 @@
     }
   ],
   "photos": [
+    {
+      "image": "photos/tenue-arrivant.jpg",
+      "legende": "La Tenue de l'Arrivant : de face, de dos, et la chemise sous la tunique"
+    },
+    {
+      "image": "photos/tenue-arrivant-face.jpg",
+      "legende": "La Tenue de l'Arrivant, en lin et en toile"
+    },
     {
       "image": "photos/livre-des-recettes.jpg",
       "legende": "Le livre des recettes du Cuisinier, ouvert depuis Échap"
