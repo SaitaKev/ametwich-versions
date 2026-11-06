@@ -10,6 +10,12 @@
       "bouton": "Rejoindre le Discord"
     },
     {
+      "titre": "Repères, dernière mort et boussole GPS",
+      "date": "6 novembre 2026",
+      "image": "photos/carte-mes-reperes.jpg",
+      "texte": "La carte devient votre meilleure alliée : posez vos repères (clic droit sur la carte ou touche B), choisissez leur couleur, leur icône et leur opacité, et suivez-les au GPS grâce à la nouvelle boussole en haut de l'écran. Votre dernière mort est marquée toute seule pour retrouver vos affaires, et la carte garde maintenant tout ce que vous avez exploré d'une connexion à l'autre."
+    },
+    {
       "titre": "Le baluchon de l'Arrivant",
       "date": "5 novembre 2026",
       "image": "photos/tenue-arrivant.jpg",
@@ -131,6 +137,20 @@
     }
   ],
   "mises_a_jour": [
+    {
+      "version": "0.1.19",
+      "date": "6 novembre 2026",
+      "titre": "Repères, dernière mort et boussole GPS",
+      "points": [
+        "Boussole en haut de l'écran : N, E, S, O tournent avec le regard, la cible du GPS en or avec sa distance",
+        "Dernière mort marquée toute seule et suivie au GPS ; elle s'efface quand on y revient (pas en arène ni chez un boss)",
+        "Repères personnels : clic droit sur la grande carte, « + Repère ici » ou la touche B ; nom, couleur, icône, opacité de 0 à 100 %",
+        "Dans le monde, chaque repère flotte avec sa distance, son nom quand on le regarde",
+        "Grande carte (M) : boutons Minicarte, Boussole, Heure et Repères à l'écran, liste « Mes repères » à droite",
+        "La carte garde ce que vous avez exploré d'une connexion à l'autre",
+        "Les barres de boss passent sous la boussole"
+      ]
+    },
     {
       "version": "0.1.18",
       "date": "5 novembre 2026",
@@ -401,6 +421,22 @@
     }
   ],
   "photos": [
+    {
+      "image": "photos/carte-mes-reperes.jpg",
+      "legende": "La grande carte : vos repères, votre dernière mort et les boutons pour régler l'écran"
+    },
+    {
+      "image": "photos/boussole-derniere-mort.jpg",
+      "legende": "La boussole vous ramène à l'endroit de votre dernière mort"
+    },
+    {
+      "image": "photos/nouveau-repere.jpg",
+      "legende": "Un nouveau repère : nom, couleur, icône, opacité et GPS"
+    },
+    {
+      "image": "photos/repere-dans-le-monde.jpg",
+      "legende": "« Ma mine » à 50 % d'opacité, suivie au GPS"
+    },
     {
       "image": "photos/tenue-arrivant.jpg",
       "legende": "La Tenue de l'Arrivant : de face, de dos, et la chemise sous la tunique"
