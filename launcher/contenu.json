@@ -138,6 +138,16 @@
   ],
   "mises_a_jour": [
     {
+      "version": "0.1.20",
+      "date": "6 novembre 2026",
+      "titre": "Atelier : le coût en XP plus clair",
+      "points": [
+        "Chaque fabrication de métier coûte des niveaux d'expérience (la barre verte)",
+        "Il en manque ? Le coût s'affiche maintenant en rouge : « Coûte 1 niveau d'XP : vous avez 0 niveau »",
+        "Un poste de travail qui ne s'ouvre pas (Créatif, mode Edit, territoire d'un autre joueur) le dit au lieu de ne rien faire"
+      ]
+    },
+    {
       "version": "0.1.19",
       "date": "6 novembre 2026",
       "titre": "Repères, dernière mort et boussole GPS",
@@ -436,6 +446,10 @@
     {
       "image": "photos/repere-dans-le-monde.jpg",
       "legende": "« Ma mine » à 50 % d'opacité, suivie au GPS"
+    },
+    {
+      "image": "photos/atelier-cout-xp.jpg",
+      "legende": "L'atelier prévient quand il manque des niveaux d'XP pour fabriquer"
     },
     {
       "image": "photos/tenue-arrivant.jpg",
