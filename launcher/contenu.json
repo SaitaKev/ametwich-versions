@@ -10,6 +10,12 @@
       "bouton": "Rejoindre le Discord"
     },
     {
+      "titre": "Un nouvel Échap, tout en onglets",
+      "date": "7 novembre 2026",
+      "image": "photos/echap-accueil.jpg",
+      "texte": "Appuyez sur Échap : votre carte d'aventurier vous attend au centre, vos onglets tout autour. À gauche votre aventure (Progression, Métiers, Quêtes, Hauts faits, Codex…), à droite Valombre et les autres (Groupe, Guilde, Courrier, Téléportations…). Un clic suffit, plus besoin de chercher dans les sous-menus. Et à l'atelier, passez la souris sur un ingrédient pour savoir où le trouver."
+    },
+    {
       "titre": "Des armes bien en main, un Gardien qui vous accueille",
       "date": "7 novembre 2026",
       "image": "photos/armes-tenue-premiere-personne.jpg",
@@ -143,6 +149,18 @@
     }
   ],
   "mises_a_jour": [
+    {
+      "version": "0.1.22",
+      "date": "7 novembre 2026",
+      "titre": "Un Échap plus clair",
+      "points": [
+        "Nouvel Échap : votre carte au centre (tête, pseudo, vos infos), « Mon aventure » à gauche, « Valombre & les autres » à droite ; les mêmes onglets qu'avant, sans menus à ouvrir",
+        "Deux nouveaux onglets : « Métiers » (niveaux, rangs, recettes) et « Quêtes » (Premiers Pas, Pacte des Trois Sceaux, quêtes de Garance, quêtes du jour)",
+        "La même fenêtre à toutes les tailles d'interface : plus rien ne se chevauche, en GUI Scale 1 comme en 4",
+        "Atelier : les noms des recettes en entier, et une bulle « Où le trouver » sur chaque ingrédient",
+        "Les longs textes des menus ne sont plus coupés"
+      ]
+    },
     {
       "version": "0.1.21",
       "date": "7 novembre 2026",
@@ -448,6 +466,22 @@
     }
   ],
   "photos": [
+    {
+      "image": "photos/echap-accueil.jpg",
+      "legende": "Le nouvel Échap : votre carte au centre, vos onglets à gauche et à droite"
+    },
+    {
+      "image": "photos/echap-quetes.jpg",
+      "legende": "Échap › Quêtes : toutes vos quêtes au même endroit"
+    },
+    {
+      "image": "photos/echap-metiers.jpg",
+      "legende": "Échap › Métiers : vos métiers, leurs rangs et vos recettes"
+    },
+    {
+      "image": "photos/atelier-ou-le-trouver.jpg",
+      "legende": "À l'atelier, une bulle vous dit où trouver chaque ingrédient"
+    },
     {
       "image": "photos/armes-tenue-premiere-personne.jpg",
       "legende": "À la première personne : l'épée en fer du jeu (en haut à gauche) et les armes AMETWICH, tenues pareil"
