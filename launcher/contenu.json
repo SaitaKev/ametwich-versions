@@ -10,6 +10,12 @@
       "bouton": "Rejoindre le Discord"
     },
     {
+      "titre": "Des armes bien en main, un Gardien qui vous accueille",
+      "date": "7 novembre 2026",
+      "image": "photos/armes-tenue-premiere-personne.jpg",
+      "texte": "Les épées, haches, masses, glaives et légendaires AMETWICH se tiennent désormais comme l'épée du jeu : même taille, même angle, à la première personne comme vue de l'extérieur. À Valombre, le Gardien du savoir vous accueille dans sa fenêtre : un clic lance vos Premiers Pas, un autre la grande quête du Pacte, et il vous montre le chemin de Garance pour monter en rang."
+    },
+    {
       "titre": "Repères, dernière mort et boussole GPS",
       "date": "6 novembre 2026",
       "image": "photos/carte-mes-reperes.jpg",
@@ -137,6 +143,17 @@
     }
   ],
   "mises_a_jour": [
+    {
+      "version": "0.1.21",
+      "date": "7 novembre 2026",
+      "titre": "Armes bien tenues, Gardien du savoir",
+      "points": [
+        "Les armes 3D se tiennent comme l'épée du jeu : plus d'épée énorme ni penchée, à la première personne comme vue de l'extérieur",
+        "Hallebardes et bâtons restent droits, à hauteur d'épaule ; deux armes en main se répondent en miroir",
+        "Le Gardien du savoir (devant la chaumière d'arrivée) ouvre sa fenêtre : « Bienvenue à Valombre », les Premiers Pas d'un clic, puis la grande quête, les tutos et le chemin jusqu'à Garance (les rangs)",
+        "La forgeronne, le tavernier et le sergent Odon n'apparaissent plus en double"
+      ]
+    },
     {
       "version": "0.1.20",
       "date": "6 novembre 2026",
@@ -431,6 +448,22 @@
     }
   ],
   "photos": [
+    {
+      "image": "photos/armes-tenue-premiere-personne.jpg",
+      "legende": "À la première personne : l'épée en fer du jeu (en haut à gauche) et les armes AMETWICH, tenues pareil"
+    },
+    {
+      "image": "photos/armes-tenue-exterieur.jpg",
+      "legende": "Vue de l'extérieur : l'épée du jeu, puis les armes AMETWICH"
+    },
+    {
+      "image": "photos/gardien-quete-lancee.jpg",
+      "legende": "Un clic, et les Premiers Pas commencent : la suite est dans Échap › Quêtes"
+    },
+    {
+      "image": "photos/gardien-retour.jpg",
+      "legende": "Le Gardien du savoir : vos quêtes, la grande quête, les rangs et les tutos"
+    },
     {
       "image": "photos/carte-mes-reperes.jpg",
       "legende": "La grande carte : vos repères, votre dernière mort et les boutons pour régler l'écran"
