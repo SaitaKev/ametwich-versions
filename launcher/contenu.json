@@ -10,10 +10,22 @@
       "bouton": "Rejoindre le Discord"
     },
     {
+      "titre": "Les fêtes de Valombre deviennent médiévales",
+      "date": "8 novembre 2026",
+      "image": "photos/fete-des-moissons.jpg",
+      "texte": "Place aux fêtes de village : la Fête des Semailles au printemps (le mât de mai et ses rubans), les Feux de la Saint-Jean l'été, la Fête des Moissons à l'automne (le grand banquet de la Grand-Place) et la Veillée des Givres l'hiver (le sapin aux chandelles). Les titres et compagnons déjà gagnés restent à vous."
+    },
+    {
+      "titre": "Des mods et vos shaders, d'un clic",
+      "date": "8 novembre 2026",
+      "image": "photos/launcher-onglet-mods.jpg",
+      "texte": "Le launcher a un nouvel onglet Mods : Litematica (sans printer) pour reconstruire vos plans, MiniHUD, Mod Menu, Zoomify, AppleSkin et d'autres, choisis pour rester justes. Dans l'onglet Shaders, « Ajouter mon shader » installe celui que vous préférez. Et la carte s'affiche enfin dans le Nether."
+    },
+    {
       "titre": "La nouvelle Valombre",
       "date": "8 novembre 2026",
-      "image": "photos/nouvelle-valombre-chateau.jpg",
-      "texte": "Valombre a été rebâtie : une cité ronde, protégée par ses remparts, et le château refait en haut de sa falaise. Quatorze quartiers, des maisons toutes habitées et une Grand-Place plantée de cerisiers. Les habitants, leurs dialogues et leurs services sont à leurs nouvelles places. Vous gardez tout ce que vous aviez : inventaire, banque, métiers et guilde."
+      "image": "photos/valombre-logo-chateau.jpg",
+      "texte": "Valombre a été rebâtie : une cité ronde, protégée par ses remparts, et le château refait en haut de sa falaise. Quatorze quartiers, des maisons toutes habitées et une Grand-Place ombragée de chênes. Les habitants, leurs dialogues et leurs services sont à leurs nouvelles places. Vous gardez tout ce que vous aviez : inventaire, banque, métiers et guilde."
     },
     {
       "titre": "Se téléporter entre amis, et les maîtres qui vous accueillent",
@@ -38,21 +50,24 @@
       "date": "4 novembre 2026",
       "image": "photos/dialogues-gauvin.jpg",
       "texte": "Valombre s'anime ! Faites un clic droit sur un habitant : la conversation s'ouvre, avec des réponses au choix. Chacun a son caractère et ses rumeurs, et Gauvin, le tavernier de la Chope, a une longue histoire à raconter… une chope à la fois. Et sa bière est fameuse : à consommer avec modération !"
-    },
-    {
-      "titre": "Le Pacte des Trois Sceaux",
-      "date": "3 novembre 2026",
-      "image": "photos/pacte-chevalier-brise.jpg",
-      "texte": "Jadis, les nains, les elfes et les automates d'Airain avaient refermé la première Fracture par un pacte, que les hommes de Valombre ont rompu. Reforgez les trois sceaux, levez-les au cœur d'une Fracture et affrontez son Gardien, un chevalier brisé. Récompense : son armure, en apparence pour la transmogrification. Et chaque samedi soir, une caravane a besoin d'escorte !"
-    },
-    {
-      "titre": "Les Elfes et le peuple d'Airain",
-      "date": "2 novembre 2026",
-      "image": "photos/airain-grand-horloger.jpg",
-      "texte": "Deux nouveaux peuples rejoignent le monde Ressources. Au cœur d'une forêt, les Elfes du Bois-Pâle veillent sur leurs arbres et n'aiment pas les humains : à vous de gagner leur respect. Sur les hauteurs, les automates d'Airain bâtissent Haute-Rouage, une cité de pistons et d'horlogerie. Et dans les métiers, 30 % des recettes sont désormais à découvrir !"
     }
   ],
   "mises_a_jour": [
+    {
+      "version": "0.1.24",
+      "date": "8 novembre 2026",
+      "titre": "Fêtes médiévales, mods et shaders à la carte",
+      "points": [
+        "Les fêtes de saison deviennent des fêtes de village : Semailles, Feux de la Saint-Jean, Moissons, Veillée des Givres (titres et compagnons déjà gagnés conservés)",
+        "Launcher : un onglet Mods (Litematica sans printer, MiniHUD, Mod Menu, Zoomify, AppleSkin…) et « Ajouter mon shader » dans l'onglet Shaders",
+        "Litematica s'ouvre avec la touche N : M reste la carte AMETWICH",
+        "La grande carte et la minicarte fonctionnent dans le Nether (le sol de la caverne où vous marchez)",
+        "/tpa et /tpahere marchent aussi dans le Nether et l'End, de la Survie comme du monde Ressources",
+        "Métiers de récolte : tous les minerais (fer, or, redstone, lapis, quartz, diamant…) donnent de l'XP dès le niveau 1",
+        "Téléportation : une incantation de 5 secondes, un cercle de runes à la couleur de la destination et la caméra qui recule",
+        "Valombre : le logo AMETWICH sur le château, des champs et une allée de chênes devant la porte sud, la campagne tout autour"
+      ]
+    },
     {
       "version": "0.1.23",
       "date": "8 novembre 2026",
@@ -384,8 +399,16 @@
   ],
   "photos": [
     {
-      "image": "photos/nouvelle-valombre-chateau.jpg",
-      "legende": "La nouvelle Valombre : la Grand-Rue monte vers le château"
+      "image": "photos/valombre-logo-chateau.jpg",
+      "legende": "Le château de Valombre et son logo AMETWICH"
+    },
+    {
+      "image": "photos/fete-des-moissons.jpg",
+      "legende": "La Fête des Moissons sur la Grand-Place"
+    },
+    {
+      "image": "photos/veillee-des-givres.jpg",
+      "legende": "La Veillée des Givres et son sapin aux chandelles"
     },
     {
       "image": "photos/nouvelle-valombre-nuit.jpg",
@@ -422,14 +445,6 @@
     {
       "image": "photos/nains-grande-halle.jpg",
       "legende": "La grande halle de la forge"
-    },
-    {
-      "image": "photos/peche-aux-lueurs-combat.jpg",
-      "legende": "La Pêche aux Lueurs"
-    },
-    {
-      "image": "photos/arene-duel.jpg",
-      "legende": "Un duel dans l'arène"
     }
   ],
   "bandeau_lien": "https://ametwich.fr/discord",
