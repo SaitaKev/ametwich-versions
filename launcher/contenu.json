@@ -4,10 +4,22 @@
     {
       "titre": "Recrutement des bêta-testeurs",
       "date": "30 octobre 2026",
-      "image": "photos/grand-place.jpg",
+      "image": "photos/nouvelle-valombre-nuit.jpg",
       "texte": "AMETWICH cherche ses bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour les informations de recrutement.",
       "lien": "https://ametwich.fr/discord",
       "bouton": "Rejoindre le Discord"
+    },
+    {
+      "titre": "La nouvelle Valombre",
+      "date": "8 novembre 2026",
+      "image": "photos/nouvelle-valombre-chateau.jpg",
+      "texte": "Valombre a été rebâtie : une cité ronde, protégée par ses remparts, et le château refait en haut de sa falaise. Quatorze quartiers, des maisons toutes habitées et une Grand-Place plantée de cerisiers. Les habitants, leurs dialogues et leurs services sont à leurs nouvelles places. Vous gardez tout ce que vous aviez : inventaire, banque, métiers et guilde."
+    },
+    {
+      "titre": "Se téléporter entre amis, et les maîtres qui vous accueillent",
+      "date": "8 novembre 2026",
+      "image": "photos/nouvelle-valombre-trone.jpg",
+      "texte": "/tpa <joueur> pour rejoindre un ami, /tpahere pour qu'il vous rejoigne : il accepte ou refuse d'un clic. Les membres de votre groupe sont des points bleus sur la minicarte, la grande carte et la boussole. Chaque maître de métier vous accueille maintenant par un dialogue : apprendre, recettes, revente, boutique. Les membres d'un territoire le voient enfin dans leur onglet Territoires."
     },
     {
       "titre": "Un nouvel Échap, tout en onglets",
@@ -16,40 +28,10 @@
       "texte": "Appuyez sur Échap : votre carte d'aventurier vous attend au centre, vos onglets tout autour. À gauche votre aventure (Progression, Métiers, Quêtes, Hauts faits, Codex…), à droite Valombre et les autres (Groupe, Guilde, Courrier, Téléportations…). Un clic suffit, plus besoin de chercher dans les sous-menus. Et à l'atelier, passez la souris sur un ingrédient pour savoir où le trouver."
     },
     {
-      "titre": "Des armes bien en main, un Gardien qui vous accueille",
-      "date": "7 novembre 2026",
-      "image": "photos/armes-tenue-premiere-personne.jpg",
-      "texte": "Les épées, haches, masses, glaives et légendaires AMETWICH se tiennent désormais comme l'épée du jeu : même taille, même angle, à la première personne comme vue de l'extérieur. À Valombre, le Gardien du savoir vous accueille dans sa fenêtre : un clic lance vos Premiers Pas, un autre la grande quête du Pacte, et il vous montre le chemin de Garance pour monter en rang."
-    },
-    {
       "titre": "Repères, dernière mort et boussole GPS",
       "date": "6 novembre 2026",
       "image": "photos/carte-mes-reperes.jpg",
       "texte": "La carte devient votre meilleure alliée : posez vos repères (clic droit sur la carte ou touche B), choisissez leur couleur, leur icône et leur opacité, et suivez-les au GPS grâce à la nouvelle boussole en haut de l'écran. Votre dernière mort est marquée toute seule pour retrouver vos affaires, et la carte garde maintenant tout ce que vous avez exploré d'une connexion à l'autre."
-    },
-    {
-      "titre": "Le baluchon de l'Arrivant",
-      "date": "5 novembre 2026",
-      "image": "photos/tenue-arrivant.jpg",
-      "texte": "Valombre accueille ses habitants comme il se doit ! Chacun reçoit désormais, une fois, le baluchon de l'Arrivant : la Tenue de l'Arrivant en lin et en toile (9 pièces, de la capuche aux chausses), une hache et une pioche de pierre, du pain, des torches et un lit violet pour vos premières nuits. Même ceux qui sont déjà venus y ont droit !"
-    },
-    {
-      "titre": "Le livre des recettes",
-      "date": "5 novembre 2026",
-      "image": "photos/livre-des-recettes.jpg",
-      "texte": "Plus besoin de courir à l'atelier pour savoir quoi récolter ! Dans Échap › Progression, chaque métier (et la cuisine) a son bouton « Recettes » : toutes les recettes de votre rang, les ingrédients nécessaires et ce que vous avez déjà. Pour fabriquer, rendez-vous toujours à votre poste de travail. Et dans le monde Ressources, les nains, les elfes et les automates d'Airain choisissent désormais mieux leur terrain."
-    },
-    {
-      "titre": "Merci aux bêta-testeurs !",
-      "date": "4 novembre 2026",
-      "image": "photos/arrivee-gardien.jpg",
-      "texte": "Une soirée de tests, et déjà une mise à jour ! Les nouveaux venus se réveillent maintenant au bout de la Grand-Place, où le Gardien du savoir les attend avec leur première quête. Le menu Échap est rangé en rubriques, les territoires s'agrandissent d'un seul clic, et le combat à deux armes est plus beau. Continuez à nous dire ce que vous en pensez !"
-    },
-    {
-      "titre": "Le potager de Valombre",
-      "date": "4 novembre 2026",
-      "image": "photos/potager-mur.jpg",
-      "texte": "Tomates, poivrons, aubergines, oignons, fraises, vigne et maïs : sept nouvelles cultures arrivent ! Achetez les graines chez Tiphaine, aux Halles, plantez-les sur une terre labourée près de l'eau, et regardez-les pousser. Les cuisiniers en tirent huit nouveaux plats, chacun avec son effet. Et les marchands des Halles vendent enfin leurs marchandises !"
     },
     {
       "titre": "Les habitants prennent la parole",
@@ -68,87 +50,22 @@
       "date": "2 novembre 2026",
       "image": "photos/airain-grand-horloger.jpg",
       "texte": "Deux nouveaux peuples rejoignent le monde Ressources. Au cœur d'une forêt, les Elfes du Bois-Pâle veillent sur leurs arbres et n'aiment pas les humains : à vous de gagner leur respect. Sur les hauteurs, les automates d'Airain bâtissent Haute-Rouage, une cité de pistons et d'horlogerie. Et dans les métiers, 30 % des recettes sont désormais à découvrir !"
-    },
-    {
-      "titre": "Les nains de Roche-Cendre",
-      "date": "2 novembre 2026",
-      "image": "photos/nains-grande-halle.jpg",
-      "texte": "Un clan de nains bourrus s'est installé quelque part dans le monde Ressources. Rendez-leur service pour gagner leur confiance : ils paient en recettes de métier, et Grimbald Barbe-de-Cendre sait où se cachent les failles et les expéditions. Mais gare à qui touche à leur camp !"
-    },
-    {
-      "titre": "La banque de guilde s'agrandit",
-      "date": "1er novembre 2026",
-      "image": "photos/banque-de-guilde-4-coffres.jpg",
-      "texte": "Jusqu'à quatre coffres de 27 places par guilde ! Le chef achète les suivants d'un clic, puis choisit, coffre par coffre et grade par grade, qui peut voir, déposer ou retirer."
-    },
-    {
-      "titre": "Les Potions du guerrier",
-      "date": "1er novembre 2026",
-      "image": "photos/arene-duel.jpg",
-      "texte": "Trois potions d'arène préparées par l'Alchimiste. En arène JcJ, ce sont les seules qui soignent, et une seule par combat : à vous de choisir la bonne au bon moment."
-    },
-    {
-      "titre": "Les armes de votre guilde",
-      "date": "1er novembre 2026",
-      "image": "photos/tabard-de-guilde-apercu.jpg",
-      "texte": "Symbole, couleur du fond, couleur du symbole : l'aperçu du tabard se redessine à chaque clic dans Échap › Guilde."
-    },
-    {
-      "titre": "L'atelier des bâtisseurs",
-      "date": "1er novembre 2026",
-      "image": "photos/atelier-compact-apercu.jpg",
-      "texte": "L'atelier compact laisse voir le monde pendant la construction, et chaque ouvrage se montre en transparence avant d'être posé : Entrée pour valider, Retour arrière pour annuler."
-    },
-    {
-      "titre": "Le Hall de guerre",
-      "date": "1er novembre 2026",
-      "image": "photos/hall-de-guerre.jpg",
-      "texte": "Quarante mannequins en armure, des râteliers d'armes et les légendaires sous bonne garde : venez admirer chaque ensemble, du premier tier au champion des arènes, et lire ses statistiques."
-    },
-    {
-      "titre": "Les profondeurs de la Forge",
-      "date": "1er novembre 2026",
-      "image": "photos/forge-profonde-gouffre.jpg",
-      "texte": "Sous la Salle des Portails, la Forge-Profonde enjambe un gouffre de lave. C'est d'ici que partent les portails vers la Survie, les Ressources, les Arènes et les Repaires."
-    },
-    {
-      "titre": "Le launcher AMETWICH",
-      "date": "30 octobre 2026",
-      "image": "photos/menu-principal-valombre.jpg",
-      "texte": "Connectez-vous avec votre compte Microsoft et cliquez sur Jouer : le jeu s'installe, se met à jour tout seul et vous emmène directement à Valombre."
-    },
-    {
-      "titre": "La Pêche aux Lueurs",
-      "date": "28 octobre 2026",
-      "image": "photos/peche-aux-lueurs-combat.jpg",
-      "texte": "200 poissons à découvrir, 20 leurres et 5 cannes. Quand ça mord, tenez la tension : molette vers le bas pour ramener, vers le haut pour relâcher, sans casser la ligne. Vendez vos prises à la Criée et complétez votre carnet."
-    },
-    {
-      "titre": "Les coffres sur la Grand-Place",
-      "date": "30 octobre 2026",
-      "image": "photos/coffres-grand-place.jpg",
-      "texte": "Le Coffre des votes et le coffre du jour trônent sur leur estrade, entre la fontaine et la cathédrale. Votez avec /vote : une clé par vote, et tous les 50 votes du serveur, la VoteParty récompense chaque joueur connecté."
-    },
-    {
-      "titre": "Valombre vous attend",
-      "date": "24 octobre 2026",
-      "image": "photos/menu-principal-valombre.jpg",
-      "texte": "La cité de Valombre, son château, sa cathédrale et sa grand-place : votre aventure commence ici. Dix-huit métiers, des guildes, des boss maison et des arènes."
-    },
-    {
-      "titre": "Le coffre du jour",
-      "date": "24 octobre 2026",
-      "image": "photos/coffre-du-jour-ouverture.jpg",
-      "texte": "Chaque jour, une clé. Sur la grand-place, ouvrez le coffre du jour : Améthines, pommes d'or et une surprise. Sept jours d'affilée : la grande récompense !"
-    },
-    {
-      "titre": "L'Amulette d'écho",
-      "date": "24 octobre 2026",
-      "image": "photos/amulette-d-echo-radio.jpg",
-      "texte": "Parlez à vos compagnons où qu'ils soient : réglez votre amulette sur une fréquence (0,01 à 99,99) et appuyez sur R."
     }
   ],
   "mises_a_jour": [
+    {
+      "version": "0.1.23",
+      "date": "8 novembre 2026",
+      "titre": "La nouvelle Valombre",
+      "points": [
+        "La nouvelle Valombre : cité ronde, château sur sa falaise, 14 quartiers, tous les habitants à leur place",
+        "/tpa et /tpahere : demander à rejoindre un joueur, qui accepte ou refuse d'un clic",
+        "Groupes : vos coéquipiers en points bleus sur la minicarte, la grande carte et la boussole",
+        "Maîtres de métier : une fenêtre d'accueil (apprendre, recettes, revente, boutique) ; les maîtres artisans rachètent les objets courants de leur métier",
+        "Territoires : les membres ajoutés voient le territoire, ses limites, et peuvent le quitter ; nombreuses corrections, territoires de guilde compris",
+        "Staff : mode modérateur (/modo)"
+      ]
+    },
     {
       "version": "0.1.22",
       "date": "7 novembre 2026",
@@ -467,256 +384,52 @@
   ],
   "photos": [
     {
+      "image": "photos/nouvelle-valombre-chateau.jpg",
+      "legende": "La nouvelle Valombre : la Grand-Rue monte vers le château"
+    },
+    {
+      "image": "photos/nouvelle-valombre-nuit.jpg",
+      "legende": "La cité ronde, la nuit"
+    },
+    {
+      "image": "photos/nouvelle-valombre-trone.jpg",
+      "legende": "La salle du trône"
+    },
+    {
       "image": "photos/echap-accueil.jpg",
       "legende": "Le nouvel Échap : votre carte au centre, vos onglets à gauche et à droite"
-    },
-    {
-      "image": "photos/echap-quetes.jpg",
-      "legende": "Échap › Quêtes : toutes vos quêtes au même endroit"
-    },
-    {
-      "image": "photos/echap-metiers.jpg",
-      "legende": "Échap › Métiers : vos métiers, leurs rangs et vos recettes"
-    },
-    {
-      "image": "photos/atelier-ou-le-trouver.jpg",
-      "legende": "À l'atelier, une bulle vous dit où trouver chaque ingrédient"
-    },
-    {
-      "image": "photos/armes-tenue-premiere-personne.jpg",
-      "legende": "À la première personne : l'épée en fer du jeu (en haut à gauche) et les armes AMETWICH, tenues pareil"
-    },
-    {
-      "image": "photos/armes-tenue-exterieur.jpg",
-      "legende": "Vue de l'extérieur : l'épée du jeu, puis les armes AMETWICH"
-    },
-    {
-      "image": "photos/gardien-quete-lancee.jpg",
-      "legende": "Un clic, et les Premiers Pas commencent : la suite est dans Échap › Quêtes"
-    },
-    {
-      "image": "photos/gardien-retour.jpg",
-      "legende": "Le Gardien du savoir : vos quêtes, la grande quête, les rangs et les tutos"
     },
     {
       "image": "photos/carte-mes-reperes.jpg",
       "legende": "La grande carte : vos repères, votre dernière mort et les boutons pour régler l'écran"
     },
     {
-      "image": "photos/boussole-derniere-mort.jpg",
-      "legende": "La boussole vous ramène à l'endroit de votre dernière mort"
-    },
-    {
-      "image": "photos/nouveau-repere.jpg",
-      "legende": "Un nouveau repère : nom, couleur, icône, opacité et GPS"
-    },
-    {
-      "image": "photos/repere-dans-le-monde.jpg",
-      "legende": "« Ma mine » à 50 % d'opacité, suivie au GPS"
-    },
-    {
-      "image": "photos/atelier-cout-xp.jpg",
-      "legende": "L'atelier prévient quand il manque des niveaux d'XP pour fabriquer"
-    },
-    {
-      "image": "photos/tenue-arrivant.jpg",
-      "legende": "La Tenue de l'Arrivant : de face, de dos, et la chemise sous la tunique"
-    },
-    {
-      "image": "photos/tenue-arrivant-face.jpg",
-      "legende": "La Tenue de l'Arrivant, en lin et en toile"
-    },
-    {
-      "image": "photos/livre-des-recettes.jpg",
-      "legende": "Le livre des recettes du Cuisinier, ouvert depuis Échap"
-    },
-    {
-      "image": "photos/livre-des-recettes-echap.jpg",
-      "legende": "Échap › Progression : un livre de recettes par métier"
-    },
-    {
-      "image": "photos/nains-campement-taiga.jpg",
-      "legende": "Le campement des nains de Roche-Cendre, dans une forêt de sapins"
-    },
-    {
-      "image": "photos/airain-haute-rouage-jungle.jpg",
-      "legende": "Haute-Rouage, la cité des automates d'Airain"
-    },
-    {
-      "image": "photos/arrivee-gardien.jpg",
-      "legende": "Le Gardien du savoir vous attend devant votre maison, au bout de la Grand-Place"
-    },
-    {
-      "image": "photos/arrivee-maison.jpg",
-      "legende": "Votre première maison à Valombre"
-    },
-    {
-      "image": "photos/menu-echap-rubriques.jpg",
-      "legende": "Le menu Échap, rangé en rubriques"
-    },
-    {
-      "image": "photos/menu-echap-territoires.jpg",
-      "legende": "Échap › Monde › Territoires"
-    },
-    {
       "image": "photos/dialogues-gauvin.jpg",
       "legende": "Une conversation avec Gauvin, le tavernier de la Chope"
-    },
-    {
-      "image": "photos/taverne-gauvin-biere.jpg",
-      "legende": "La troisième bière… la salle se met à tanguer"
-    },
-    {
-      "image": "photos/dialogues-colin.jpg",
-      "legende": "Colin, le gamin des rues, a un secret à vous confier"
-    },
-    {
-      "image": "photos/dialogues-bertrand.jpg",
-      "legende": "« À combien est votre Gazette ? » — Bertrand le Crieur"
-    },
-    {
-      "image": "photos/potager-mur.jpg",
-      "legende": "Le potager : maïs, vigne, fraises, oignons, aubergines, poivrons et tomates"
-    },
-    {
-      "image": "photos/potager-de-pres.jpg",
-      "legende": "Des aubergines, du maïs et des tomates bien mûrs"
-    },
-    {
-      "image": "photos/marche-pernelle.jpg",
-      "legende": "Pernelle, la boulangère des Halles, et son étal"
     },
     {
       "image": "photos/pacte-chevalier-brise.jpg",
       "legende": "Le Gardien de la Fracture, un chevalier brisé"
     },
     {
-      "image": "photos/pacte-armure-chevalier.jpg",
-      "legende": "L'Armure du Chevalier brisé, récompense du Pacte"
-    },
-    {
-      "image": "photos/caravane-brigands.jpg",
-      "legende": "Les brigands attaquent la caravane du samedi"
-    },
-    {
-      "image": "photos/elfes-ithaelle.jpg",
-      "legende": "Ithaëlle, gardienne du Bois-Pâle"
+      "image": "photos/airain-haute-rouage-jungle.jpg",
+      "legende": "Haute-Rouage, la cité des automates d'Airain"
     },
     {
       "image": "photos/elfes-bosquet.jpg",
       "legende": "Le bosquet des elfes et son Arbre-Mère"
     },
     {
-      "image": "photos/airain-grand-horloger.jpg",
-      "legende": "Le Grand Horloger, maître des automates"
-    },
-    {
-      "image": "photos/nains-grimbald.jpg",
-      "legende": "Grimbald Barbe-de-Cendre, maître du clan"
-    },
-    {
       "image": "photos/nains-grande-halle.jpg",
       "legende": "La grande halle de la forge"
-    },
-    {
-      "image": "photos/nains-fenetre-du-clan.jpg",
-      "legende": "La fenêtre du clan : réputation, indices, services"
-    },
-    {
-      "image": "photos/banque-de-guilde-4-coffres.jpg",
-      "legende": "La banque de guilde et ses 4 coffres"
-    },
-    {
-      "image": "photos/arene-duel.jpg",
-      "legende": "Un duel dans l'arène"
-    },
-    {
-      "image": "photos/tabard-de-guilde-apercu.jpg",
-      "legende": "Les armes de la guilde"
-    },
-    {
-      "image": "photos/atelier-compact-apercu.jpg",
-      "legende": "L'atelier compact des bâtisseurs"
-    },
-    {
-      "image": "photos/maison-des-apparences-valider.jpg",
-      "legende": "La Maison des Apparences"
-    },
-    {
-      "image": "photos/monture-vie-au-dessus.jpg",
-      "legende": "En selle !"
-    },
-    {
-      "image": "photos/hall-de-guerre.jpg",
-      "legende": "Le Hall de guerre"
-    },
-    {
-      "image": "photos/forge-profonde-gouffre.jpg",
-      "legende": "Les profondeurs de la Forge"
     },
     {
       "image": "photos/peche-aux-lueurs-combat.jpg",
       "legende": "La Pêche aux Lueurs"
     },
     {
-      "image": "photos/peche-aux-lueurs-prise.jpg",
-      "legende": "Une belle prise"
-    },
-    {
-      "image": "photos/coffres-grand-place.jpg",
-      "legende": "Les coffres de la Grand-Place"
-    },
-    {
-      "image": "photos/grand-place.jpg",
-      "legende": "La Grand-Place"
-    },
-    {
-      "image": "photos/menu-principal-valombre.jpg",
-      "legende": "Valombre"
-    },
-    {
-      "image": "photos/cathedrale-nef.jpg",
-      "legende": "La cathédrale"
-    },
-    {
-      "image": "photos/cathedrale-choeur.jpg",
-      "legende": "Le chœur"
-    },
-    {
-      "image": "photos/forge-des-legendes-crypte.jpg",
-      "legende": "La Forge des Légendes"
-    },
-    {
-      "image": "photos/forge-du-chateau-armurerie.jpg",
-      "legende": "L'armurerie du château"
-    },
-    {
-      "image": "photos/boss-modeles-v2.jpg",
-      "legende": "Les boss"
-    },
-    {
-      "image": "photos/jcj-arene-duel.jpg",
-      "legende": "Les arènes"
-    },
-    {
-      "image": "photos/champs-confins.jpg",
-      "legende": "Les champs de bataille"
-    },
-    {
-      "image": "photos/enseigne-metier-sur-auvent.jpg",
-      "legende": "Les échoppes"
-    },
-    {
-      "image": "photos/poteau-indicateur.jpg",
-      "legende": "Les rues de Valombre"
-    },
-    {
-      "image": "photos/coffre-du-jour-ouverture.jpg",
-      "legende": "Le coffre du jour"
-    },
-    {
-      "image": "photos/amulette-d-echo-radio.jpg",
-      "legende": "L'Amulette d'écho"
+      "image": "photos/arene-duel.jpg",
+      "legende": "Un duel dans l'arène"
     }
   ],
   "bandeau_lien": "https://ametwich.fr/discord",
