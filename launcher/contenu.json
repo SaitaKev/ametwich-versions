@@ -2,6 +2,12 @@
  "bandeau": "Recrutement des bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour toutes les informations.",
  "actualites": [
   {
+   "titre": "Peluches, friandises et tenues de la Foire",
+   "date": "9 novembre 2026",
+   "image": "photos/foire-peluches.jpg",
+   "texte": "Le Comptoir des lots de la Foire s'enrichit : six peluches à poser chez vous, des friandises à croquer (barbe à papa, pomme d'amour, chouchous, gaufre, sucre d'orge), des tenues et des coiffes de saltimbanque pour la Maison des Apparences. Et à Valombre, le grand trône d'améthyste, des meubles qui rangent vos affaires et les colis : un objet personnel jeté revient dans votre boîte aux lettres."
+  },
+  {
    "titre": "La tour des mages et la Faille des Géants",
    "date": "9 novembre 2026",
    "image": "photos/tour-des-mages.jpg",
@@ -17,9 +23,7 @@
    "titre": "Recrutement des bêta-testeurs",
    "date": "30 octobre 2026",
    "image": "photos/nouvelle-valombre-nuit.jpg",
-   "texte": "AMETWICH cherche ses bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour les informations de recrutement.",
-   "lien": "https://ametwich.fr/discord",
-   "bouton": "Rejoindre le Discord"
+   "texte": "AMETWICH cherche ses bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour les informations de recrutement."
   },
   {
    "titre": "Les fêtes de Valombre deviennent médiévales",
@@ -44,15 +48,23 @@
    "date": "8 novembre 2026",
    "image": "photos/nouvelle-valombre-trone.jpg",
    "texte": "/tpa <joueur> pour rejoindre un ami, /tpahere pour qu'il vous rejoigne : il accepte ou refuse d'un clic. Les membres de votre groupe sont des points bleus sur la minicarte, la grande carte et la boussole. Chaque maître de métier vous accueille maintenant par un dialogue : apprendre, recettes, revente, boutique. Les membres d'un territoire le voient enfin dans leur onglet Territoires."
-  },
-  {
-   "titre": "Un nouvel Échap, tout en onglets",
-   "date": "7 novembre 2026",
-   "image": "photos/echap-accueil.jpg",
-   "texte": "Appuyez sur Échap : votre carte d'aventurier vous attend au centre, vos onglets tout autour. À gauche votre aventure (Progression, Métiers, Quêtes, Hauts faits, Codex…), à droite Valombre et les autres (Groupe, Guilde, Courrier, Téléportations…). Un clic suffit, plus besoin de chercher dans les sous-menus. Et à l'atelier, passez la souris sur un ingrédient pour savoir où le trouver."
   }
  ],
  "mises_a_jour": [
+  {
+   "version": "0.1.27",
+   "date": "9 novembre 2026",
+   "titre": "Lots de la Foire, meubles qui rangent, grand trône et Gor'Math en 3D",
+   "points": [
+    "Foire : peluches, friandises, tenues et coiffes au Comptoir des lots",
+    "Colis : un objet personnel jeté (tenue de départ…) revient dans la boîte aux lettres (onglet Colis, 30 jours)",
+    "Meubles qui rangent : tonneau, coffre de voyage, commode, armoire, coffre royal, coffret à bijoux, caisse de poissons",
+    "Le grand trône d'améthyste (on s'y assoit) et l'arche runique agrandie (on passe dessous)",
+    "Grande carte : en dézoomant, tout ce qui a été découvert, sans bande noire",
+    "Maison des Apparences : une apparence pour toute la tenue d'un coup",
+    "Le mod sait afficher les boss modelés dans Blender : Gor'Math en 3D lisse, avec ses vraies animations"
+   ]
+  },
   {
    "version": "0.1.26",
    "date": "9 novembre 2026",
@@ -425,6 +437,14 @@
  ],
  "photos": [
   {
+   "image": "photos/foire-peluches.jpg",
+   "legende": "Les peluches du Comptoir des lots de la Foire"
+  },
+  {
+   "image": "photos/grand-trone.jpg",
+   "legende": "Le grand trône d'améthyste"
+  },
+  {
    "image": "photos/tour-des-mages.jpg",
    "legende": "La tour des mages : la Salle des Portails de Valombre"
   },
@@ -463,14 +483,6 @@
   {
    "image": "photos/carte-mes-reperes.jpg",
    "legende": "La grande carte : vos repères, votre dernière mort et les boutons pour régler l'écran"
-  },
-  {
-   "image": "photos/dialogues-gauvin.jpg",
-   "legende": "Une conversation avec Gauvin, le tavernier de la Chope"
-  },
-  {
-   "image": "photos/pacte-chevalier-brise.jpg",
-   "legende": "Le Gardien de la Fracture, un chevalier brisé"
   }
  ],
  "bandeau_lien": "https://ametwich.fr/discord",
