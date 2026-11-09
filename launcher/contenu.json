@@ -2,6 +2,12 @@
  "bandeau": "Recrutement des bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour toutes les informations.",
  "actualites": [
   {
+   "titre": "La tour des mages et la Faille des Géants",
+   "date": "9 novembre 2026",
+   "image": "photos/tour-des-mages.jpg",
+   "texte": "La Salle des Portails devient une tour des mages ronde au toit violet. Montez son escalier en colimaçon jusqu'au grand portail rond : il vous mène à la Faille des Géants, sous la montagne du château, où les deux géants veillent sur les portails du monde. Des tremplins dorés vous y font voler d'un bout à l'autre de la salle. Le même escalier descend à la Forge-Profonde."
+  },
+  {
    "titre": "La Foire de Valombre arrive !",
    "date": "9 novembre 2026",
    "image": "photos/foire-de-valombre.jpg",
@@ -44,15 +50,20 @@
    "date": "7 novembre 2026",
    "image": "photos/echap-accueil.jpg",
    "texte": "Appuyez sur Échap : votre carte d'aventurier vous attend au centre, vos onglets tout autour. À gauche votre aventure (Progression, Métiers, Quêtes, Hauts faits, Codex…), à droite Valombre et les autres (Groupe, Guilde, Courrier, Téléportations…). Un clic suffit, plus besoin de chercher dans les sous-menus. Et à l'atelier, passez la souris sur un ingrédient pour savoir où le trouver."
-  },
-  {
-   "titre": "Repères, dernière mort et boussole GPS",
-   "date": "6 novembre 2026",
-   "image": "photos/carte-mes-reperes.jpg",
-   "texte": "La carte devient votre meilleure alliée : posez vos repères (clic droit sur la carte ou touche B), choisissez leur couleur, leur icône et leur opacité, et suivez-les au GPS grâce à la nouvelle boussole en haut de l'écran. Votre dernière mort est marquée toute seule pour retrouver vos affaires, et la carte garde maintenant tout ce que vous avez exploré d'une connexion à l'autre."
   }
  ],
  "mises_a_jour": [
+  {
+   "version": "0.1.26",
+   "date": "9 novembre 2026",
+   "titre": "La tour des mages, la Faille des Géants et les tremplins",
+   "points": [
+    "La Salle des Portails : une tour des mages ronde, son escalier en colimaçon monte au grand portail rond et descend à la Forge-Profonde",
+    "Le portail mène à la Faille des Géants, sous la montagne du château : les deux géants et les portails Survie, Ressources, Arènes et Repaires",
+    "Des tremplins dorés : on marche dessus et on vole jusqu'au bout de la salle, sans se faire mal",
+    "Transmogrification : un onglet « Coiffes » pour les apparences de tête"
+   ]
+  },
   {
    "version": "0.1.25",
    "date": "9 novembre 2026",
@@ -414,6 +425,14 @@
  ],
  "photos": [
   {
+   "image": "photos/tour-des-mages.jpg",
+   "legende": "La tour des mages : la Salle des Portails de Valombre"
+  },
+  {
+   "image": "photos/faille-des-geants.jpg",
+   "legende": "La Faille des Géants, sous la montagne du château"
+  },
+  {
    "image": "photos/foire-grande-roue.jpg",
    "legende": "La Grande Roue de la Foire de Valombre"
   },
@@ -452,14 +471,6 @@
   {
    "image": "photos/pacte-chevalier-brise.jpg",
    "legende": "Le Gardien de la Fracture, un chevalier brisé"
-  },
-  {
-   "image": "photos/airain-haute-rouage-jungle.jpg",
-   "legende": "Haute-Rouage, la cité des automates d'Airain"
-  },
-  {
-   "image": "photos/elfes-bosquet.jpg",
-   "legende": "Le bosquet des elfes et son Arbre-Mère"
   }
  ],
  "bandeau_lien": "https://ametwich.fr/discord",
