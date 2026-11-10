@@ -2,6 +2,12 @@
  "bandeau": "Recrutement des bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour toutes les informations.",
  "actualites": [
   {
+   "titre": "Des boss qui prennent vie",
+   "date": "10 novembre 2026",
+   "image": "photos/boss-vael-kor.jpg",
+   "texte": "Gor'Math, Vael'Kor et Nhar'Zul ont été refaits dans Blender, avec de vraies animations : ils respirent, regardent autour d'eux, prennent leur élan avant de frapper… et ce coup-là, si vous le voyez venir, vous pouvez l'esquiver. Nhar'Zul, la Louve, montre désormais les crocs. Et dans votre inventaire, les effets en cours s'affichent avec le temps qui leur reste."
+  },
+  {
    "titre": "Peluches, friandises et tenues de la Foire",
    "date": "9 novembre 2026",
    "image": "photos/foire-peluches.jpg",
@@ -42,15 +48,23 @@
    "date": "8 novembre 2026",
    "image": "photos/valombre-logo-chateau.jpg",
    "texte": "Valombre a été rebâtie : une cité ronde, protégée par ses remparts, et le château refait en haut de sa falaise. Quatorze quartiers, des maisons toutes habitées et une Grand-Place ombragée de chênes. Les habitants, leurs dialogues et leurs services sont à leurs nouvelles places. Vous gardez tout ce que vous aviez : inventaire, banque, métiers et guilde."
-  },
-  {
-   "titre": "Se téléporter entre amis, et les maîtres qui vous accueillent",
-   "date": "8 novembre 2026",
-   "image": "photos/nouvelle-valombre-trone.jpg",
-   "texte": "/tpa <joueur> pour rejoindre un ami, /tpahere pour qu'il vous rejoigne : il accepte ou refuse d'un clic. Les membres de votre groupe sont des points bleus sur la minicarte, la grande carte et la boussole. Chaque maître de métier vous accueille maintenant par un dialogue : apprendre, recettes, revente, boutique. Les membres d'un territoire le voient enfin dans leur onglet Territoires."
   }
  ],
  "mises_a_jour": [
+  {
+   "version": "0.1.28",
+   "date": "10 novembre 2026",
+   "titre": "Des boss vivants, les effets dans l'inventaire et l'Observatoire réparé",
+   "points": [
+    "Boss : Gor'Math, Vael'Kor, Nhar'Zul et le Gardien de la Fracture bougent comme des êtres vivants (respiration, balancement, élan avant chaque coup)",
+    "Le coup d'un boss part après son élan : on peut l'esquiver en voyant venir",
+    "Nhar'Zul est plus effrayante (crocs, crinière hérissée, yeux luisants) et souffle un air glacé",
+    "Inventaire : les effets en cours (poison, potions…) avec leur temps restant",
+    "Vol : partout dès le niveau requis, sauf dans les arènes, les repaires de boss et le premier jour d'un monde Ressources renouvelé",
+    "Les capes sont retirées du jeu : celles déjà possédées sont remboursées",
+    "Observatoire (staff) : « S'y rendre » en un clic, alertes supprimables ; l'anti-triche ne confond plus Bûcheron et Veine avec de la triche"
+   ]
+  },
   {
    "version": "0.1.27",
    "date": "9 novembre 2026",
@@ -437,6 +451,14 @@
  ],
  "photos": [
   {
+   "image": "photos/boss-vael-kor.jpg",
+   "legende": "Vael'Kor, le Paladin, en garde"
+  },
+  {
+   "image": "photos/boss-gor-math.jpg",
+   "legende": "Gor'Math lève sa hache"
+  },
+  {
    "image": "photos/foire-peluches.jpg",
    "legende": "Les peluches du Comptoir des lots de la Foire"
   },
@@ -475,14 +497,6 @@
   {
    "image": "photos/nouvelle-valombre-trone.jpg",
    "legende": "La salle du trône"
-  },
-  {
-   "image": "photos/echap-accueil.jpg",
-   "legende": "Le nouvel Échap : votre carte au centre, vos onglets à gauche et à droite"
-  },
-  {
-   "image": "photos/carte-mes-reperes.jpg",
-   "legende": "La grande carte : vos repères, votre dernière mort et les boutons pour régler l'écran"
   }
  ],
  "bandeau_lien": "https://ametwich.fr/discord",
