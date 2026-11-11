@@ -2,6 +2,12 @@
  "bandeau": "Recrutement des bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour toutes les informations.",
  "actualites": [
   {
+   "titre": "Les donjons de Valombre",
+   "date": "11 novembre 2026",
+   "image": "photos/mine-brisefer.jpg",
+   "texte": "Descendez dans les Catacombes de Valombre : dix étages de cryptes pleines de goules, une malédiction différente chaque semaine et un classement. Ou entrez à plusieurs dans la Mine des Faussaires, ses quatre chefs et son canon. Chaque groupe a désormais son propre donjon, et si vous êtes seul, « Chercher un groupe » vous réunit avec d'autres aventuriers. Douze hauts faits de donjon, le Secret du Labyrinthe et ses huit énigmes, et un bloc-notes rien qu'à vous dans l'Échap."
+  },
+  {
    "titre": "Des boss qui prennent vie",
    "date": "10 novembre 2026",
    "image": "photos/boss-vael-kor.jpg",
@@ -42,15 +48,29 @@
    "date": "8 novembre 2026",
    "image": "photos/launcher-onglet-mods.jpg",
    "texte": "Le launcher a un nouvel onglet Mods : Litematica (sans printer) pour reconstruire vos plans, MiniHUD, Mod Menu, Zoomify, AppleSkin et d'autres, choisis pour rester justes. Dans l'onglet Shaders, « Ajouter mon shader » installe celui que vous préférez. Et la carte s'affiche enfin dans le Nether."
-  },
-  {
-   "titre": "La nouvelle Valombre",
-   "date": "8 novembre 2026",
-   "image": "photos/valombre-logo-chateau.jpg",
-   "texte": "Valombre a été rebâtie : une cité ronde, protégée par ses remparts, et le château refait en haut de sa falaise. Quatorze quartiers, des maisons toutes habitées et une Grand-Place ombragée de chênes. Les habitants, leurs dialogues et leurs services sont à leurs nouvelles places. Vous gardez tout ce que vous aviez : inventaire, banque, métiers et guilde."
   }
  ],
  "mises_a_jour": [
+  {
+   "version": "0.1.29",
+   "date": "11 novembre 2026",
+   "titre": "Les Catacombes, la Mine des Faussaires et le Secret du Labyrinthe",
+   "points": [
+    "Les Catacombes de Valombre : 10 étages de cryptes peuplées de goules, une malédiction différente chaque semaine, un classement et le titre « Fléau des goules »",
+    "La Mine des Faussaires : un donjon de groupe (2 à 5) avec quatre chefs, un canon, et la Panoplie du Faussaire à gagner",
+    "Chaque groupe a son propre donjon (et son propre repaire de boss, sa propre arène) : plus d'attente",
+    "« Chercher un groupe » : seul, le jeu vous réunit avec d'autres aventuriers pour la Mine ou les Catacombes",
+    "12 hauts faits de donjon (Sans une égratignure, Coup de grisou, Sous la Nuée, Croque-mort…)",
+    "Le trésor du Labyrinthe chaque semaine, et le Secret du Labyrinthe : huit énigmes, un titre et une aura",
+    "La renommée auprès des nains, des elfes et d'Airain : compagnons, montures et titres de Légende",
+    "Échap › Bloc-notes : vos notes à vous, gardées sur le serveur",
+    "Les longues pages de l'Échap défilent aussi en attrapant leur barre à la souris",
+    "Vos clés de vote et vos clés du coffre s'affichent dans l'inventaire, à côté des Améthines",
+    "10 nouvelles peluches à la Foire, des outils T1 à T5 plus forts que la netherite, 16 jouets à la boutique (/farces pour refuser ceux des autres)",
+    "La Foire : Dame Pervenche se parle de devant son comptoir, et au Tape-zombies on touche aussi les trous du fond sans bouger",
+    "La visite guidée est retirée"
+   ]
+  },
   {
    "version": "0.1.28",
    "date": "10 novembre 2026",
@@ -451,6 +471,10 @@
  ],
  "photos": [
   {
+   "image": "photos/mine-brisefer.jpg",
+   "legende": "Brisefer, le Contremaître de la Mine des Faussaires"
+  },
+  {
    "image": "photos/boss-vael-kor.jpg",
    "legende": "Vael'Kor, le Paladin, en garde"
   },
@@ -493,10 +517,6 @@
   {
    "image": "photos/nouvelle-valombre-nuit.jpg",
    "legende": "La cité ronde, la nuit"
-  },
-  {
-   "image": "photos/nouvelle-valombre-trone.jpg",
-   "legende": "La salle du trône"
   }
  ],
  "bandeau_lien": "https://ametwich.fr/discord",
