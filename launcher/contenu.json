@@ -1,524 +1,546 @@
 {
- "bandeau": "Recrutement des bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour toutes les informations.",
- "actualites": [
-  {
-   "titre": "Les donjons de Valombre",
-   "date": "11 novembre 2026",
-   "image": "photos/mine-brisefer.jpg",
-   "texte": "Descendez dans les Catacombes de Valombre : dix étages de cryptes pleines de goules, une malédiction différente chaque semaine et un classement. Ou entrez à plusieurs dans la Mine des Faussaires, ses quatre chefs et son canon. Chaque groupe a désormais son propre donjon, et si vous êtes seul, « Chercher un groupe » vous réunit avec d'autres aventuriers. Douze hauts faits de donjon, le Secret du Labyrinthe et ses huit énigmes, et un bloc-notes rien qu'à vous dans l'Échap."
-  },
-  {
-   "titre": "Des boss qui prennent vie",
-   "date": "10 novembre 2026",
-   "image": "photos/boss-vael-kor.jpg",
-   "texte": "Gor'Math, Vael'Kor et Nhar'Zul ont été refaits dans Blender, avec de vraies animations : ils respirent, regardent autour d'eux, prennent leur élan avant de frapper… et ce coup-là, si vous le voyez venir, vous pouvez l'esquiver. Nhar'Zul, la Louve, montre désormais les crocs. Et dans votre inventaire, les effets en cours s'affichent avec le temps qui leur reste."
-  },
-  {
-   "titre": "Peluches, friandises et tenues de la Foire",
-   "date": "9 novembre 2026",
-   "image": "photos/foire-peluches.jpg",
-   "texte": "Le Comptoir des lots de la Foire s'enrichit : six peluches à poser chez vous, des friandises à croquer (barbe à papa, pomme d'amour, chouchous, gaufre, sucre d'orge), des tenues et des coiffes de saltimbanque pour la Maison des Apparences. Et à Valombre, le grand trône d'améthyste, des meubles qui rangent vos affaires et les colis : un objet personnel jeté revient dans votre boîte aux lettres."
-  },
-  {
-   "titre": "La tour des mages et la Faille des Géants",
-   "date": "9 novembre 2026",
-   "image": "photos/tour-des-mages.jpg",
-   "texte": "La Salle des Portails devient une tour des mages ronde au toit violet. Montez son escalier en colimaçon jusqu'au grand portail rond : il vous mène à la Faille des Géants, sous la montagne du château, où les deux géants veillent sur les portails du monde. Des tremplins dorés vous y font voler d'un bout à l'autre de la salle. Le même escalier descend à la Forge-Profonde."
-  },
-  {
-   "titre": "La Foire de Valombre arrive !",
-   "date": "9 novembre 2026",
-   "image": "photos/foire-de-valombre.jpg",
-   "texte": "Chaque mois, du 1er au 7, la foire plante ses tentes : volez au Boulet humain, visez au Pas de tir, tapez les zombies (pas les villageois !), faites un tour de Grande Roue et filez sur le Parcours des Saltimbanques. Gagnez des tickets et échangez-les au Comptoir des lots contre des titres, des familiers et des montures. Mirabelle, sur la Grand-Place, vous y mène."
-  },
-  {
-   "titre": "Recrutement des bêta-testeurs",
-   "date": "30 octobre 2026",
-   "image": "photos/nouvelle-valombre-nuit.jpg",
-   "texte": "AMETWICH cherche ses bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour les informations de recrutement."
-  },
-  {
-   "titre": "Les fêtes de Valombre deviennent médiévales",
-   "date": "8 novembre 2026",
-   "image": "photos/fete-des-moissons.jpg",
-   "texte": "Place aux fêtes de village : la Fête des Semailles au printemps (le mât de mai et ses rubans), les Feux de la Saint-Jean l'été, la Fête des Moissons à l'automne (le grand banquet de la Grand-Place) et la Veillée des Givres l'hiver (le sapin aux chandelles). Les titres et compagnons déjà gagnés restent à vous."
-  },
-  {
-   "titre": "Des mods et vos shaders, d'un clic",
-   "date": "8 novembre 2026",
-   "image": "photos/launcher-onglet-mods.jpg",
-   "texte": "Le launcher a un nouvel onglet Mods : Litematica (sans printer) pour reconstruire vos plans, MiniHUD, Mod Menu, Zoomify, AppleSkin et d'autres, choisis pour rester justes. Dans l'onglet Shaders, « Ajouter mon shader » installe celui que vous préférez. Et la carte s'affiche enfin dans le Nether."
-  }
- ],
- "mises_a_jour": [
-  {
-   "version": "0.1.29",
-   "date": "11 novembre 2026",
-   "titre": "Les Catacombes, la Mine des Faussaires et le Secret du Labyrinthe",
-   "points": [
-    "Les Catacombes de Valombre : 10 étages de cryptes peuplées de goules, une malédiction différente chaque semaine, un classement et le titre « Fléau des goules »",
-    "La Mine des Faussaires : un donjon de groupe (2 à 5) avec quatre chefs, un canon, et la Panoplie du Faussaire à gagner",
-    "Chaque groupe a son propre donjon (et son propre repaire de boss, sa propre arène) : plus d'attente",
-    "« Chercher un groupe » : seul, le jeu vous réunit avec d'autres aventuriers pour la Mine ou les Catacombes",
-    "12 hauts faits de donjon (Sans une égratignure, Coup de grisou, Sous la Nuée, Croque-mort…)",
-    "Le trésor du Labyrinthe chaque semaine, et le Secret du Labyrinthe : huit énigmes, un titre et une aura",
-    "La renommée auprès des nains, des elfes et d'Airain : compagnons, montures et titres de Légende",
-    "Échap › Bloc-notes : vos notes à vous, gardées sur le serveur",
-    "Les longues pages de l'Échap défilent aussi en attrapant leur barre à la souris",
-    "Vos clés de vote et vos clés du coffre s'affichent dans l'inventaire, à côté des Améthines",
-    "10 nouvelles peluches à la Foire, des outils T1 à T5 plus forts que la netherite, 16 jouets à la boutique (/farces pour refuser ceux des autres)",
-    "La Foire : Dame Pervenche se parle de devant son comptoir, et au Tape-zombies on touche aussi les trous du fond sans bouger",
-    "La visite guidée est retirée"
-   ]
-  },
-  {
-   "version": "0.1.28",
-   "date": "10 novembre 2026",
-   "titre": "Des boss vivants, les effets dans l'inventaire et l'Observatoire réparé",
-   "points": [
-    "Boss : Gor'Math, Vael'Kor, Nhar'Zul et le Gardien de la Fracture bougent comme des êtres vivants (respiration, balancement, élan avant chaque coup)",
-    "Le coup d'un boss part après son élan : on peut l'esquiver en voyant venir",
-    "Nhar'Zul est plus effrayante (crocs, crinière hérissée, yeux luisants) et souffle un air glacé",
-    "Inventaire : les effets en cours (poison, potions…) avec leur temps restant",
-    "Vol : partout dès le niveau requis, sauf dans les arènes, les repaires de boss et le premier jour d'un monde Ressources renouvelé",
-    "Les capes sont retirées du jeu : celles déjà possédées sont remboursées",
-    "Observatoire (staff) : « S'y rendre » en un clic, alertes supprimables ; l'anti-triche ne confond plus Bûcheron et Veine avec de la triche"
-   ]
-  },
-  {
-   "version": "0.1.27",
-   "date": "9 novembre 2026",
-   "titre": "Lots de la Foire, meubles qui rangent, grand trône et Gor'Math en 3D",
-   "points": [
-    "Foire : peluches, friandises, tenues et coiffes au Comptoir des lots",
-    "Colis : un objet personnel jeté (tenue de départ…) revient dans la boîte aux lettres (onglet Colis, 30 jours)",
-    "Meubles qui rangent : tonneau, coffre de voyage, commode, armoire, coffre royal, coffret à bijoux, caisse de poissons",
-    "Le grand trône d'améthyste (on s'y assoit) et l'arche runique agrandie (on passe dessous)",
-    "Grande carte : en dézoomant, tout ce qui a été découvert, sans bande noire",
-    "Maison des Apparences : une apparence pour toute la tenue d'un coup",
-    "Le mod sait afficher les boss modelés dans Blender : Gor'Math en 3D lisse, avec ses vraies animations"
-   ]
-  },
-  {
-   "version": "0.1.26",
-   "date": "9 novembre 2026",
-   "titre": "La tour des mages, la Faille des Géants et les tremplins",
-   "points": [
-    "La Salle des Portails : une tour des mages ronde, son escalier en colimaçon monte au grand portail rond et descend à la Forge-Profonde",
-    "Le portail mène à la Faille des Géants, sous la montagne du château : les deux géants et les portails Survie, Ressources, Arènes et Repaires",
-    "Des tremplins dorés : on marche dessus et on vole jusqu'au bout de la salle, sans se faire mal",
-    "Transmogrification : un onglet « Coiffes » pour les apparences de tête"
-   ]
-  },
-  {
-   "version": "0.1.25",
-   "date": "9 novembre 2026",
-   "titre": "La Foire de Valombre, l'artisanat sur commande, les packs de textures",
-   "points": [
-    "La Foire de Valombre : chaque mois du 1er au 7, dans son propre monde (Mirabelle sur la Grand-Place, ou /foire) : Boulet humain, Pas de tir, Tape-zombies, Grande Roue et Parcours des Saltimbanques",
-    "Des tickets gagnés en jouant et 3 quêtes du jour ; le Comptoir des lots : titres, familiers, montures et aura, à prix fixe ; le haut fait « Roi de la Foire »",
-    "Grand Tableau : les commandes d'artisanat (onglet Artisanat) : déposez les ingrédients et le paiement, un artisan du métier fabrique l'objet",
-    "Launcher : un onglet Textures, des packs gratuits en un clic et votre propre pack (.zip) ; les objets et menus d'AMETWICH restent les mêmes",
-    "Anti-triche : les packs et mods X-ray sont refusés, et les minerais cachés dans la roche ne sont plus envoyés au jeu",
-    "Litematica : la pose assistée (Easy Place) seulement en mode Atelier ; le plan, la liste des matériaux et la vérification partout",
-    "Mode modérateur : casser un bloc d'un coup, le vanish dans la barre, et en sortant revenir à sa place ou rester là",
-    "Valombre : la salle du trône rangée, les gardes bien placés, la statue du champion debout sur son socle"
-   ]
-  },
-  {
-   "version": "0.1.24",
-   "date": "8 novembre 2026",
-   "titre": "Fêtes médiévales, mods et shaders à la carte",
-   "points": [
-    "Les fêtes de saison deviennent des fêtes de village : Semailles, Feux de la Saint-Jean, Moissons, Veillée des Givres (titres et compagnons déjà gagnés conservés)",
-    "Launcher : un onglet Mods (Litematica sans printer, MiniHUD, Mod Menu, Zoomify, AppleSkin…) et « Ajouter mon shader » dans l'onglet Shaders",
-    "Litematica s'ouvre avec la touche N : M reste la carte AMETWICH",
-    "La grande carte et la minicarte fonctionnent dans le Nether (le sol de la caverne où vous marchez)",
-    "/tpa et /tpahere marchent aussi dans le Nether et l'End, de la Survie comme du monde Ressources",
-    "Métiers de récolte : tous les minerais (fer, or, redstone, lapis, quartz, diamant…) donnent de l'XP dès le niveau 1",
-    "Téléportation : une incantation de 5 secondes, un cercle de runes à la couleur de la destination et la caméra qui recule",
-    "Valombre : le logo AMETWICH sur le château, des champs et une allée de chênes devant la porte sud, la campagne tout autour"
-   ]
-  },
-  {
-   "version": "0.1.23",
-   "date": "8 novembre 2026",
-   "titre": "La nouvelle Valombre",
-   "points": [
-    "La nouvelle Valombre : cité ronde, château sur sa falaise, 14 quartiers, tous les habitants à leur place",
-    "/tpa et /tpahere : demander à rejoindre un joueur, qui accepte ou refuse d'un clic",
-    "Groupes : vos coéquipiers en points bleus sur la minicarte, la grande carte et la boussole",
-    "Maîtres de métier : une fenêtre d'accueil (apprendre, recettes, revente, boutique) ; les maîtres artisans rachètent les objets courants de leur métier",
-    "Territoires : les membres ajoutés voient le territoire, ses limites, et peuvent le quitter ; nombreuses corrections, territoires de guilde compris",
-    "Staff : mode modérateur (/modo)"
-   ]
-  },
-  {
-   "version": "0.1.22",
-   "date": "7 novembre 2026",
-   "titre": "Un Échap plus clair",
-   "points": [
-    "Nouvel Échap : votre carte au centre (tête, pseudo, vos infos), « Mon aventure » à gauche, « Valombre & les autres » à droite ; les mêmes onglets qu'avant, sans menus à ouvrir",
-    "Deux nouveaux onglets : « Métiers » (niveaux, rangs, recettes) et « Quêtes » (Premiers Pas, Pacte des Trois Sceaux, quêtes de Garance, quêtes du jour)",
-    "La même fenêtre à toutes les tailles d'interface : plus rien ne se chevauche, en GUI Scale 1 comme en 4",
-    "Atelier : les noms des recettes en entier, et une bulle « Où le trouver » sur chaque ingrédient",
-    "Les longs textes des menus ne sont plus coupés"
-   ]
-  },
-  {
-   "version": "0.1.21",
-   "date": "7 novembre 2026",
-   "titre": "Armes bien tenues, Gardien du savoir",
-   "points": [
-    "Les armes 3D se tiennent comme l'épée du jeu : plus d'épée énorme ni penchée, à la première personne comme vue de l'extérieur",
-    "Hallebardes et bâtons restent droits, à hauteur d'épaule ; deux armes en main se répondent en miroir",
-    "Le Gardien du savoir (devant la chaumière d'arrivée) ouvre sa fenêtre : « Bienvenue à Valombre », les Premiers Pas d'un clic, puis la grande quête, les tutos et le chemin jusqu'à Garance (les rangs)",
-    "La forgeronne, le tavernier et le sergent Odon n'apparaissent plus en double"
-   ]
-  },
-  {
-   "version": "0.1.20",
-   "date": "6 novembre 2026",
-   "titre": "Atelier : le coût en XP plus clair",
-   "points": [
-    "Chaque fabrication de métier coûte des niveaux d'expérience (la barre verte)",
-    "Il en manque ? Le coût s'affiche maintenant en rouge : « Coûte 1 niveau d'XP : vous avez 0 niveau »",
-    "Un poste de travail qui ne s'ouvre pas (Créatif, mode Edit, territoire d'un autre joueur) le dit au lieu de ne rien faire"
-   ]
-  },
-  {
-   "version": "0.1.19",
-   "date": "6 novembre 2026",
-   "titre": "Repères, dernière mort et boussole GPS",
-   "points": [
-    "Boussole en haut de l'écran : N, E, S, O tournent avec le regard, la cible du GPS en or avec sa distance",
-    "Dernière mort marquée toute seule et suivie au GPS ; elle s'efface quand on y revient (pas en arène ni chez un boss)",
-    "Repères personnels : clic droit sur la grande carte, « + Repère ici » ou la touche B ; nom, couleur, icône, opacité de 0 à 100 %",
-    "Dans le monde, chaque repère flotte avec sa distance, son nom quand on le regarde",
-    "Grande carte (M) : boutons Minicarte, Boussole, Heure et Repères à l'écran, liste « Mes repères » à droite",
-    "La carte garde ce que vous avez exploré d'une connexion à l'autre",
-    "Les barres de boss passent sous la boussole"
-   ]
-  },
-  {
-   "version": "0.1.18",
-   "date": "5 novembre 2026",
-   "titre": "Le baluchon de l'Arrivant",
-   "points": [
-    "Chaque habitant reçoit une fois le baluchon de l'Arrivant, de la part du Gardien du savoir (les nouveaux, et ceux déjà venus)",
-    "La Tenue de l'Arrivant : 9 pièces de lin et de toile (capuche, mantelet, tunique, chemise, brassards, mitaines, ceinture de corde, braies, chausses)",
-    "Avec une hache et une pioche de pierre, 24 pains, 16 torches et un lit violet",
-    "La tenue est liée à son porteur, et son apparence rejoint la transmogrification",
-    "Sac trop plein ? Libérez 14 cases et tapez /baluchon",
-    "Échap › Progression : le livre des recettes de chaque métier, consultable partout"
-   ]
-  },
-  {
-   "version": "0.1.17",
-   "date": "4 novembre 2026",
-   "titre": "Retours des bêta-testeurs : arrivée, territoires, menus",
-   "points": [
-    "Nouvelle arrivée : vous vous réveillez dans une maison au bout de la Grand-Place, le Gardien du savoir devant la porte",
-    "Plus de tutoriel animé : le Gardien du savoir (« Quêtes & Tutos ») vous confie votre première quête, puis ouvre les Tutos",
-    "Le menu Échap est rangé en rubriques : Personnage, Chaque jour, Social, Monde, Aide (cliquez sur une rubrique pour la déplier)",
-    "Agrandir ou réduire son territoire : /claim debout dedans, puis un seul clic droit sur le nouveau coin (le coin opposé ne bouge pas)",
-    "Deux armes en main : le bras gauche frappe aussi dans le vide, et les autres joueurs voient le bon bras",
-    "Les recettes perdues sont bien plus rares (environ une toutes les deux heures), et les T4-T5 réservées aux artisans du métier",
-    "Grande carte (N) : de nouveaux lieux (votre maison, la statue du champion, les coffres, le Grand Tableau, la taverne…)",
-    "Correction : « Options… » depuis le menu principal ne fait plus planter le jeu"
-   ]
-  },
-  {
-   "version": "0.1.16",
-   "date": "4 novembre 2026",
-   "titre": "Valombre s'anime : conversations, marchands et potager",
-   "points": [
-    "Clic droit sur un habitant : une vraie conversation s'ouvre en bas de l'écran, avec des réponses et des questions au choix (clic, ou touches 1 à 9)",
-    "26 personnages, chacun avec son nom et son caractère : la cour du château, le marché, la Grand-Place, les passants, les gardes, le Sergent Odon",
-    "Ils se souviennent de vous, donnent des conseils et des rumeurs sur la ville, les peuples, la Fracture…",
-    "Gauvin le Tavernier : une histoire en 5 chapitres qui avance au fil de vos visites et du Pacte des Trois Sceaux, jusqu'au titre « l'Habitué de la Chope »",
-    "La taverne de la Chope sert bière, cidre et ragoût du veilleur (en Améthines) : attention, au 3e verre la salle tangue…",
-    "Bertrand le Crieur : demandez-lui le prix de la Gazette, achetez-la et lisez-la tout de suite",
-    "Les gardes répondent toujours à « Où se trouve… ? » avec leur traînée d'étincelles",
-    "Les marchands des Halles vendent enfin : « Qu'est-ce que vous vendez ? » ouvre leur étal (pain, fromages, épices, laine et teintures, graines…), achat d'un clic",
-    "Barnabé le colporteur déballe 4 objets différents chaque jour, et annonce ceux du lendemain",
-    "Le potager : 7 nouvelles cultures (tomate, poivron, aubergine, oignon, fraise, vigne, maïs) qui poussent en 4 étapes sur une terre labourée ; graines chez Tiphaine",
-    "Mûres, un clic droit les récolte : la plupart refleurissent, l'oignon et le maïs rendent leurs graines ; de l'XP d'Herboriste à chaque récolte",
-    "8 nouveaux plats de Cuisinier, chacun avec son effet : ratatouille de Valombre, gaspacho (résistance au feu), tarte aux fraises, jus de raisin (soin rapide)…"
-   ]
-  },
-  {
-   "version": "0.1.15",
-   "date": "4 novembre 2026",
-   "titre": "Une visite guidée plus douce pour les yeux",
-   "points": [
-    "Visite guidée : plus de clignotements ; la ville reste chargée tout autour de la caméra pendant les vols",
-    "Vols plus lents et plus doux au-dessus des toits",
-    "Quand la caméra traverse un mur, l'écran s'assombrit doucement au lieu de flasher",
-    "Les habitants de Valombre ne font plus d'allers-retours entre deux hauteurs",
-    "Launcher : plus de barre de défilement en bas du panneau de gauche"
-   ]
-  },
-  {
-   "version": "0.1.14",
-   "date": "3 novembre 2026",
-   "titre": "Le Pacte des Trois Sceaux et les caravanes",
-   "points": [
-    "La grande quête « Le Pacte des Trois Sceaux » (Échap › Quêtes) : reforgez les sceaux des nains, des elfes et d'Airain, puis affrontez le Gardien de la Fracture",
-    "Le Gardien de la Fracture, un chevalier brisé en 3D : armure d'ardoise fendue, cœur d'améthyste, éclats qui tournent autour de lui",
-    "Récompense : l'apparence « Armure du Chevalier brisé » pour la transmogrification (ardoise fendue, fissures d'améthyste, couronne de cristaux), 3 000 Améthines et le titre « Porte-Sceau »",
-    "Les caravanes du samedi (21 h) : escortez trois mules jusqu'au campement d'un peuple et repoussez les brigands ; /caravane pour rejoindre le départ",
-    "Nouveaux hauts faits : Diplomate des trois peuples, Convoyeur légendaire, Chercheur de savoirs, Chasseur d'ombres, Pêcheur de Lueurs… et de nouveaux titres",
-    "Trois hauts faits cachés à trouver par vous-mêmes…"
-   ]
-  },
-  {
-   "version": "0.1.13",
-   "date": "2 novembre 2026",
-   "titre": "Les Elfes du Bois-Pâle et le peuple d'Airain",
-   "points": [
-    "Monde Ressources : les Elfes du Bois-Pâle s'installent dans une forêt (Arbre-Mère, passerelles, sanctuaire de lune) ; ils se méfient des humains",
-    "Gagnez leur respect auprès d'Ithaëlle : replantez des arbres, rendez-leur service… mais abattez trop d'arbres près du bosquet et leurs archers tirent",
-    "Le peuple d'Airain : des automates bâtissent la cité-forteresse de Haute-Rouage dans les montagnes (porte à pistons, monte-charge, horloge)",
-    "Le Grand Horloger vous confie des travaux et vous recense : de Inconnu à Indispensable, avec le titre « Rouage d'honneur »",
-    "Elfes et automates en 3D : oreilles pointues, visages peints ; corps de laiton et d'horlogerie",
-    "Métiers : 70 % des recettes s'achètent chez le maître (deux fois moins cher), 30 % se découvrent : Eurêka en fabriquant, Recettes perdues dans le monde, recettes des peuples",
-    "L'atelier indique où trouver chaque recette qui vous manque",
-    "Le Négociant de Valombre rachète bois, pierre et minerais vanilla ; son prix baisse si tout le monde vend la même chose, et l'Hôtel des ventes refuse de vendre moins cher que lui",
-    "Moins de ralentissements quand un campement ou une Fracture apparaît dans le monde Ressources"
-   ]
-  },
-  {
-   "version": "0.1.12",
-   "date": "2 novembre 2026",
-   "titre": "Les nains de Roche-Cendre",
-   "points": [
-    "Monde Ressources : le clan de nains de Roche-Cendre s'installe tout seul sur une hauteur, et son campement grandit au fil des heures (forge, muraille et garde, mine, grande halle)",
-    "Les nains en 3D : barbes, casques à cornes, tabliers de forge, plus petits qu'un joueur",
-    "Clic droit sur Grimbald Barbe-de-Cendre : la fenêtre du clan, ses services du jour et des indices sur les lieux proches (failles de la Fracture, entrées d'expédition)",
-    "Chaque service rapporte des Améthines et une « Recette du clan » : une recette de métier à apprendre ou à vendre ; très rarement, un plan ancien",
-    "Une réputation auprès du clan, de Méfiance à Ami du clan (avec un titre) : plus elle monte, plus les recettes sont avancées",
-    "Le camp est à eux : qui y casse, pose un bloc ou frappe un nain est averti, puis repoussé par la garde"
-   ]
-  },
-  {
-   "version": "0.1.11",
-   "date": "1er novembre 2026",
-   "titre": "Les shaders en un clic",
-   "points": [
-    "Launcher : nouvel onglet « Shaders » avec six shaders gratuits, du plus léger au plus beau (MakeUp, Complementary, BSL, Photon, Bliss)",
-    "Un clic sur Installer : le launcher installe tout seul Iris, Sodium et le shader, sans passer par un autre site",
-    "Changer de shader, les couper ou les retirer d'un clic ; le dernier retiré enlève aussi Iris et Sodium",
-    "Dans le jeu, la touche O ouvre la liste des shaders",
-    "Photos des auteurs pour comparer les rendus avant de choisir",
-    "Correction : à la toute première installation, les réglages du jeu ne sont plus remis à zéro quand on installe un shader"
-   ]
-  },
-  {
-   "version": "0.1.10",
-   "date": "1er novembre 2026",
-   "titre": "Arènes, guildes et launcher",
-   "points": [
-    "Potions du guerrier I, II et III (Alchimiste) : en arène JcJ, les seules potions qui soignent, une seule par combat",
-    "En arène, les autres potions de soin sont sans effet ; force, vitesse et pommes dorées marchent toujours",
-    "Wiki (Échap › Astuces & Tutos) : un onglet Guildes et les recettes des Potions du guerrier",
-    "Monde Animation : le décor est protégé des visiteurs",
-    "Launcher : des flèches pour passer d'une actualité à l'autre"
-   ]
-  },
-  {
-   "version": "0.1.9",
-   "date": "1er novembre 2026",
-   "titre": "L'atelier des bâtisseurs",
-   "points": [
-    "Launcher : un bouton « Actualiser » pour chercher les mises à jour sans le fermer",
-    "Atelier compact : une colonne à droite de l'écran, le monde reste visible pendant la construction",
-    "Chaque ouvrage se montre en transparence avant d'être posé : Valider ou Annuler",
-    "Dans le monde : Entrée valide l'aperçu, Retour arrière l'annule (touches réglables)",
-    "Une nouvelle leçon « L'aperçu » dans l'onglet Apprendre de l'atelier"
-   ]
-  },
-  {
-   "version": "0.1.8",
-   "date": "1er novembre 2026",
-   "titre": "Banque de guilde, aperçus et corrections",
-   "points": [
-    "Banque de guilde : jusqu'à 4 coffres de 27 places, avec les droits de chaque coffre réglés par le chef",
-    "Tabard de guilde : un aperçu de vos armes dans Échap › Guilde",
-    "Maison des Apparences : un clic pour voir, « Valider » pour payer (prix affiché)",
-    "Chat : /g, /p et /w tapés depuis n'importe quel onglet arrivent dans le bon onglet",
-    "La vie de votre monture s'affiche au-dessus de la barre de faim",
-    "Grand Tableau : Échap ne le rouvre plus une fois fermé",
-    "Le coffre du jour porte son nom sur la Grand-Place",
-    "Menus : les longues phrases vont à la ligne ; image des plans au Codex",
-    "Bâtisseurs : l'atelier montre chaque ouvrage en transparence avant de le poser"
-   ]
-  },
-  {
-   "version": "0.1.7",
-   "date": "1er novembre 2026",
-   "titre": "Les mises à jour, avec votre accord",
-   "points": [
-    "Rien ne s'installe sans votre accord : le launcher demande « Mettre à jour » ou « Plus tard »",
-    "La même question pour le jeu, dans le launcher puis sur l'écran titre du jeu",
-    "Avec « Plus tard », vous jouez avec la version déjà installée (une version trop ancienne peut être refusée par le serveur)",
-    "Chaque fichier téléchargé est vérifié avant d'être installé"
-   ]
-  },
-  {
-   "version": "0.1.6",
-   "date": "1er novembre 2026",
-   "titre": "Perks au choix et mentions légales",
-   "points": [
-    "Perks : choisissez jusqu'à 3 perks actifs dans Échap › Mon chemin",
-    "Un message vous prévient quand vos perks se mettent en pause (arènes, repaires, expéditions, duels) et quand ils reprennent",
-    "Lune de sang : la Force I se met en pause dans le monde Ressources, pour des combats équitables",
-    "Le menu Échap du staff affiche tous ses onglets",
-    "« Serveur non officiel, non affilié à Mojang ni à Microsoft » dans le launcher et sur l'écran titre"
-   ]
-  },
-  {
-   "version": "0.1.5",
-   "date": "1er novembre 2026",
-   "titre": "Bibliothèque, armures d'antan et transparence",
-   "points": [
-    "Bibliothèque du lecteur (Ébéniste) : rangez jusqu'à 27 livres, les étagères se remplissent sous vos yeux",
-    "51 livres à découvrir et à restaurer au pinceau, dont les Chroniques d'Ametwich, Tome I",
-    "Armures d'apparence des civilisations, à trouver au hasard dans les coffres et les fouilles du monde Ressources : gladiateur, légionnaire romain, jarl viking, hoplite spartiate, samouraï, garde du pharaon",
-    "Transparence totale : la chance exacte de chaque objet du coffre de la boutique (Boutique › Toutes les chances, ou /chances)",
-    "Groupes façon MMORPG : cadres de vie des membres à l'écran, onglet Groupe du chat",
-    "Ascenseurs, labyrinthe vivant, réputation et chasseurs de primes, défis de la communauté, jardins alchimiques",
-    "Lune de sang : plus de voile rouge sur l'écran"
-   ]
-  },
-  {
-   "version": "0.1.4",
-   "date": "30 octobre 2026",
-   "titre": "Launcher, votes et échanges",
-   "points": [
-    "Launcher AMETWICH : connexion avec votre compte Microsoft, Jouer lance directement le jeu sur le serveur",
-    "Mises à jour automatiques du jeu à chaque lancement",
-    "Le jeu est réservé à AMETWICH : plus de Solo ni de Realms",
-    "Votes (/vote) : une clé par vote, l'heure de vos prochains votes, la VoteParty tous les 50 votes du serveur",
-    "Coffres des votes et du jour sur la Grand-Place, sur leur estrade, et qui s'ouvrent dans le bon sens",
-    "Contrat d'échange pour sécuriser les échanges entre joueurs (menu Échap › Échanges)",
-    "Transmogrification : épaules, cape, chemise, tabard, poignets, mains, taille, et les armures Minecraft à débloquer",
-    "Expéditions à trois difficultés, nouvelles énigmes et gardiens AMETWICH",
-    "La Fracture : un biome rare et dangereux dans le monde Ressources",
-    "Grande carte de Valombre (touche M) et minimap (touche Y), horloge, ping dans le TAB ; toutes les touches réglables dans Paramètres › AMETWICH",
-    "Tutoriel pas à pas de l'atelier pour les débutants",
-    "Les maîtres de métier restent toujours à leur comptoir, les apprentis travaillent plus calmement"
-   ]
-  },
-  {
-   "version": "0.1.3",
-   "date": "29 octobre 2026",
-   "titre": "Vitrines, Hall de guerre et émotes",
-   "points": [
-    "Vitrines de marchand : ouvrez votre propre boutique dans le monde Survie",
-    "Hall de guerre : le musée des armures et des armes de Valombre",
-    "Émotes : la roue sur G, 13 poses visibles par tous",
-    "Visite guidée revue, avec de nouveaux arrêts",
-    "Menu Échap › Valeurs : le prix minimum de chaque objet",
-    "Armes rééquilibrées : les légendaires au-dessus du T5"
-   ]
-  },
-  {
-   "version": "0.1.2",
-   "date": "28 octobre 2026",
-   "titre": "La Pêche aux Lueurs et les ensembles en relief",
-   "points": [
-    "La Pêche aux Lueurs : 200 poissons, 20 leurres, 5 cannes, combat à la tension, la Criée, le carnet et les records",
-    "80 meubles d'artisan à poser chez vous",
-    "Ensembles T1 à T5 et JcJ S1 à S5 redessinés en relief pour les quatre classes ; armes et boucliers en 3D",
-    "Fenêtre du personnage façon MMORPG : douze emplacements d'équipement",
-    "Masquer l'apparence d'une pièce d'armure",
-    "Ambidextre : une arme dans chaque main",
-    "Fêtes des saisons à la japonaise, avec leurs quêtes, titres et compagnons",
-    "Codex : créatures en 3D et photos des lieux ; menu Échap › Info Joueur",
-    "Mode photo et appareil photo",
-    "Structures à explorer dans le monde Ressources"
-   ]
-  },
-  {
-   "version": "0.1.1",
-   "date": "27 octobre 2026",
-   "titre": "La Citadelle de Valombre",
-   "points": [
-    "Une nouvelle Valombre : citadelle, ravin, pont-levis et château-cathédrale",
-    "La chaumière d'arrivée, le Hall d'Honneur, les faubourgs et le lac des pêcheurs",
-    "Les ateliers des 18 métiers refaits, avec leurs apprentis",
-    "La Forge-Profonde sous Valombre et la Salle des Portails",
-    "Le Grand Tableau public des contrats",
-    "Des habitants : Brunehaut la Forgeronne, Gauvin le Tavernier, le sergent Odon",
-    "La quête des Premiers pas pour bien commencer",
-    "Les redémarrages annoncés par les crieurs de la ville"
-   ]
-  },
-  {
-   "version": "0.1.0",
-   "date": "24 octobre 2026",
-   "titre": "Ouverture d'AMETWICH",
-   "points": [
-    "La cité de Valombre et ses habitants",
-    "18 métiers, l'hôtel des ventes, les guildes et les territoires",
-    "Trois boss maison, la Forge des Légendes, les arènes JcJ",
-    "Chat vocal et Amulette d'écho",
-    "Coffre du jour et statue du champion",
-    "Fenêtres, paramètres et menu principal aux couleurs d'AMETWICH"
-   ]
-  }
- ],
- "photos": [
-  {
-   "image": "photos/mine-brisefer.jpg",
-   "legende": "Brisefer, le Contremaître de la Mine des Faussaires"
-  },
-  {
-   "image": "photos/boss-vael-kor.jpg",
-   "legende": "Vael'Kor, le Paladin, en garde"
-  },
-  {
-   "image": "photos/boss-gor-math.jpg",
-   "legende": "Gor'Math lève sa hache"
-  },
-  {
-   "image": "photos/foire-peluches.jpg",
-   "legende": "Les peluches du Comptoir des lots de la Foire"
-  },
-  {
-   "image": "photos/grand-trone.jpg",
-   "legende": "Le grand trône d'améthyste"
-  },
-  {
-   "image": "photos/tour-des-mages.jpg",
-   "legende": "La tour des mages : la Salle des Portails de Valombre"
-  },
-  {
-   "image": "photos/faille-des-geants.jpg",
-   "legende": "La Faille des Géants, sous la montagne du château"
-  },
-  {
-   "image": "photos/foire-grande-roue.jpg",
-   "legende": "La Grande Roue de la Foire de Valombre"
-  },
-  {
-   "image": "photos/valombre-logo-chateau.jpg",
-   "legende": "Le château de Valombre et son logo AMETWICH"
-  },
-  {
-   "image": "photos/fete-des-moissons.jpg",
-   "legende": "La Fête des Moissons sur la Grand-Place"
-  },
-  {
-   "image": "photos/veillee-des-givres.jpg",
-   "legende": "La Veillée des Givres et son sapin aux chandelles"
-  },
-  {
-   "image": "photos/nouvelle-valombre-nuit.jpg",
-   "legende": "La cité ronde, la nuit"
-  }
- ],
- "bandeau_lien": "https://ametwich.fr/discord",
- "bandeau_bouton": "Rejoindre le Discord"
+  "bandeau": "Recrutement des bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour toutes les informations.",
+  "actualites": [
+    {
+      "titre": "Les boss changent de visage",
+      "date": "12 novembre 2026",
+      "image": "photos/boss-cubes-gor-math.jpg",
+      "texte": "Gor'Math, Vael'Kor, Nhar'Zul, les goules et le Gardien de la Fracture ont été redessinés en cubes façon Minecraft, peints à la main : mâchoires qui s'ouvrent, yeux qui brillent, auras de combat. Chacun peut désormais pratiquer deux métiers de récolte, les plats du cuisinier tiennent tout un combat de boss, un bateau de fer à quatre places navigue sur la lave, les archéologues ont leur tamis pour sortir des reliques des sédiments de fouille au bord de l'eau, les cosmétiques et les montures ont un nouveau menu à vignettes, le wiki passe en vignettes avec un onglet « Construction à la maison », ceux qui volent ont un petit nuage sous les pieds, et les expéditions parlent enfin sans textes qui flottent : crânes du danger, murmures et spectre du gardien."
+    },
+    {
+      "titre": "Les donjons de Valombre",
+      "date": "11 novembre 2026",
+      "image": "photos/mine-brisefer.jpg",
+      "texte": "Descendez dans les Catacombes de Valombre : dix étages de cryptes pleines de goules, une malédiction différente chaque semaine et un classement. Ou entrez à plusieurs dans la Mine des Faussaires, ses quatre chefs et son canon. Chaque groupe a désormais son propre donjon, et si vous êtes seul, « Chercher un groupe » vous réunit avec d'autres aventuriers. Douze hauts faits de donjon, le Secret du Labyrinthe et ses huit énigmes, et un bloc-notes rien qu'à vous dans l'Échap."
+    },
+    {
+      "titre": "Des boss qui prennent vie",
+      "date": "10 novembre 2026",
+      "image": "photos/boss-vael-kor.jpg",
+      "texte": "Gor'Math, Vael'Kor et Nhar'Zul ont été refaits dans Blender, avec de vraies animations : ils respirent, regardent autour d'eux, prennent leur élan avant de frapper… et ce coup-là, si vous le voyez venir, vous pouvez l'esquiver. Nhar'Zul, la Louve, montre désormais les crocs. Et dans votre inventaire, les effets en cours s'affichent avec le temps qui leur reste."
+    },
+    {
+      "titre": "Peluches, friandises et tenues de la Foire",
+      "date": "9 novembre 2026",
+      "image": "photos/foire-peluches.jpg",
+      "texte": "Le Comptoir des lots de la Foire s'enrichit : six peluches à poser chez vous, des friandises à croquer (barbe à papa, pomme d'amour, chouchous, gaufre, sucre d'orge), des tenues et des coiffes de saltimbanque pour la Maison des Apparences. Et à Valombre, le grand trône d'améthyste, des meubles qui rangent vos affaires et les colis : un objet personnel jeté revient dans votre boîte aux lettres."
+    },
+    {
+      "titre": "La tour des mages et la Faille des Géants",
+      "date": "9 novembre 2026",
+      "image": "photos/tour-des-mages.jpg",
+      "texte": "La Salle des Portails devient une tour des mages ronde au toit violet. Montez son escalier en colimaçon jusqu'au grand portail rond : il vous mène à la Faille des Géants, sous la montagne du château, où les deux géants veillent sur les portails du monde. Des tremplins dorés vous y font voler d'un bout à l'autre de la salle. Le même escalier descend à la Forge-Profonde."
+    },
+    {
+      "titre": "La Foire de Valombre arrive !",
+      "date": "9 novembre 2026",
+      "image": "photos/foire-de-valombre.jpg",
+      "texte": "Chaque mois, du 1er au 7, la foire plante ses tentes : volez au Boulet humain, visez au Pas de tir, tapez les zombies (pas les villageois !), faites un tour de Grande Roue et filez sur le Parcours des Saltimbanques. Gagnez des tickets et échangez-les au Comptoir des lots contre des titres, des familiers et des montures. Mirabelle, sur la Grand-Place, vous y mène."
+    },
+    {
+      "titre": "Recrutement des bêta-testeurs",
+      "date": "30 octobre 2026",
+      "image": "photos/nouvelle-valombre-nuit.jpg",
+      "texte": "AMETWICH cherche ses bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour les informations de recrutement."
+    },
+    {
+      "titre": "Les fêtes de Valombre deviennent médiévales",
+      "date": "8 novembre 2026",
+      "image": "photos/fete-des-moissons.jpg",
+      "texte": "Place aux fêtes de village : la Fête des Semailles au printemps (le mât de mai et ses rubans), les Feux de la Saint-Jean l'été, la Fête des Moissons à l'automne (le grand banquet de la Grand-Place) et la Veillée des Givres l'hiver (le sapin aux chandelles). Les titres et compagnons déjà gagnés restent à vous."
+    }
+  ],
+  "mises_a_jour": [
+    {
+      "version": "0.1.30",
+      "date": "12 novembre 2026",
+      "titre": "Les boss changent de visage, le bateau de fer, le tamis de l'archéologue et des menus tout neufs",
+      "points": [
+        "Gor'Math, Vael'Kor, Nhar'Zul, les goules et le Gardien de la Fracture redessinés en cubes façon Minecraft, peints à la main : mâchoires qui s'ouvrent, yeux lumineux, auras de combat",
+        "Deux métiers de récolte au lieu d'un : un métier d'atelier, deux de récolte, et la Cuisine pour tous",
+        "Les plats du cuisinier tiennent tout un combat : leurs bonus durent de 5 à 15 minutes pour les grands festins (dans les arènes, ils nourrissent sans bonus)",
+        "Deux grands bateaux à quatre places et à rames, à l'établi : le bateau de fer, qui navigue sur l'eau et sur la lave sans brûler, et la grande barque de bois, pour l'eau",
+        "Le tamis de l'archéologue : au bord de l'eau, tamisez la terre, le sable, le gravier, ou les sédiments rapportés des sites de fouille pour en sortir des reliques",
+        "Cosmétiques et montures : un nouveau menu à onglets et à vignettes, un clic pour porter, appeler ou changer de forme",
+        "Hauts faits et titres en vignettes : ceux que vous avez en or, une barre de progression, ceux à gagner en gris",
+        "Expéditions : plus de textes qui flottent ni qui passent dans les murs. Les crânes de l'arche disent le danger, le nom du lieu s'affiche à l'entrée, une voix murmure les indices, et le spectre du gardien pose son énigme quand on lui parle",
+        "Dans les expéditions et au Labyrinthe, regardez un objet important : son nom s'écrit en bas de l'écran",
+        "Donjons pleins : une file d'attente, et une fenêtre « Entrer » ou « Refuser » quand une place se libère ; le temps restant est annoncé",
+        "Catacombes : plus de couloirs murés, et le vestibule vide expliqué à l'arrivée ; Mine des Faussaires : l'entrée des galeries n'est plus bouchée",
+        "Homes : une icône au choix, et une confirmation avant d'en oublier un",
+        "Le wiki (Échap › Astuces & Tutos) en vignettes : un clic sur une fiche l'ouvre en entier, « Fiche suivante » pour enchaîner",
+        "Nouvel onglet « Construction à la maison » : l'ascenseur, la boîte aux lettres et la Vitrine de marchand expliqués pas à pas",
+        "Le vol : un petit nuage blanc sous les pieds de ceux qui volent, et un bouton « S'envoler » dans Échap › Mon chemin",
+        "Échap › Astuces : les onglets « Progresser » disent, pour les 18 métiers, ce qui rapporte le plus d'expérience à votre niveau",
+        "Brigands recherchés : la prime est toujours payée, même après un redémarrage du serveur ; un brigand dont l'avis a expiré s'en va",
+        "Plus d'erreur en se reconnectant"
+      ]
+    },
+    {
+      "version": "0.1.29",
+      "date": "11 novembre 2026",
+      "titre": "Les Catacombes, la Mine des Faussaires et le Secret du Labyrinthe",
+      "points": [
+        "Les Catacombes de Valombre : 10 étages de cryptes peuplées de goules, une malédiction différente chaque semaine, un classement et le titre « Fléau des goules »",
+        "La Mine des Faussaires : un donjon de groupe (2 à 5) avec quatre chefs, un canon, et la Panoplie du Faussaire à gagner",
+        "Chaque groupe a son propre donjon (et son propre repaire de boss, sa propre arène) : plus d'attente",
+        "« Chercher un groupe » : seul, le jeu vous réunit avec d'autres aventuriers pour la Mine ou les Catacombes",
+        "12 hauts faits de donjon (Sans une égratignure, Coup de grisou, Sous la Nuée, Croque-mort…)",
+        "Le trésor du Labyrinthe chaque semaine, et le Secret du Labyrinthe : huit énigmes, un titre et une aura",
+        "La renommée auprès des nains, des elfes et d'Airain : compagnons, montures et titres de Légende",
+        "Échap › Bloc-notes : vos notes à vous, gardées sur le serveur",
+        "Les longues pages de l'Échap défilent aussi en attrapant leur barre à la souris",
+        "Vos clés de vote et vos clés du coffre s'affichent dans l'inventaire, à côté des Améthines",
+        "10 nouvelles peluches à la Foire, des outils T1 à T5 plus forts que la netherite, 16 jouets à la boutique (/farces pour refuser ceux des autres)",
+        "La Foire : Dame Pervenche se parle de devant son comptoir, et au Tape-zombies on touche aussi les trous du fond sans bouger",
+        "La visite guidée est retirée"
+      ]
+    },
+    {
+      "version": "0.1.28",
+      "date": "10 novembre 2026",
+      "titre": "Des boss vivants, les effets dans l'inventaire et l'Observatoire réparé",
+      "points": [
+        "Boss : Gor'Math, Vael'Kor, Nhar'Zul et le Gardien de la Fracture bougent comme des êtres vivants (respiration, balancement, élan avant chaque coup)",
+        "Le coup d'un boss part après son élan : on peut l'esquiver en voyant venir",
+        "Nhar'Zul est plus effrayante (crocs, crinière hérissée, yeux luisants) et souffle un air glacé",
+        "Inventaire : les effets en cours (poison, potions…) avec leur temps restant",
+        "Vol : partout dès le niveau requis, sauf dans les arènes, les repaires de boss et le premier jour d'un monde Ressources renouvelé",
+        "Les capes sont retirées du jeu : celles déjà possédées sont remboursées"
+      ]
+    },
+    {
+      "version": "0.1.27",
+      "date": "9 novembre 2026",
+      "titre": "Lots de la Foire, meubles qui rangent, grand trône et Gor'Math en 3D",
+      "points": [
+        "Foire : peluches, friandises, tenues et coiffes au Comptoir des lots",
+        "Colis : un objet personnel jeté (tenue de départ…) revient dans la boîte aux lettres (onglet Colis, 30 jours)",
+        "Meubles qui rangent : tonneau, coffre de voyage, commode, armoire, coffre royal, coffret à bijoux, caisse de poissons",
+        "Le grand trône d'améthyste (on s'y assoit) et l'arche runique agrandie (on passe dessous)",
+        "Grande carte : en dézoomant, tout ce qui a été découvert, sans bande noire",
+        "Maison des Apparences : une apparence pour toute la tenue d'un coup",
+        "Le mod sait afficher les boss modelés dans Blender : Gor'Math en 3D lisse, avec ses vraies animations"
+      ]
+    },
+    {
+      "version": "0.1.26",
+      "date": "9 novembre 2026",
+      "titre": "La tour des mages, la Faille des Géants et les tremplins",
+      "points": [
+        "La Salle des Portails : une tour des mages ronde, son escalier en colimaçon monte au grand portail rond et descend à la Forge-Profonde",
+        "Le portail mène à la Faille des Géants, sous la montagne du château : les deux géants et les portails Survie, Ressources, Arènes et Repaires",
+        "Des tremplins dorés : on marche dessus et on vole jusqu'au bout de la salle, sans se faire mal",
+        "Transmogrification : un onglet « Coiffes » pour les apparences de tête"
+      ]
+    },
+    {
+      "version": "0.1.25",
+      "date": "9 novembre 2026",
+      "titre": "La Foire de Valombre, l'artisanat sur commande, les packs de textures",
+      "points": [
+        "La Foire de Valombre : chaque mois du 1er au 7, dans son propre monde (Mirabelle sur la Grand-Place, ou /foire) : Boulet humain, Pas de tir, Tape-zombies, Grande Roue et Parcours des Saltimbanques",
+        "Des tickets gagnés en jouant et 3 quêtes du jour ; le Comptoir des lots : titres, familiers, montures et aura, à prix fixe ; le haut fait « Roi de la Foire »",
+        "Grand Tableau : les commandes d'artisanat (onglet Artisanat) : déposez les ingrédients et le paiement, un artisan du métier fabrique l'objet",
+        "Launcher : un onglet Textures, des packs gratuits en un clic et votre propre pack (.zip) ; les objets et menus d'AMETWICH restent les mêmes",
+        "Anti-triche : les packs et mods X-ray sont refusés, et les minerais cachés dans la roche ne sont plus envoyés au jeu",
+        "Litematica : la pose assistée (Easy Place) seulement en mode Atelier ; le plan, la liste des matériaux et la vérification partout",
+        "Mode modérateur : casser un bloc d'un coup, le vanish dans la barre, et en sortant revenir à sa place ou rester là",
+        "Valombre : la salle du trône rangée, les gardes bien placés, la statue du champion debout sur son socle"
+      ]
+    },
+    {
+      "version": "0.1.24",
+      "date": "8 novembre 2026",
+      "titre": "Fêtes médiévales, mods et shaders à la carte",
+      "points": [
+        "Les fêtes de saison deviennent des fêtes de village : Semailles, Feux de la Saint-Jean, Moissons, Veillée des Givres (titres et compagnons déjà gagnés conservés)",
+        "Launcher : un onglet Mods (Litematica sans printer, MiniHUD, Mod Menu, Zoomify, AppleSkin…) et « Ajouter mon shader » dans l'onglet Shaders",
+        "Litematica s'ouvre avec la touche N : M reste la carte AMETWICH",
+        "La grande carte et la minicarte fonctionnent dans le Nether (le sol de la caverne où vous marchez)",
+        "/tpa et /tpahere marchent aussi dans le Nether et l'End, de la Survie comme du monde Ressources",
+        "Métiers de récolte : tous les minerais (fer, or, redstone, lapis, quartz, diamant…) donnent de l'XP dès le niveau 1",
+        "Téléportation : une incantation de 5 secondes, un cercle de runes à la couleur de la destination et la caméra qui recule",
+        "Valombre : le logo AMETWICH sur le château, des champs et une allée de chênes devant la porte sud, la campagne tout autour"
+      ]
+    },
+    {
+      "version": "0.1.23",
+      "date": "8 novembre 2026",
+      "titre": "La nouvelle Valombre",
+      "points": [
+        "La nouvelle Valombre : cité ronde, château sur sa falaise, 14 quartiers, tous les habitants à leur place",
+        "/tpa et /tpahere : demander à rejoindre un joueur, qui accepte ou refuse d'un clic",
+        "Groupes : vos coéquipiers en points bleus sur la minicarte, la grande carte et la boussole",
+        "Maîtres de métier : une fenêtre d'accueil (apprendre, recettes, revente, boutique) ; les maîtres artisans rachètent les objets courants de leur métier",
+        "Territoires : les membres ajoutés voient le territoire, ses limites, et peuvent le quitter ; nombreuses corrections, territoires de guilde compris"
+      ]
+    },
+    {
+      "version": "0.1.22",
+      "date": "7 novembre 2026",
+      "titre": "Un Échap plus clair",
+      "points": [
+        "Nouvel Échap : votre carte au centre (tête, pseudo, vos infos), « Mon aventure » à gauche, « Valombre & les autres » à droite ; les mêmes onglets qu'avant, sans menus à ouvrir",
+        "Deux nouveaux onglets : « Métiers » (niveaux, rangs, recettes) et « Quêtes » (Premiers Pas, Pacte des Trois Sceaux, quêtes de Garance, quêtes du jour)",
+        "La même fenêtre à toutes les tailles d'interface : plus rien ne se chevauche, en GUI Scale 1 comme en 4",
+        "Atelier : les noms des recettes en entier, et une bulle « Où le trouver » sur chaque ingrédient",
+        "Les longs textes des menus ne sont plus coupés"
+      ]
+    },
+    {
+      "version": "0.1.21",
+      "date": "7 novembre 2026",
+      "titre": "Armes bien tenues, Gardien du savoir",
+      "points": [
+        "Les armes 3D se tiennent comme l'épée du jeu : plus d'épée énorme ni penchée, à la première personne comme vue de l'extérieur",
+        "Hallebardes et bâtons restent droits, à hauteur d'épaule ; deux armes en main se répondent en miroir",
+        "Le Gardien du savoir (devant la chaumière d'arrivée) ouvre sa fenêtre : « Bienvenue à Valombre », les Premiers Pas d'un clic, puis la grande quête, les tutos et le chemin jusqu'à Garance (les rangs)",
+        "La forgeronne, le tavernier et le sergent Odon n'apparaissent plus en double"
+      ]
+    },
+    {
+      "version": "0.1.20",
+      "date": "6 novembre 2026",
+      "titre": "Atelier : le coût en XP plus clair",
+      "points": [
+        "Chaque fabrication de métier coûte des niveaux d'expérience (la barre verte)",
+        "Il en manque ? Le coût s'affiche maintenant en rouge : « Coûte 1 niveau d'XP : vous avez 0 niveau »",
+        "Un poste de travail qui ne s'ouvre pas (Créatif, mode Edit, territoire d'un autre joueur) le dit au lieu de ne rien faire"
+      ]
+    },
+    {
+      "version": "0.1.19",
+      "date": "6 novembre 2026",
+      "titre": "Repères, dernière mort et boussole GPS",
+      "points": [
+        "Boussole en haut de l'écran : N, E, S, O tournent avec le regard, la cible du GPS en or avec sa distance",
+        "Dernière mort marquée toute seule et suivie au GPS ; elle s'efface quand on y revient (pas en arène ni chez un boss)",
+        "Repères personnels : clic droit sur la grande carte, « + Repère ici » ou la touche B ; nom, couleur, icône, opacité de 0 à 100 %",
+        "Dans le monde, chaque repère flotte avec sa distance, son nom quand on le regarde",
+        "Grande carte (M) : boutons Minicarte, Boussole, Heure et Repères à l'écran, liste « Mes repères » à droite",
+        "La carte garde ce que vous avez exploré d'une connexion à l'autre",
+        "Les barres de boss passent sous la boussole"
+      ]
+    },
+    {
+      "version": "0.1.18",
+      "date": "5 novembre 2026",
+      "titre": "Le baluchon de l'Arrivant",
+      "points": [
+        "Chaque habitant reçoit une fois le baluchon de l'Arrivant, de la part du Gardien du savoir (les nouveaux, et ceux déjà venus)",
+        "La Tenue de l'Arrivant : 9 pièces de lin et de toile (capuche, mantelet, tunique, chemise, brassards, mitaines, ceinture de corde, braies, chausses)",
+        "Avec une hache et une pioche de pierre, 24 pains, 16 torches et un lit violet",
+        "La tenue est liée à son porteur, et son apparence rejoint la transmogrification",
+        "Sac trop plein ? Libérez 14 cases et tapez /baluchon",
+        "Échap › Progression : le livre des recettes de chaque métier, consultable partout"
+      ]
+    },
+    {
+      "version": "0.1.17",
+      "date": "4 novembre 2026",
+      "titre": "Retours des bêta-testeurs : arrivée, territoires, menus",
+      "points": [
+        "Nouvelle arrivée : vous vous réveillez dans une maison au bout de la Grand-Place, le Gardien du savoir devant la porte",
+        "Plus de tutoriel animé : le Gardien du savoir (« Quêtes & Tutos ») vous confie votre première quête, puis ouvre les Tutos",
+        "Le menu Échap est rangé en rubriques : Personnage, Chaque jour, Social, Monde, Aide (cliquez sur une rubrique pour la déplier)",
+        "Agrandir ou réduire son territoire : /claim debout dedans, puis un seul clic droit sur le nouveau coin (le coin opposé ne bouge pas)",
+        "Deux armes en main : le bras gauche frappe aussi dans le vide, et les autres joueurs voient le bon bras",
+        "Les recettes perdues sont bien plus rares (environ une toutes les deux heures), et les T4-T5 réservées aux artisans du métier",
+        "Grande carte (N) : de nouveaux lieux (votre maison, la statue du champion, les coffres, le Grand Tableau, la taverne…)",
+        "Correction : « Options… » depuis le menu principal ne fait plus planter le jeu"
+      ]
+    },
+    {
+      "version": "0.1.16",
+      "date": "4 novembre 2026",
+      "titre": "Valombre s'anime : conversations, marchands et potager",
+      "points": [
+        "Clic droit sur un habitant : une vraie conversation s'ouvre en bas de l'écran, avec des réponses et des questions au choix (clic, ou touches 1 à 9)",
+        "26 personnages, chacun avec son nom et son caractère : la cour du château, le marché, la Grand-Place, les passants, les gardes, le Sergent Odon",
+        "Ils se souviennent de vous, donnent des conseils et des rumeurs sur la ville, les peuples, la Fracture…",
+        "Gauvin le Tavernier : une histoire en 5 chapitres qui avance au fil de vos visites et du Pacte des Trois Sceaux, jusqu'au titre « l'Habitué de la Chope »",
+        "La taverne de la Chope sert bière, cidre et ragoût du veilleur (en Améthines) : attention, au 3e verre la salle tangue…",
+        "Bertrand le Crieur : demandez-lui le prix de la Gazette, achetez-la et lisez-la tout de suite",
+        "Les gardes répondent toujours à « Où se trouve… ? » avec leur traînée d'étincelles",
+        "Les marchands des Halles vendent enfin : « Qu'est-ce que vous vendez ? » ouvre leur étal (pain, fromages, épices, laine et teintures, graines…), achat d'un clic",
+        "Barnabé le colporteur déballe 4 objets différents chaque jour, et annonce ceux du lendemain",
+        "Le potager : 7 nouvelles cultures (tomate, poivron, aubergine, oignon, fraise, vigne, maïs) qui poussent en 4 étapes sur une terre labourée ; graines chez Tiphaine",
+        "Mûres, un clic droit les récolte : la plupart refleurissent, l'oignon et le maïs rendent leurs graines ; de l'XP d'Herboriste à chaque récolte",
+        "8 nouveaux plats de Cuisinier, chacun avec son effet : ratatouille de Valombre, gaspacho (résistance au feu), tarte aux fraises, jus de raisin (soin rapide)…"
+      ]
+    },
+    {
+      "version": "0.1.15",
+      "date": "4 novembre 2026",
+      "titre": "Une visite guidée plus douce pour les yeux",
+      "points": [
+        "Visite guidée : plus de clignotements ; la ville reste chargée tout autour de la caméra pendant les vols",
+        "Vols plus lents et plus doux au-dessus des toits",
+        "Quand la caméra traverse un mur, l'écran s'assombrit doucement au lieu de flasher",
+        "Les habitants de Valombre ne font plus d'allers-retours entre deux hauteurs",
+        "Launcher : plus de barre de défilement en bas du panneau de gauche"
+      ]
+    },
+    {
+      "version": "0.1.14",
+      "date": "3 novembre 2026",
+      "titre": "Le Pacte des Trois Sceaux et les caravanes",
+      "points": [
+        "La grande quête « Le Pacte des Trois Sceaux » (Échap › Quêtes) : reforgez les sceaux des nains, des elfes et d'Airain, puis affrontez le Gardien de la Fracture",
+        "Le Gardien de la Fracture, un chevalier brisé en 3D : armure d'ardoise fendue, cœur d'améthyste, éclats qui tournent autour de lui",
+        "Récompense : l'apparence « Armure du Chevalier brisé » pour la transmogrification (ardoise fendue, fissures d'améthyste, couronne de cristaux), 3 000 Améthines et le titre « Porte-Sceau »",
+        "Les caravanes du samedi (21 h) : escortez trois mules jusqu'au campement d'un peuple et repoussez les brigands ; /caravane pour rejoindre le départ",
+        "Nouveaux hauts faits : Diplomate des trois peuples, Convoyeur légendaire, Chercheur de savoirs, Chasseur d'ombres, Pêcheur de Lueurs… et de nouveaux titres",
+        "Trois hauts faits cachés à trouver par vous-mêmes…"
+      ]
+    },
+    {
+      "version": "0.1.13",
+      "date": "2 novembre 2026",
+      "titre": "Les Elfes du Bois-Pâle et le peuple d'Airain",
+      "points": [
+        "Monde Ressources : les Elfes du Bois-Pâle s'installent dans une forêt (Arbre-Mère, passerelles, sanctuaire de lune) ; ils se méfient des humains",
+        "Gagnez leur respect auprès d'Ithaëlle : replantez des arbres, rendez-leur service… mais abattez trop d'arbres près du bosquet et leurs archers tirent",
+        "Le peuple d'Airain : des automates bâtissent la cité-forteresse de Haute-Rouage dans les montagnes (porte à pistons, monte-charge, horloge)",
+        "Le Grand Horloger vous confie des travaux et vous recense : de Inconnu à Indispensable, avec le titre « Rouage d'honneur »",
+        "Elfes et automates en 3D : oreilles pointues, visages peints ; corps de laiton et d'horlogerie",
+        "Métiers : 70 % des recettes s'achètent chez le maître (deux fois moins cher), 30 % se découvrent : Eurêka en fabriquant, Recettes perdues dans le monde, recettes des peuples",
+        "L'atelier indique où trouver chaque recette qui vous manque",
+        "Le Négociant de Valombre rachète bois, pierre et minerais vanilla ; son prix baisse si tout le monde vend la même chose, et l'Hôtel des ventes refuse de vendre moins cher que lui",
+        "Moins de ralentissements quand un campement ou une Fracture apparaît dans le monde Ressources"
+      ]
+    },
+    {
+      "version": "0.1.12",
+      "date": "2 novembre 2026",
+      "titre": "Les nains de Roche-Cendre",
+      "points": [
+        "Monde Ressources : le clan de nains de Roche-Cendre s'installe tout seul sur une hauteur, et son campement grandit au fil des heures (forge, muraille et garde, mine, grande halle)",
+        "Les nains en 3D : barbes, casques à cornes, tabliers de forge, plus petits qu'un joueur",
+        "Clic droit sur Grimbald Barbe-de-Cendre : la fenêtre du clan, ses services du jour et des indices sur les lieux proches (failles de la Fracture, entrées d'expédition)",
+        "Chaque service rapporte des Améthines et une « Recette du clan » : une recette de métier à apprendre ou à vendre ; très rarement, un plan ancien",
+        "Une réputation auprès du clan, de Méfiance à Ami du clan (avec un titre) : plus elle monte, plus les recettes sont avancées",
+        "Le camp est à eux : qui y casse, pose un bloc ou frappe un nain est averti, puis repoussé par la garde"
+      ]
+    },
+    {
+      "version": "0.1.11",
+      "date": "1er novembre 2026",
+      "titre": "Les shaders en un clic",
+      "points": [
+        "Launcher : nouvel onglet « Shaders » avec six shaders gratuits, du plus léger au plus beau (MakeUp, Complementary, BSL, Photon, Bliss)",
+        "Un clic sur Installer : le launcher installe tout seul Iris, Sodium et le shader, sans passer par un autre site",
+        "Changer de shader, les couper ou les retirer d'un clic ; le dernier retiré enlève aussi Iris et Sodium",
+        "Dans le jeu, la touche O ouvre la liste des shaders",
+        "Photos des auteurs pour comparer les rendus avant de choisir",
+        "Correction : à la toute première installation, les réglages du jeu ne sont plus remis à zéro quand on installe un shader"
+      ]
+    },
+    {
+      "version": "0.1.10",
+      "date": "1er novembre 2026",
+      "titre": "Arènes, guildes et launcher",
+      "points": [
+        "Potions du guerrier I, II et III (Alchimiste) : en arène JcJ, les seules potions qui soignent, une seule par combat",
+        "En arène, les autres potions de soin sont sans effet ; force, vitesse et pommes dorées marchent toujours",
+        "Wiki (Échap › Astuces & Tutos) : un onglet Guildes et les recettes des Potions du guerrier",
+        "Monde Animation : le décor est protégé des visiteurs",
+        "Launcher : des flèches pour passer d'une actualité à l'autre"
+      ]
+    },
+    {
+      "version": "0.1.9",
+      "date": "1er novembre 2026",
+      "titre": "L'atelier des bâtisseurs",
+      "points": [
+        "Launcher : un bouton « Actualiser » pour chercher les mises à jour sans le fermer",
+        "Atelier compact : une colonne à droite de l'écran, le monde reste visible pendant la construction",
+        "Chaque ouvrage se montre en transparence avant d'être posé : Valider ou Annuler",
+        "Dans le monde : Entrée valide l'aperçu, Retour arrière l'annule (touches réglables)",
+        "Une nouvelle leçon « L'aperçu » dans l'onglet Apprendre de l'atelier"
+      ]
+    },
+    {
+      "version": "0.1.8",
+      "date": "1er novembre 2026",
+      "titre": "Banque de guilde, aperçus et corrections",
+      "points": [
+        "Banque de guilde : jusqu'à 4 coffres de 27 places, avec les droits de chaque coffre réglés par le chef",
+        "Tabard de guilde : un aperçu de vos armes dans Échap › Guilde",
+        "Maison des Apparences : un clic pour voir, « Valider » pour payer (prix affiché)",
+        "Chat : /g, /p et /w tapés depuis n'importe quel onglet arrivent dans le bon onglet",
+        "La vie de votre monture s'affiche au-dessus de la barre de faim",
+        "Grand Tableau : Échap ne le rouvre plus une fois fermé",
+        "Le coffre du jour porte son nom sur la Grand-Place",
+        "Menus : les longues phrases vont à la ligne ; image des plans au Codex",
+        "Bâtisseurs : l'atelier montre chaque ouvrage en transparence avant de le poser"
+      ]
+    },
+    {
+      "version": "0.1.7",
+      "date": "1er novembre 2026",
+      "titre": "Les mises à jour, avec votre accord",
+      "points": [
+        "Rien ne s'installe sans votre accord : le launcher demande « Mettre à jour » ou « Plus tard »",
+        "La même question pour le jeu, dans le launcher puis sur l'écran titre du jeu",
+        "Avec « Plus tard », vous jouez avec la version déjà installée (une version trop ancienne peut être refusée par le serveur)",
+        "Chaque fichier téléchargé est vérifié avant d'être installé"
+      ]
+    },
+    {
+      "version": "0.1.6",
+      "date": "1er novembre 2026",
+      "titre": "Perks au choix et mentions légales",
+      "points": [
+        "Perks : choisissez jusqu'à 3 perks actifs dans Échap › Mon chemin",
+        "Un message vous prévient quand vos perks se mettent en pause (arènes, repaires, expéditions, duels) et quand ils reprennent",
+        "Lune de sang : la Force I se met en pause dans le monde Ressources, pour des combats équitables",
+        "« Serveur non officiel, non affilié à Mojang ni à Microsoft » dans le launcher et sur l'écran titre"
+      ]
+    },
+    {
+      "version": "0.1.5",
+      "date": "1er novembre 2026",
+      "titre": "Bibliothèque, armures d'antan et transparence",
+      "points": [
+        "Bibliothèque du lecteur (Ébéniste) : rangez jusqu'à 27 livres, les étagères se remplissent sous vos yeux",
+        "51 livres à découvrir et à restaurer au pinceau, dont les Chroniques d'Ametwich, Tome I",
+        "Armures d'apparence des civilisations, à trouver au hasard dans les coffres et les fouilles du monde Ressources : gladiateur, légionnaire romain, jarl viking, hoplite spartiate, samouraï, garde du pharaon",
+        "Transparence totale : la chance exacte de chaque objet du coffre de la boutique (Boutique › Toutes les chances, ou /chances)",
+        "Groupes façon MMORPG : cadres de vie des membres à l'écran, onglet Groupe du chat",
+        "Ascenseurs, labyrinthe vivant, réputation et chasseurs de primes, défis de la communauté, jardins alchimiques",
+        "Lune de sang : plus de voile rouge sur l'écran"
+      ]
+    },
+    {
+      "version": "0.1.4",
+      "date": "30 octobre 2026",
+      "titre": "Launcher, votes et échanges",
+      "points": [
+        "Launcher AMETWICH : connexion avec votre compte Microsoft, Jouer lance directement le jeu sur le serveur",
+        "Mises à jour automatiques du jeu à chaque lancement",
+        "Le jeu est réservé à AMETWICH : plus de Solo ni de Realms",
+        "Votes (/vote) : une clé par vote, l'heure de vos prochains votes, la VoteParty tous les 50 votes du serveur",
+        "Coffres des votes et du jour sur la Grand-Place, sur leur estrade, et qui s'ouvrent dans le bon sens",
+        "Contrat d'échange pour sécuriser les échanges entre joueurs (menu Échap › Échanges)",
+        "Transmogrification : épaules, cape, chemise, tabard, poignets, mains, taille, et les armures Minecraft à débloquer",
+        "Expéditions à trois difficultés, nouvelles énigmes et gardiens AMETWICH",
+        "La Fracture : un biome rare et dangereux dans le monde Ressources",
+        "Grande carte de Valombre (touche M) et minimap (touche Y), horloge, ping dans le TAB ; toutes les touches réglables dans Paramètres › AMETWICH",
+        "Tutoriel pas à pas de l'atelier pour les débutants",
+        "Les maîtres de métier restent toujours à leur comptoir, les apprentis travaillent plus calmement"
+      ]
+    },
+    {
+      "version": "0.1.3",
+      "date": "29 octobre 2026",
+      "titre": "Vitrines, Hall de guerre et émotes",
+      "points": [
+        "Vitrines de marchand : ouvrez votre propre boutique dans le monde Survie",
+        "Hall de guerre : le musée des armures et des armes de Valombre",
+        "Émotes : la roue sur G, 13 poses visibles par tous",
+        "Visite guidée revue, avec de nouveaux arrêts",
+        "Menu Échap › Valeurs : le prix minimum de chaque objet",
+        "Armes rééquilibrées : les légendaires au-dessus du T5"
+      ]
+    },
+    {
+      "version": "0.1.2",
+      "date": "28 octobre 2026",
+      "titre": "La Pêche aux Lueurs et les ensembles en relief",
+      "points": [
+        "La Pêche aux Lueurs : 200 poissons, 20 leurres, 5 cannes, combat à la tension, la Criée, le carnet et les records",
+        "80 meubles d'artisan à poser chez vous",
+        "Ensembles T1 à T5 et JcJ S1 à S5 redessinés en relief pour les quatre classes ; armes et boucliers en 3D",
+        "Fenêtre du personnage façon MMORPG : douze emplacements d'équipement",
+        "Masquer l'apparence d'une pièce d'armure",
+        "Ambidextre : une arme dans chaque main",
+        "Fêtes des saisons à la japonaise, avec leurs quêtes, titres et compagnons",
+        "Codex : créatures en 3D et photos des lieux ; menu Échap › Info Joueur",
+        "Mode photo et appareil photo",
+        "Structures à explorer dans le monde Ressources"
+      ]
+    },
+    {
+      "version": "0.1.1",
+      "date": "27 octobre 2026",
+      "titre": "La Citadelle de Valombre",
+      "points": [
+        "Une nouvelle Valombre : citadelle, ravin, pont-levis et château-cathédrale",
+        "La chaumière d'arrivée, le Hall d'Honneur, les faubourgs et le lac des pêcheurs",
+        "Les ateliers des 18 métiers refaits, avec leurs apprentis",
+        "La Forge-Profonde sous Valombre et la Salle des Portails",
+        "Le Grand Tableau public des contrats",
+        "Des habitants : Brunehaut la Forgeronne, Gauvin le Tavernier, le sergent Odon",
+        "La quête des Premiers pas pour bien commencer",
+        "Les redémarrages annoncés par les crieurs de la ville"
+      ]
+    },
+    {
+      "version": "0.1.0",
+      "date": "24 octobre 2026",
+      "titre": "Ouverture d'AMETWICH",
+      "points": [
+        "La cité de Valombre et ses habitants",
+        "18 métiers, l'hôtel des ventes, les guildes et les territoires",
+        "Trois boss maison, la Forge des Légendes, les arènes JcJ",
+        "Chat vocal et Amulette d'écho",
+        "Coffre du jour et statue du champion",
+        "Fenêtres, paramètres et menu principal aux couleurs d'AMETWICH"
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "image": "photos/boss-cubes-gor-math.jpg",
+      "legende": "Gor'Math en cubes, peint à la main, et ses guerriers"
+    },
+    {
+      "image": "photos/mine-brisefer.jpg",
+      "legende": "Brisefer, le Contremaître de la Mine des Faussaires"
+    },
+    {
+      "image": "photos/boss-vael-kor.jpg",
+      "legende": "Vael'Kor, le Paladin, en garde"
+    },
+    {
+      "image": "photos/boss-gor-math.jpg",
+      "legende": "Gor'Math lève sa hache"
+    },
+    {
+      "image": "photos/foire-peluches.jpg",
+      "legende": "Les peluches du Comptoir des lots de la Foire"
+    },
+    {
+      "image": "photos/grand-trone.jpg",
+      "legende": "Le grand trône d'améthyste"
+    },
+    {
+      "image": "photos/tour-des-mages.jpg",
+      "legende": "La tour des mages : la Salle des Portails de Valombre"
+    },
+    {
+      "image": "photos/faille-des-geants.jpg",
+      "legende": "La Faille des Géants, sous la montagne du château"
+    },
+    {
+      "image": "photos/foire-grande-roue.jpg",
+      "legende": "La Grande Roue de la Foire de Valombre"
+    },
+    {
+      "image": "photos/valombre-logo-chateau.jpg",
+      "legende": "Le château de Valombre et son logo AMETWICH"
+    },
+    {
+      "image": "photos/fete-des-moissons.jpg",
+      "legende": "La Fête des Moissons sur la Grand-Place"
+    },
+    {
+      "image": "photos/veillee-des-givres.jpg",
+      "legende": "La Veillée des Givres et son sapin aux chandelles"
+    }
+  ],
+  "bandeau_lien": "https://ametwich.fr/discord",
+  "bandeau_bouton": "Rejoindre le Discord"
 }
