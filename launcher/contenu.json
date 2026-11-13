@@ -52,6 +52,27 @@
   ],
   "mises_a_jour": [
     {
+      "version": "0.1.31",
+      "date": "12 novembre 2026",
+      "titre": "La calèche enchantée, 50 nouveaux cosmétiques et des ascenseurs dignes de ce nom",
+      "points": [
+        "La calèche enchantée : une calèche à capote tirée par un cheval spectral, un cocher et quatre passagers ; elle se fabrique chez l'Ingénieur",
+        "La Boutique AMETWICH s'agrandit : 50 nouveaux cosmétiques (auras en auréole, en cercle, en spirale ou en traces de pas, titres, compagnons, montures de terre, d'eau et des airs, caparaçons), rangés par onglets chez Mélisende",
+        "Votre monture peut marcher à côté de vous, comme un compagnon : Échap › Montures › « Ma monture marche à côté de moi », clic droit dessus pour monter",
+        "Liens dans le chat : écrivez [item] pour montrer l'objet que vous tenez (son nom, sa description au survol), ou [inventaire] pour un lien qui montre votre sac et votre équipement, sans que personne ne puisse rien prendre",
+        "Le Gardien du savoir ouvre bien vos quêtes et les tutos quand vous les lui demandez",
+        "Les goules des Catacombes ne sont plus invisibles",
+        "On ressort de l'eau du puits des Catacombes (et de tous les bassins des donjons)",
+        "Échap › Valeur des objets : la barre de défilement s'attrape à la souris",
+        "Les ascenseurs refaits : l'arche d'ascension, un vrai portail d'améthyste qu'on traverse pour changer d'étage, et la cabine à poulie, qui emmène tout le monde d'étage en étage, avec ses chaînes et un levier à chaque étage",
+        "Le wiki en images : la fiche « Construire un ascenseur » se lit en photos prises dans le jeu, une phrase sous chacune",
+        "La minicarte glisse en douceur quand on marche ou qu'on chevauche, au lieu d'avancer par à-coups",
+        "Les créatures animées (boss, goules…) bougent de façon fluide, même sur un serveur allumé depuis longtemps",
+        "En vol, une légère traînée de fumée de la couleur de votre choix (n'importe laquelle, au sélecteur) remplace le petit nuage (Échap › Mon chemin)",
+        "Votre nom en RGB : un vrai sélecteur de couleur et des dégradés jusqu'à 6 couleurs, avec un aperçu en grand avant de valider (Échap › Hauts faits › Nom & couleurs)"
+      ]
+    },
+    {
       "version": "0.1.30",
       "date": "12 novembre 2026",
       "titre": "Les boss changent de visage, le bateau de fer, le tamis de l'archéologue et des menus tout neufs",
