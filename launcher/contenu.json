@@ -2,6 +2,12 @@
   "bandeau": "Recrutement des bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour toutes les informations.",
   "actualites": [
     {
+      "titre": "Le carquois, la bourriche et la carabine naine",
+      "date": "14 novembre 2026",
+      "image": "photos/carabine-naine.jpg",
+      "texte": "La Bêta 1.12 arme les tireurs et les pêcheurs : la carabine naine de l'Ingénieur (cinq paliers, balles de plomb, de feu, de glace et électriques, sept enchantements), un carquois qui garde flèches et balles à part, une bourriche pour 32 poissons des Lueurs, 14 nouveaux hauts faits et un Pas de tir à la carabine à la Foire. Le Gardien du savoir répond désormais à vos questions, même mal écrites, la Gazette paraît chaque matin, et les caravanes du samedi partent trois fois : à 14 h, 18 h et 21 h."
+    },
+    {
       "titre": "Les boss changent de visage",
       "date": "12 novembre 2026",
       "image": "photos/boss-cubes-gor-math.jpg",
@@ -51,6 +57,27 @@
     }
   ],
   "mises_a_jour": [
+    {
+      "version": "0.1.32",
+      "date": "14 novembre 2026",
+      "titre": "Le carquois, la bourriche et la carabine naine",
+      "points": [
+        "Le carquois, fabriqué par l'Ingénieur : une place à lui à côté de vos sacs, 16 places pour les flèches et les balles. Arcs et arbalètes y puisent, les flèches ramassées y retournent toutes seules, et il garde tout à la mort ; un compteur de munitions s'affiche à côté de la barre d'objets",
+        "La bourriche, fabriquée par le Pêcheur au feu de camp : 32 poissons des Lueurs rangés hors de votre sac, les prises y vont directement, et Isaure les rachète à la Criée sans avoir à les sortir",
+        "La carabine naine, de la carabine de milice (niveau 10) à la carabine du maître d'armes (niveau 90) : elle s'arme comme un arc, tire dans un grand bruit et un nuage de fumée, et frappe un peu plus fort qu'un arc ou une arbalète. Épaulée quand on vise, à la hanche au repos",
+        "Les balles de l'Ingénieur : plomb, feu (enflamme), glace (ralentit et gèle) et électriques (un arc frappe deux ennemis proches)",
+        "Sept enchantements de carabine chez l'Enchanteur : Rechargement rapide, Charge lourde, Perforation, Poudre économe, Coup de crosse, Lunette de visée (on zoome en visant) et Marque du chasseur (la cible brille)",
+        "La calèche enchantée roule sans à-coups, le cocher et les passagers sont bien assis, et ses lanternes éclairent vraiment la route",
+        "14 nouveaux hauts faits pour les tireurs et les pêcheurs, et 5 titres à gagner (Échap › Hauts faits)",
+        "À la Foire, le Pas de tir se joue aussi à la carabine naine, avec une cible volante qui vaut 3 points",
+        "Une question ? Le Gardien du savoir vous répond : écrivez-lui ce que vous cherchez (« ascenseur », « armure T1 », « vendre mes poissons »…) et il vous ouvre la bonne page du wiki ou la bonne recette. Dans Échap › Astuces & Tutos, ou en écrivant « ? » suivi de votre question dans le chat. Pas besoin d'écrire sans faute : il comprend « vandre poison » ou « acsenseur »",
+        "Entre joueurs, les balles de feu, de glace et électriques frappent comme une balle de plomb : leurs effets ne valent que contre les créatures",
+        "Lecture douce : dans Paramètres › AMETWICH › Lecture, tous les textes blancs passent dans un gris clair plus reposant pour les yeux",
+        "La Gazette de Valombre paraît maintenant chaque matin : ce qui se passe aujourd'hui (Foire, fête, caravane, défi, Lune de sang, trésor, événements), les nouvelles d'hier et ce qui s'annonce. Toujours une Améthine la semaine chez Bertrand le Crieur",
+        "Les caravanes du samedi partent maintenant trois fois : à 14 h, 18 h et 21 h, chacune vers un peuple différent",
+        "Meubles : plus de murs invisibles autour des grands meubles (on passe enfin à côté du fourneau), ni de contour noir qui traînait dans l'air"
+      ]
+    },
     {
       "version": "0.1.31",
       "date": "12 novembre 2026",
@@ -513,6 +540,14 @@
     }
   ],
   "photos": [
+    {
+      "image": "photos/carabine-naine.jpg",
+      "legende": "La carabine naine, épaulée"
+    },
+    {
+      "image": "photos/gazette-du-jour.jpg",
+      "legende": "La Gazette de Valombre, une édition chaque matin"
+    },
     {
       "image": "photos/boss-cubes-gor-math.jpg",
       "legende": "Gor'Math en cubes, peint à la main, et ses guerriers"
