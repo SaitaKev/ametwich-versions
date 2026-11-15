@@ -1,6 +1,12 @@
 {
-  "bandeau": "Recrutement des bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour toutes les informations.",
+  "bandeau": "La bêta d'AMETWICH est ouverte à tous ! Lancez le jeu, rejoignez Valombre, et venez nous dire bonjour sur le Discord.",
   "actualites": [
+    {
+      "titre": "La bêta est ouverte à tous",
+      "date": "JOUR DE L'OUVERTURE",
+      "image": "photos/foire-de-valombre.jpg",
+      "texte": "Les portes de Valombre s'ouvrent : tout le monde peut désormais rejoindre la bêta d'AMETWICH. Dix-huit métiers, des donjons, la Foire, la pêche aux Lueurs, l'Hôtel des ventes et ses demandes d'achat… En ouvrant Échap, l'accueil vous propose quoi faire, et le Gardien du savoir répond à vos questions. Un souci ? « Signaler un problème », sur l'accueil, l'envoie à l'équipe en une phrase. Bienvenue, aventurier !"
+    },
     {
       "titre": "Un nouvel accueil et des demandes d'achat",
       "date": "15 novembre 2026",
