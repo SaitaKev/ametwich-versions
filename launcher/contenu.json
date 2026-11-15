@@ -76,6 +76,16 @@
   ],
   "mises_a_jour": [
     {
+      "version": "0.1.35",
+      "date": "16 novembre 2026",
+      "titre": "Correctifs : connexion, barre de vie, nénuphar",
+      "points": [
+        "Connexion Microsoft : le launcher se connecte à Minecraft de la même façon que le launcher officiel, ce qui règle un refus « 401 » rencontré par certains comptes.",
+        "Barre de vie : avec beaucoup de vie (armure T5 complète), le chiffre de l'armure ne recouvre plus celui de la vie, il passe juste au-dessus.",
+        "Le nénuphar et le frai de grenouille se posent de nouveau sur l'eau à la main."
+      ]
+    },
+    {
       "version": "0.1.34",
       "date": "15 novembre 2026",
       "titre": "Table d'enchantement, Eurêka et boutiques des maîtres",
