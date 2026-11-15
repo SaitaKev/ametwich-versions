@@ -82,7 +82,8 @@
         "Hôtel des ventes, onglet « Demandes » : posez une demande d'achat (combien, à quel prix la pièce), l'argent est mis de côté, et les autres joueurs vous vendent ce qu'ils ont, même une partie. Vous avez ce que quelqu'un demande ? « Vendre », et vous êtes payé tout de suite",
         "Deux façons de vendre : à prix fixe, sans durée, jusqu'au 1er du mois (les invendus reviennent dans « Récupérer ») ; ou aux enchères, 12, 24 ou 48 h",
         "La calèche enchantée : quand un deuxième joueur monte, il s'assoit à l'arrière ; seul le premier tient les rênes",
-        "Les salles englouties des expéditions sont retirées : les anciennes sont asséchées et deviennent des ruines au sec"
+        "Les salles englouties des expéditions sont retirées : les anciennes sont asséchées et deviennent des ruines au sec",
+        "Le launcher dit tout ce qu'il installe : onglet Aide, ou le lien « Que va-t-on installer ? » sous le bouton Installer (et comment tout retirer)."
       ]
     },
     {
