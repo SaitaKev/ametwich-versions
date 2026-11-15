@@ -2,6 +2,12 @@
   "bandeau": "Recrutement des bêta-testeurs ! Rendez-vous sur ametwich.fr, onglet « Rejoindre le Discord », pour toutes les informations.",
   "actualites": [
     {
+      "titre": "Un nouvel accueil et des demandes d'achat",
+      "date": "15 novembre 2026",
+      "image": "photos/accueil-que-faire.jpg",
+      "texte": "La Bêta 1.12.1 vous aide à choisir quoi faire : en ouvrant Échap, l'accueil vous propose trois idées faites pour vous (votre coffre du jour, vos quêtes, la caravane qui part bientôt, un métier presque au niveau suivant…) et la boussole vous y mène d'un clic. À l'Hôtel des ventes, posez une demande d'achat (« j'achète 200 lingots de fer à 4 pièce ») : les autres joueurs vous vendent ce qu'ils ont, même une partie. Les ventes à prix fixe n'ont plus de durée, les enchères gardent la leur, et un bouton « Signaler un problème » envoie un souci à l'équipe en une phrase."
+    },
+    {
       "titre": "Le carquois, la bourriche et la carabine naine",
       "date": "14 novembre 2026",
       "image": "photos/carabine-naine.jpg",
@@ -57,6 +63,22 @@
     }
   ],
   "mises_a_jour": [
+    {
+      "version": "0.1.33",
+      "date": "15 novembre 2026",
+      "titre": "Un nouvel accueil et des demandes d'achat",
+      "points": [
+        "Échap › Accueil, plus léger : trois idées « Que faire maintenant ? » faites pour vous, et un clic sur une idée à Valombre vous y mène (boussole en doré et sillage d'étincelles). « D'autres idées » en propose trois nouvelles",
+        "Pendant votre absence : une seule ligne en haut de l'accueil annonce vos ventes et les lettres qui vous attendent, seulement s'il s'est passé quelque chose",
+        "Vos statistiques sont rangées dans « Mes statistiques détaillées », en petits onglets : Temps, Argent, Aventure, Combats, Vie à Valombre",
+        "« Signaler un problème » sur l'accueil : décrivez un souci en une phrase, l'endroit et l'heure sont joints tout seuls, et vous voyez quand l'équipe l'a réglé",
+        "Les onglets d'Échap sont rangés en deux colonnes de même longueur",
+        "Hôtel des ventes, onglet « Demandes » : posez une demande d'achat (combien, à quel prix la pièce), l'argent est mis de côté, et les autres joueurs vous vendent ce qu'ils ont, même une partie. Vous avez ce que quelqu'un demande ? « Vendre », et vous êtes payé tout de suite",
+        "Deux façons de vendre : à prix fixe, sans durée, jusqu'au 1er du mois (les invendus reviennent dans « Récupérer ») ; ou aux enchères, 12, 24 ou 48 h",
+        "La calèche enchantée : quand un deuxième joueur monte, il s'assoit à l'arrière ; seul le premier tient les rênes",
+        "Les salles englouties des expéditions sont retirées : les anciennes sont asséchées et deviennent des ruines au sec"
+      ]
+    },
     {
       "version": "0.1.32",
       "date": "14 novembre 2026",
@@ -540,6 +562,14 @@
     }
   ],
   "photos": [
+    {
+      "image": "photos/accueil-que-faire.jpg",
+      "legende": "Échap › Accueil : que faire maintenant ?"
+    },
+    {
+      "image": "photos/hdv-demandes.jpg",
+      "legende": "Les demandes d'achat de l'Hôtel des ventes"
+    },
     {
       "image": "photos/carabine-naine.jpg",
       "legende": "La carabine naine, épaulée"
