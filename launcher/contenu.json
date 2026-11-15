@@ -2,6 +2,12 @@
   "bandeau": "La bêta d'AMETWICH est ouverte à tous ! Lancez le jeu, rejoignez Valombre, et venez nous dire bonjour sur le Discord.",
   "actualites": [
     {
+      "titre": "Eurêka, table d'enchantement et boutiques des maîtres",
+      "date": "15 novembre 2026",
+      "image": "photos/maitre-tanneur.jpg",
+      "texte": "Vos armures et vos armes AMETWICH passent enfin à la table d'enchantement. L'Eurêka devient clair : choisissez la recette à étudier chez votre maître, et une jauge vous montre où vous en êtes. Et chaque maître vend désormais ses fournitures à tout le monde, et montre ce que fabriquent ses artisans. Les villageois, eux, ne vous enverront plus de chasseurs de primes."
+    },
+    {
       "titre": "La bêta est ouverte à tous",
       "date": "15 novembre 2026",
       "image": "photos/foire-de-valombre.jpg",
@@ -70,6 +76,19 @@
   ],
   "mises_a_jour": [
     {
+      "version": "0.1.34",
+      "date": "15 novembre 2026",
+      "titre": "Table d'enchantement, Eurêka et boutiques des maîtres",
+      "points": [
+        "Les armures et les armes AMETWICH (T1 à T5, S1 à S5, légendaires…) s'enchantent maintenant à la table d'enchantement, comme celles en netherite. Les grimoires de l'Enchanteur ajoutent les niveaux plus forts et les enchantements d'AMETWICH ; les outils, carabines et bijoux restent à ses grimoires.",
+        "L'Eurêka, refait : chez votre maître, « Montrez-moi vos recettes », double-cliquez sur une recette à découvrir pour l'étudier. Chaque recette du métier que vous fabriquez fait avancer la jauge (vite avec les orange, moins avec les jaunes) ; à 100 %, la recette est à vous, à coup sûr.",
+        "Chez n'importe quel maître, même sans son métier : « Il me faut des fournitures » ouvre sa boutique, et « Que savez-vous fabriquer ? » montre toutes ses créations (à acheter aux artisans à l'Hôtel des ventes, ou à commander au Tableau des contrats).",
+        "Les villageois ne comptent plus dans la réputation : les frapper, ou ouvrir les coffres d'un village, n'envoie plus de chasseurs de primes. Les brigands recherchés et leurs primes restent.",
+        "Paramètres : en changeant une touche après une recherche, la touche ne s'écrit plus dans la barre de recherche.",
+        "Le launcher dit tout ce qu'il installe : onglet Aide, ou le lien « Que va-t-on installer ? » sous le bouton Installer."
+      ]
+    },
+    {
       "version": "0.1.33",
       "date": "15 novembre 2026",
       "titre": "Un nouvel accueil et des demandes d'achat",
@@ -82,8 +101,7 @@
         "Hôtel des ventes, onglet « Demandes » : posez une demande d'achat (combien, à quel prix la pièce), l'argent est mis de côté, et les autres joueurs vous vendent ce qu'ils ont, même une partie. Vous avez ce que quelqu'un demande ? « Vendre », et vous êtes payé tout de suite",
         "Deux façons de vendre : à prix fixe, sans durée, jusqu'au 1er du mois (les invendus reviennent dans « Récupérer ») ; ou aux enchères, 12, 24 ou 48 h",
         "La calèche enchantée : quand un deuxième joueur monte, il s'assoit à l'arrière ; seul le premier tient les rênes",
-        "Les salles englouties des expéditions sont retirées : les anciennes sont asséchées et deviennent des ruines au sec",
-        "Le launcher dit tout ce qu'il installe : onglet Aide, ou le lien « Que va-t-on installer ? » sous le bouton Installer (et comment tout retirer)."
+        "Les salles englouties des expéditions sont retirées : les anciennes sont asséchées et deviennent des ruines au sec"
       ]
     },
     {
