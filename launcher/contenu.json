@@ -76,6 +76,16 @@
   ],
   "mises_a_jour": [
     {
+      "version": "0.1.37",
+      "date": "16 novembre 2026",
+      "titre": "JEI, éclats dans l'inventaire, tri mieux rangé",
+      "points": [
+        "Launcher : JEI s'installe d'un clic dans l'onglet Mods. Touche R sur un objet pour voir comment le fabriquer, U pour voir à quoi il sert. Chaque métier AMETWICH a son onglet : vos recettes, et celles que votre maître vend. Les recettes à découvrir restent secrètes.",
+        "Vos Éclats de la boutique s'affichent dans l'Inventaire (touche E), à côté de vos Améthines ; vos clés sont juste en dessous.",
+        "Inventory Profiles Next : ses boutons de tri ne se posent plus au milieu de l'Inventaire AMETWICH, des sacs et des échanges, et il ne touche plus aux fenêtres à boutons (ateliers, ascenseurs, coffre de guilde…). Dans les coffres ordinaires, le tri marche comme avant."
+      ]
+    },
+    {
       "version": "0.1.36",
       "date": "16 novembre 2026",
       "titre": "Boucliers et armures redessinés, parrainage, tombe",
