@@ -76,6 +76,23 @@
   ],
   "mises_a_jour": [
     {
+      "version": "0.1.36",
+      "date": "16 novembre 2026",
+      "titre": "Boucliers et armures redessinés, parrainage, tombe",
+      "points": [
+        "Les 15 boucliers sont redessinés : chacun a son blason peint (planches et rouge écaillé, cristaux de Valombre, flocon de givre, crâne cornu aux yeux de braise, soleil d'améthyste, lauriers et glaives de l'arène…), un vrai rebord en relief et une icône lisible. Ils sont enfin bien tenus en main, comme le bouclier de Minecraft, et la parade a ses étincelles.",
+        "Toutes les armures sont repeintes, quatre fois plus finement : métal ombré, vraies mailles, cuir, étoffes, gemmes taillées. Chaque ensemble T1 à T5 et S1 à S5 porte son emblème, comme sur son bouclier ; les tenues des civilisations, des nains, des elfes, d'Airain et de la Foire gagnent aussi en finesse.",
+        "Parrainage (Échap › Parrainage) : un ami vous a fait venir ? Écrivez son pseudo pendant vos premières heures. Au rang 5, vous recevez 300 Améthines et une clé de vote, et votre parrain 500 Améthines et une clé de vote. Des titres pour les parrains à 1, 3, 5 et 10 filleuls.",
+        "Votre tombe : à votre mort, vos affaires restent dans une tombe gardée par un spectre, à l'endroit où vous êtes tombé. Elle n'est qu'à vous pendant 15 minutes.",
+        "Parchemins de l'eau, chez l'Enchanteur : le parchemin d'assèchement vide l'eau d'un coin de votre territoire, le parchemin de rivière la remet. Lancez-le pour l'utiliser.",
+        "La nuit passe quand un tiers des joueurs d'un monde dort.",
+        "« Où ai-je rangé… ? » (Échap › Territoires) : tapez le nom d'un objet, les coffres de vos territoires qui en contiennent brillent en doré.",
+        "Les objets liés (boucliers, armes…) se rangent maintenant dans vos coffres et tonneaux.",
+        "Rangs : les endermen comptent dès les premiers rangs, le Nether est complet (piglins, piglins zombifiés…), et les rangs 81 et 86 demandent les créatures de l'End (endermen, shulkers, endermites).",
+        "Launcher : Inventory Profiles Next (tri de l'inventaire) s'installe d'un clic dans l'onglet Mods."
+      ]
+    },
+    {
       "version": "0.1.35",
       "date": "16 novembre 2026",
       "titre": "Correctifs : connexion, barre de vie, nénuphar",
