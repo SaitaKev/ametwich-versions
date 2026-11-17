@@ -76,6 +76,17 @@
   ],
   "mises_a_jour": [
     {
+      "version": "0.1.38",
+      "date": "17 novembre 2026",
+      "titre": "Le Grimoire de quêtes, Raccommodage à l'enclume",
+      "points": [
+        "Le Grimoire de quêtes : Échap › Quêtes s'ouvre maintenant comme un vrai livre, sur deux pages. Toutes vos quêtes y sont rangées en chapitres : Chaque jour, Premiers pas, Les grandes quêtes, Les boss, Les donjons, Secrets et trésors, Réputation, Quêtes du monde. Tournez les pages avec les flèches en bas du livre, les flèches du clavier ou la molette ; un ruban par chapitre, sous le livre, vous y mène d'un clic.",
+        "Les quêtes du jour et de la semaine rejoignent le grimoire, au chapitre « Chaque jour » : l'Échap est plus simple.",
+        "À l'enclume (accroupi, clic droit), les livres enchantés marchent maintenant sur les armures et les armes AMETWICH, comme sur la netherite : Raccommodage, Protection, Tranchant… Les outils AMETWICH prennent le livre de Raccommodage.",
+        "En combat contre un autre joueur, l'effet des 4 pièces d'un ensemble (régénération du Templier, résistance du Rempart…) s'arrête pour les deux combattants, et revient 20 secondes après le dernier coup."
+      ]
+    },
+    {
       "version": "0.1.37",
       "date": "16 novembre 2026",
       "titre": "JEI, éclats dans l'inventaire, tri mieux rangé",
