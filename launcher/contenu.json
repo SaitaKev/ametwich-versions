@@ -76,6 +76,18 @@
   ],
   "mises_a_jour": [
     {
+      "version": "0.1.39",
+      "date": "20 novembre 2026",
+      "titre": "Carabine refaite, chasse au trésor, quêtes de Garance",
+      "points": [
+        "Carabine : un vrai coup de feu, plus fort, avec son écho qui roule au loin. Elle se tient maintenant à la hanche, près de vous, et s'épaule quand vous visez (clic droit tenu), le canon vers le viseur, sans cacher la cible.",
+        "Chasse au trésor du monde Ressources : le coffre est toujours enterré dans le sol, à 1 ou 2 blocs de profondeur, jamais dans un arbre. Deux indices de plus en plus précis arrivent (à 10 puis 20 minutes) ; le gain baisse à chaque indice : 1 500, 1 000, puis 600 Améthines.",
+        "Quêtes de boss de Garance : l'Orc demande maintenant 2 plaques d'acier sombre, le Paladin un totem d'immortalité : de quoi passer le rang 20 sans attendre un métier de haut niveau. Votre avancée est gardée.",
+        "Le Maître d'armes (Tancrède, les Lauriers des Arènes) a son icône d'épée sur la grande carte et la minicarte, et les gardes de Valombre savent vous y conduire.",
+        "Monde Ressources : à son prochain renouvellement (mercredi 2 décembre), il renaîtra avec un nouveau relief : grandes montagnes, falaises, vallées et larges rivières. Structures, peuples, Fracture et expéditions restent. Survie et Valombre ne changent pas."
+      ]
+    },
+    {
       "version": "0.1.38",
       "date": "17 novembre 2026",
       "titre": "Le Grimoire de quêtes, Raccommodage à l'enclume",
